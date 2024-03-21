@@ -1,0 +1,46 @@
+
+[notice] A new release of pip available: 22.3.1 -> 24.0
+[notice] To update, run: pip install --upgrade pip
+[I 2024-03-21 18:07:43.284 ServerApp] Extension package jupyter_lsp took 1.0082s to import
+[I 2024-03-21 18:07:43.703 ServerApp] Extension package jupyter_server_terminals took 0.4140s to import
+[I 2024-03-21 18:07:48.521 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-03-21 18:07:48.545 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-03-21 18:07:48.567 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-03-21 18:07:48.590 ServerApp] notebook | extension was successfully linked.
+[I 2024-03-21 18:07:59.613 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-03-21 18:08:01.032 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-03-21 18:08:01.040 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-03-21 18:08:01.060 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-03-21 18:08:01.491 LabApp] JupyterLab extension loaded from /home/alct/home/NLP/baseline/venv/lib/python3.10/site-packages/jupyterlab
+[I 2024-03-21 18:08:01.492 LabApp] JupyterLab application directory is /home/alct/home/NLP/baseline/venv/share/jupyter/lab
+[I 2024-03-21 18:08:01.501 LabApp] Extension Manager is 'pypi'.
+[I 2024-03-21 18:08:01.520 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-03-21 18:08:01.639 ServerApp] notebook | extension was successfully loaded.
+[I 2024-03-21 18:08:01.640 ServerApp] Serving notebooks from local directory: /home/alct/home/NLP/baseline
+[I 2024-03-21 18:08:01.640 ServerApp] Jupyter Server 2.13.0 is running at:
+[I 2024-03-21 18:08:01.640 ServerApp] http://desktop18:8163/tree?token=4ddf00d94b3597e92f2bfcc852bb5e84bac769cb64c65340
+[I 2024-03-21 18:08:01.640 ServerApp]     http://127.0.0.1:8163/tree?token=4ddf00d94b3597e92f2bfcc852bb5e84bac769cb64c65340
+[I 2024-03-21 18:08:01.640 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2024-03-21 18:08:01.913 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/alct/.local/share/jupyter/runtime/jpserver-32596-open.html
+    Or copy and paste one of these URLs:
+        http://desktop18:8163/tree?token=4ddf00d94b3597e92f2bfcc852bb5e84bac769cb64c65340
+        http://127.0.0.1:8163/tree?token=4ddf00d94b3597e92f2bfcc852bb5e84bac769cb64c65340
+[I 2024-03-21 18:08:02.783 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[W 2024-03-21 18:08:37.720 ServerApp] 404 GET /hub/api (@172.16.16.251) 742.23ms referer=None
+[I 2024-03-21 18:08:37.752 JupyterNotebookApp] 302 GET /tree? (@172.16.16.251) 0.80ms
+[W 2024-03-21 18:08:40.691 ServerApp] 404 GET /hub/api (@172.16.16.251) 1.96ms referer=None
+[I 2024-03-21 18:08:40.726 JupyterNotebookApp] 302 GET /tree? (@172.16.16.251) 0.75ms
+[W 2024-03-21 18:09:28.198 ServerApp] 404 GET /hub/api (@172.16.16.251) 46.41ms referer=None
+[I 2024-03-21 18:09:28.232 JupyterNotebookApp] 302 GET /tree? (@172.16.16.251) 0.75ms
+[I 2024-03-21 18:09:29.142 ServerApp] Kernel started: 12895a28-50a9-4a6a-9483-018fe6b23d90
+[I 2024-03-21 18:09:45.840 ServerApp] Connecting to kernel 12895a28-50a9-4a6a-9483-018fe6b23d90.
+[W 2024-03-21 18:09:47.505 ServerApp] 404 GET /nbextensions/jupyter-js-widgets/extension.js (@172.16.16.251) 5.07ms referer=None
+[W 2024-03-21 18:09:47.506 ServerApp] 404 GET /hub/api (@172.16.16.251) 0.91ms referer=None
+[I 2024-03-21 18:09:47.578 JupyterNotebookApp] 302 GET /tree? (@172.16.16.251) 0.52ms
+[W 2024-03-21 18:09:47.649 ServerApp] 404 GET /nbextensions/jupyter-js-widgets/extension.js (@172.16.16.251) 1.16ms referer=None
+[I 2024-03-21 18:27:32.287 ServerApp] Kernel interrupted: 12895a28-50a9-4a6a-9483-018fe6b23d90
+[I 2024-03-21 18:29:28.337 ServerApp] Kernel interrupted: 12895a28-50a9-4a6a-9483-018fe6b23d90
+slurmstepd: error: *** JOB 171442 ON desktop18 CANCELLED AT 2024-03-21T18:44:25 ***
