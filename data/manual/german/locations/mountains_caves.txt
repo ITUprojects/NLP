@@ -1,0 +1,173 @@
+Azuria-Höhle (Geheimdungeon)
+Digda-Höhle
+Felstunnel
+Mondberg
+Siegesstraße
+Tohjo-Fälle
+Unterführung (Route 5–6)
+Unterführung (Route 7–8)
+Eiskaskadenhöhle
+Glutberg
+Gluttherme
+Punktloch
+Tanibo-Schlüssel
+Verlorene Höhle
+Wandelhöhle
+Drachenhöhle
+Dunkelhöhle
+Einheitstunnel
+Eispfad
+Felsklippentor
+Felsschlundhöhle
+Kesselberg
+Silberberg
+Tohjo-Fälle
+Remoraid-Berge
+Feuriger Pfad
+Grabmal
+Granithöhle
+Höhlenatelier
+Inselhöhle
+Küstenhöhle
+Metaflurtunnel
+Meteorfälle
+Ozeanhöhle
+Pyroberg
+Schlotberg
+Siegelkammer
+Siegesstraße
+Sonnengrotte
+Steilpass
+Tiefseehöhle
+Terrahöhle
+Trainerberg
+Urzeithöhle
+Wandelhöhle
+Wunderturm
+Wüstenruine
+Wüstentunnel
+Nordosten Hoenns
+Nördlich von Moosbach City
+Nördlich von Seegrasulb City
+Östlich von Moosbach City
+Südlich von Route 129
+Südlich von Route 131
+Südosten Hoenns
+Westlich von Route 104
+Bizarre Höhle
+Eisberg-Ruinen
+Eisen-Ruinen
+Erzelingen-Mine
+Erzelingen-Tor
+Gipfelruinen
+Höhle der Umkehr
+Kahlberg
+Kraterberg
+Kühnheitsgrotte
+Maniac-Tunnel (Maniac-Höhle)
+Siegesstraße
+Stärkegrotte
+Trostu-Ruinen
+Verwüsteter Pfad
+Wahrheitsgrotte
+Geröllberge
+Alter Fluchtweg
+Beschwörungshöhle
+Eisbergkammer
+Eisenkammer
+Elektrolithhöhle
+Grundwassersenke
+Höhle der Schulung
+Janusberg
+Kammer der Prüfung
+Kammer der Weisung
+Panaero-Höhle
+Riesengrotte
+Siegesstraße
+Steingipfelkammer
+Strandgrotte
+Turner-Pfad
+Unterirdische Ruine
+Wendelberg
+Frosthöhle
+Geheimdungeon
+Geolinkhöhle
+Kammer der Leere
+Leuchthöhle
+Meerestitanenhöhle
+Omega-Höhle
+Siegesstraße
+Spiegelhöhle
+Berg der Anmut
+Lavadu-Berg
+Trester Berg
+Glühberg
+Hokulani-Berg
+Bambus-Berges
+Sternenfallberg
+Galar-Mine 1
+Galar-Mine 2
+Route-9-Tunnel
+Asarilla-Grotte
+Meeresbuchthöhle
+Montanata
+Kaltwasserkarst
+Oniyama
+Schreckenshöhle
+Frost
+Sekra-Bergkette
+Rotomurf-Bergwerk
+Glitzerberg
+Segensberg
+Berg der Prüfung
+Gefrorener Berg
+Berg der Steinbäume
+Sphärenberg
+Duellberg
+Wüstenberg
+Nördlich von Baumhausen City
+Nördlich von Laubwechselfeld
+Nördlich von Route 124
+Nördlich von Route 132
+Südlich von Floßbrunn
+Südlich von Route 107
+Südosten Hoenns
+Westlich von Metarost City
+
+Nördlich von Baumhausen City
+Nördlich von Laubwechselfeld
+Nördlich von Route 124
+Nördlich von Route 132
+Südlich von Floßbrunn
+Südlich von Route 107
+Südosten Hoenns
+Westlich von Metarost City
+
+Nordosten Hoenns
+Nördlich von Moosbach City
+Nördlich von Seegrasulb City
+Östlich von Moosbach City
+Südlich von Route 129
+Südlich von Route 131
+Südosten Hoenns
+Westlich von Route 104
+
+Geheimbasis
+Eiszapfengrotte
+Felsengrotte
+Flussufergrotte
+Funkelsterngrotte
+Gletschergrotte
+Glitzergrotte
+Glühsandgrotte
+Großgrotte
+Klippengrotte
+Lichtstrahlgrotte
+Magmagrotte
+Moorgrotte
+Schneesturmgrotte
+Sickersumpfgrotte
+Spiegelseegrotte
+Tornupto-Grotte
+Wasserlaufgrotte
+Wiesengrotte
