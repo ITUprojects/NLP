@@ -1,0 +1,859 @@
+レッド	reddo
+ゴールド	gōrudo
+クリス	kurisu
+ユウキ	yūki
+ハルカ	haruka
+リーフ	rīfu
+コウキ	kōki
+ヒカリ	hikari
+ヒビキ	hibiki
+コトネ	kotone
+トウヤ	tōya
+トウコ	tōko
+キョウヘイ	kyōhei
+メイ	mei
+カルム	karumu
+セレナ	se rena
+ヨウ	yō
+ミヅキ	mizuki
+カケル	kakeru
+アユミ	ayu mi
+マサル	masaru
+ユウリ	yūri
+ハルト	haruto
+アオイ	aoi
+グリーン	gurīn
+シルバー	shirubā
+ミツル	mitsuru
+ジュン	jun
+チェレン	cheren
+ベル	beru
+ヒュウ	hyū
+サナ	sana
+ティエルノ	tieruno
+トロバ	toroba
+ハウ	hau
+グラジオ	gurajio
+シン	shin
+ブルー	burū
+ホップ	hoppu
+ビート	bīto
+マリィ	marī
+クララ	kurara
+セイボリー	seiborī
+ネモ	nemo
+ヒカル	hikaru
+ミナキ	minaki
+モミ	momi
+ゲン	gen
+バク	baku
+ミル	miru
+マイ	mai
+バンジロウ	banjirō
+ジーナ	jīna
+デクシオ	dekushio
+AZ	AZ
+ヒガナ	higana
+リーリエ	rī rie
+リュウキ	ryūki
+ソッド	soddo
+シルディ	shirudi
+マスタード	masutādo
+ミツバ	mitsuba
+ピオニー	pionī
+シャクヤ	shakuya
+ペパー	pe pā
+ボタン	botan
+ゼイユ	zeiyu
+スグリ	suguri
+タロ	taro
+アカマツ	akamatsu
+ネリネ	nerine
+カキツバタ	kakitsubata
+サザレ	sazare
+オーキド博士	ōkido hakase
+ウツギ博士	utsugi hakase
+オダマキ博士	odamaki hakase
+ナナカマド博士	nanakamado hakase
+アララギ博士	araragi hakase
+プラターヌ博士	puratānu hakase
+ククイ博士	kukui hakase
+マグノリア博士	magunoria hakase
+オーリム博士	ō rimu hakase
+フトゥー博士	futū hakase
+フジろうじん	fuji rō jin
+ソライシ	soraishi
+フトマキ	futomaki
+マコモ	makomo
+アララギパパ	araragi papa
+バーネット博士	bā netto hakase
+ナリヤ・オーキド	nariya ōkido
+ソニア	sonia
+ウカッツ	ukattsu
+シンクロミ	shinkuro mi
+タケシ	takeshi
+カスミ	kasumi
+マチス	machisu
+エリカ	erika
+キョウ	kyō
+アンズ	anzu
+カツラ	katsura
+ナツメ	natsume
+サカキ	sakaki
+グリーン	gurīn
+ハヤト	hayato
+ツクシ	tsukushi
+アカネ	akane
+マツバ	matsuba
+シジマ	shijima
+ミカン	mikan
+ヤナギ	yanagi
+イブキ	ibuki
+ツツジ	tsutsuji
+トウキ	tōki
+テッセン	tessen
+アスナ	asuna
+センリ	senri
+ナギ	nagi
+フウとラン	fū to ran
+ミクリ	mi kuri
+アダン	adan
+ヒョウタ	hyōta
+ナタネ	natane
+スモモ	sumomo
+マキシ	makishi
+メリッサ	merissa
+トウガン	tōgan
+スズナ	suzuna
+デンジ	denji
+デント	dento
+ポッド	poddo
+コーン	kōn
+アロエ	aroe
+アーティ	āti
+カミツレ	kamitsure
+ヤーコン	yākon
+フウロ	fūro
+ハチク	hachiku
+シャガ	shaga
+アイリス	airisu
+チェレン	cheren
+ホミカ	ho mika
+シズイ	shizui
+ビオラ	biora
+ザクロ	zakuro
+コルニ	koruni
+フクジ	fukuji
+シトロン	shitoron
+マーシュ	māshu
+ゴジカ	gojika
+ウルップ	uruppu
+ヤロー	yarō
+ルリナ	rurina
+カブ	kabu
+サイトウ	sai tō
+オニオン	onion
+ポプラ	popura
+マクワ	makuwa
+メロン	meron
+ネズ	nezu
+キバナ	kibana
+カエデ	kaede
+コルサ	korusa
+ナンジャモ	nanjamo
+ハイダイ	haidai
+アオキ	aoki
+ライム	raimu
+リップ	rippu
+グルーシャ	gurūsha
+ハラ	hara
+ライチ	raichi
+クチナシ	kuchinashi
+ハプウ	hapū
+イリマ	irima
+スイレン	suiren
+カキ	kaki
+マオ	mao
+マーマネ	māmane
+アセロラ	aserora
+マツリカ	matsu rika
+カンナ	kanna
+シバ	shiba
+キクコ	kikuko
+ワタル	wataru
+グリーン	gurīn
+キョウ	kyō
+イツキ	itsuki
+カリン	karin
+シン	shin
+カゲツ	kagetsu
+フヨウ	fuyō
+プリム	purimu
+ゲンジ	genji
+ダイゴ	daigo
+ミクリ	mi kuri
+リョウ	ryō
+キクノ	kikuno
+オーバ	ōba
+ゴヨウ	goyō
+シロナ	shirona
+シキミ	shikimi
+ギーマ	gīma
+カトレア	katorea
+レンブ	renbu
+アデク	adeku
+アイリス	airisu
+パキラ	pakira
+ズミ	zumi
+ガンピ	ganpi
+ドラセナ	dorasena
+カルネ	karune
+ハラ	hara
+ライチ	raichi
+アセロラ	aserora
+カヒリ	kahiri
+マーレイン	mārein
+ダンデ	dan de
+チリ	chiri
+ポピー	popī
+アオキ	aoki
+ハッサク	hassaku
+オモダカ	omodaka
+ネモ	nemo
+リラ	rira
+アザミ	azami
+ウコン	ukon
+コゴミ	kogomi
+ヒース	hīsu
+ダツラ	datsura
+ジンダイ	jindai
+クロツグ	kurotsugu
+ネジキ	nejiki
+ケイト	keito
+コクラン	kokuran
+ダリア	daria
+ノボリ	nobori
+クダリ	kudari
+バンジロウ	banjirō
+ラジュルネ	rajurune
+ラニュイ	ranyui
+ルスワール	rusuwāru
+ルミタン	rumi tan
+サカキ	sakaki
+ロケットだんかんぶ	rokettoda n ka n bu
+アポロ	aporo
+アテナ	atena
+ラムダ	ramuda
+ランス	ransu
+ロケットだんのしたっぱ	rokettoda n no shitappa
+マツブサ	matsubusa
+マグマだんかんぶ	magumada n ka n bu
+ホムラ	homura
+カガリ	kagari
+マグマだんのしたっぱ	magumada n no shitappa
+アオギリ	aogiri
+アクアだんかんぶ	da n ka n bu
+ウシオ	ushio
+イズミ	izumi
+アクアだんのしたっぱ	da n no shitappa
+アカギ	akagi
+ギンガだんかんぶ	da n ka n bu
+マーズ	māzu
+ジュピター	jupitā
+サターン	satān
+プルート	purūto
+ギンガだんのしたっぱ	da n no shitappa
+N	N
+アクロマ	akuroma
+七賢人	nana kenjin
+ゲーチス	gēchisu
+ロット	rotto
+アスラ	asura
+ヴィオ	vio
+スムラ	sumura
+リョクシ	ryokushi
+ジャロ	ja ro
+ダークトリニティ	dākutoriniti
+プラズマだんのしたっぱ	purazumada n no shitappa
+フラダリ	fura dari
+アケビ	akebi
+コレア	korea
+バラ	bara
+モミジ	momiji
+クセロシキ	kuseroshiki
+フレアだんのしたっぱ	fureada n no shitappa
+フレアだんのかんぶ	fureada n no kan bu
+グズマ	guzuma
+プルメリ	purumeri
+スカルだんのしたっぱ	sukaruda n no shitappa
+ルザミーネ	ruzamīne
+ザオボー	zaobō
+ビッケ	bikke
+エーテルざいだんのしょくいん	ēteru zaidannoshokuin
+ダルス	darusu
+アマモ	amamo
+ミリン	mirin
+シオニラ	shionira
+ローズ	rōzu
+オリーヴ	orīvu
+メロコ	meroko
+ピーニャ	pīnya
+シュウメイ	shūmei
+オルティガ	orutiga
+ビワ	biwa
+ガンテツ	gan tetsu
+ちょうろう	chōrō
+ツワブキ	tsuwabuki
+クスノキ	kusunoki
+ツガ	tsuga
+ハギろうじん	hagi rō jin
+カゼノ	kaze no
+モナミ	monami
+エニシダ	enishida
+ウラヤマ	ura yama
+ナミキ	namiki
+バオバ	baoba
+コブシ	kobushi
+モーン	mōn
+ネア	nea
+マサキ	masaki
+マユミ	mayumi
+アズサ	azusa
+ニシキ	nishiki
+ミズキ	mizuki
+ユカリ	yukari
+ショウロ	shōro
+クロケア	kuro kea
+マーレイン	mārein
+クラベル	kura beru
+ジニア	jinia
+キハダ	kihada
+サワロ	sawa ro
+タイム	taimu
+セイジ	seiji
+レホール	re hōru
+ハッサク	hassaku
+ミモザ	mimoza
+シアノ	shiano
+ブライア	buraia
+ハンサム	hansamu
+リラ	rira
+ナナミ	nana mi
+アキホ	akiho
+ジョバンニ	jobanni
+クルミ	kurumi
+アオイ	aoi
+オクル	okuru
+チエ	chie
+曜日兄弟	yōbi kyōdai
+ゲンゾー	genzō
+キリ	kiri
+ギリー	girī
+ルチア	ruchia
+アヤコ	ayako
+ハマナ	hamana
+スージー	sūjī
+フミコ	fumiko
+マイスター	mai sutā
+サキ	saki
+パンジー	panjī
+ユリーカ	yurīka
+マチエール	machiēru
+コンコンブル	konkon buru
+ダンペイ	dan pei
+ハイド	haido
+チホコ	chihoko
+ヘザー	hezā
+イヌガヤ	inugaya
+ビリオ	birio
+おかあさん	okāsan
+ポケモン大好きクラブ会長	pokemon daisuki kurabu kaichō
+せいめいはんだんし	sei mei handa nshi
+わざおしえ人	waza oshiejin
+わざおしえマニア	waza oshie mania
+わすれオヤジ	wasure oyaji
+キズナおやじ	kizuna oyaji
+モノマネむすめ	monomane musu me
+ポケモンじいさん	pokemon jīsan
+おみとおしばあさん	o mitōshi bāsan
+しゃしんオヤジ	shashin oyaji
+トレジャーハンター	torejāhantā
+ケンコーばあさん	kenkō bāsan
+でし	deshi
+かせきマニア	kaseki mania
+きのみめいじん	ki nomi meijin
+ブレンドめいじん	burendo meijin
+カチヌキファミリー	kachinukifamirī
+カラクリだいおう	karakurida iō
+おんせんばあさん	on sen bāsan
+ミスター・グッズ	misutā guzzu
+ちかおじさん	chika ojisan
+ちかこうかんオヤジ	chika kōkan oyaji
+カメラおやじ	kamera oyaji
+ボールガイ	bōrugai
+デンボク	denboku
+シマボシ	shimaboshi
+ラベン博士	raben hakase
+テル	teru
+ショウ	shō
+キネ	kine
+ペリーラ	perī ra
+シュウゾウ	shūzō
+デンスケ	densuke
+サザンカ	sazanka
+ナバナ	nabana
+ハク	haku
+タオファ	tao fa
+ムベ	mube
+タイサイ	tai sai
+シャロン	sharon
+テッカン	tekkan
+ゲンゾウ	gen zō
+オハギ	ohagi
+ユラ	yura
+セキ	seki
+ヨネ	yone
+ヒナツ	hinatsu
+ススキ	susuki
+ツバキ	tsubaki
+ワサビ	wasabi
+カイ	kai
+キクイ	kikui
+ユウガオ	yūgao
+ガラナ	garana
+ハマレンゲ	hama renge
+ギンナン	ginnan
+ウォロ	woro
+オマツ	omatsu
+オタケ	otake
+オウメ	ōme
+コギト	kogito
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
