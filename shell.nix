@@ -9,7 +9,10 @@ in pkgs.mkShell {
       # select Python packages here
       python-pkgs.pandas
       python-pkgs.jupyter-core
+      python-pkgs.jupyter
       python-pkgs.ipykernel
+      python-pkgs.regex
+      python-pkgs.notebook
     ]))
   ];
 }
