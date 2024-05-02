@@ -15,19 +15,18 @@ Erik	Nico
 Erika	Erika	
 Mr. Fuji	M. Fuji
 Gideon	Gedeon	
-サカキ	Sakaki	Giovanni	Giovanni	Giovanni	Giovanni	Giovanni	비주기 Bijugi	阪木 / 坂木 Bǎnmù / Fáanmuhk
-ブルー	Blue	Green	Green	Grün	Verde	Verde	블루 Blue	碧藍 / 碧蓝 Bìlán / Bīklàahm
-すごいとっくん　ジジイ	Sugoi Tokkun Jijī	Mr. Hyper	Pépé Ultime	Super-Spezial-Opa	Nonno Pro	Don Extremo	대단한 특훈 할아버지
-Daedanhan Teukhun Hal-abeoji	極限特訓爺爺 / 极限特训爷爷 Jíxiàn Tèxùn Yéyé / Gihkhaahn Dahkfan Yèhyé
-コジロウ	Kojirō	James	James	James	James	James	로이 Roy	小次郎 Xiǎo Cìláng / Síu Chilòhng
-ムサシ	Musashi	Jessie	Jessie	Jessie	Jessie	Jessie	로사 Rosa	武藏 Wǔzàng / Móuhchòhng
-キョウ	Kyou	Koga	Koga	Koga	Koga	Koga	독수 Doksu	阿桔 Ā Jié / A Gāt
-タケノリ	Takenori	Koichi	Koichi	Junichi	Koichi	Koichi	무덕 Mudeok	武德 Wǔdé / Móuhdāk
-ワタル	Wataru	Lance	Peter	Siegfried	Lance	Lance	목호 Mokho	阿渡 Ā Dù / A Douh
-カンナ	Kanna	Lorelei	Olga	Lorelei	Lorelei	Lorelei	칸나 Kanna	科拿 Kēná / Fona
-マヨ	Mayo	Lostelle	Lostelle	Irrma	Lisetta	Pedrita		
-マツリカ	Matsurika	Mina	Oléa	Matsurika	Rika	Rika	말리화 Mallihwa	茉莉 Mòlì / Muhtléi
-カスミ	Kasumi	Misty	Ondine	Misty	Misty	Misty	이슬 Iseul	小霞 Xiǎo Xiá / Síu Hàh
+Giovanni	Giovanni
+Green	Green
+Mr. Hyper	Pépé Ultime
+James	James	
+Jessie	Jessie
+Koga	Koga
+Koichi	Koichi
+Lance	Peter
+Lorelei	Olga
+Lostelle	Lostelle
+Mina	Oléa
+Misty	Misty
 わすれオヤジFRLG
 わすれジイさんPE	Wasure OyajiFRLG
 Wasure JīsanPE	Move Deleter	Effaceur de Capacités	Attacken-Verlerner	EliminamosseFRLG
