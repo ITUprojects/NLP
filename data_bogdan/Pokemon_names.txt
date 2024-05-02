@@ -1,0 +1,1029 @@
+
+Deutsch	Englisch	Französisch	Japanisch	Koreanisch	Chinesisch (T / V)	Typ
+0001		Bisasam	Bulbasaur	Bulbizarre	フシギダネFushigidane	이상해씨Isanghessi	妙蛙種子 / 妙蛙种子Miàowāzhǒngzǐ	Pflanze Gift
+0002		Bisaknosp	Ivysaur	Herbizarre	フシギソウFushigisou	이상해풀Isanghepul	妙蛙草 / 妙蛙草Miàowācǎo	Pflanze Gift
+0003		Bisaflor	Venusaur	Florizarre	フシギバナFushigibana	이상해꽃Isanghekkot	妙蛙花 / 妙蛙花Miàowāhuā	Pflanze Gift
+0004		Glumanda	Charmander	Salamèche	ヒトカゲHitokage	파이리Fairit	小火龍 / 小火龙Xiǎohuǒlóng	Feuer
+0005		Glutexo	Charmeleon	Reptincel	リザードLizardo	리자드Rizard	火恐龍 / 火恐龙Huǒkǒnglóng	Feuer
+0006		Glurak	Charizard	Dracaufeu	リザードンLizardon	리자몽Rizamon	噴火龍 / 喷火龙Pēnhuǒlóng	Feuer Flug
+0007		Schiggy	Squirtle	Carapuce	ゼニガメZenigame	꼬부기Kkobugi	傑尼龜 / 杰尼龟Jiéníguī	Wasser
+0008		Schillok	Wartortle	Carabaffe	カメールKameil	어니부기Eonibugi	卡咪龜 / 卡咪龟Kǎmīguī	Wasser
+0009		Turtok	Blastoise	Tortank	カメックスKamex	거북왕Geobugwang	水箭龜 / 水箭龟Shuǐjiànguī	Wasser
+0010		Raupy	Caterpie	Chenipan	キャタピーCaterpie	캐터피Caterpie	綠毛蟲 / 绿毛虫Lǜmáochóng	Käfer
+0011		Safcon	Metapod	Chrysacier	トランセルTransel	단데기Tandegi	鐵甲蛹 / 铁甲蛹Tiějiǎyǒng	Käfer
+0012		Smettbo	Butterfree	Papilusion	バタフリーButterfree	버터플Butterfle	巴大蝶 / 巴大蝶Bādàdié	Käfer Flug
+0013		Hornliu	Weedle	Aspicot	ビードルBeedle	뿔충이Ppulchungi	獨角蟲 / 独角虫Dújiǎochóng	Käfer Gift
+0014		Kokuna	Kakuna	Coconfort	コクーンCocoon	딱충이Ttakchungi	鐵殼蛹 / 铁壳蛹Tiěkéyǒng	Käfer Gift
+0015		Bibor	Beedrill	Dardargnan	スピアーSpear	독침붕Tokchimbung	大針蜂 / 大针蜂Dàzhēnfēng	Käfer Gift
+0016		Taubsi	Pidgey	Roucool	ポッポPoppo	구구Gugu	波波 / 波波Bōbō	Normal Flug
+0017		Tauboga	Pidgeotto	Roucoups	ピジョンPigeon	피죤Pijon	比比鳥 / 比比鸟Bǐbǐniǎo	Normal Flug
+0018		Tauboss	Pidgeot	Roucarnage	ピジョットPigeot	피죤투Pijontoo	大比鳥 / 大比鸟Dàbǐniǎo	Normal Flug
+0019		Rattfratz	Rattata	Rattata	コラッタKoratta	꼬렛Koret	小拉達 / 小拉达Xiǎolādá	Normal
+0020		Rattikarl	Raticate	Rattatac	ラッタRatta	레트라Retra	拉達 / 拉达Lādá	Normal
+0021		Habitak	Spearow	Piafabec	オニスズメOnisuzume	깨비참Kebicham	烈雀 / 烈雀Lièquè	Normal Flug
+0022		Ibitak	Fearow	Rapasdepic	オニドリルOnidrill	깨비드릴조Kebidrillzo	大嘴雀 / 大嘴雀Dàzuǐquè	Normal Flug
+0023		Rettan	Ekans	Abo	アーボArbo	아보Abo	阿柏蛇 / 阿柏蛇Ābóshé	Gift
+0024		Arbok	Arbok	Arbok	アーボックArbok	아보크Abok	阿柏怪 / 阿柏怪Ābóguài	Gift
+0025		Pikachu	Pikachu	Pikachu	ピカチュウPikachu	피카츄Pikachu	皮卡丘 / 皮卡丘Píkǎqiū	Elektro
+0026		Raichu	Raichu	Raichu	ライチュウRaichu	라이츄Raichu	雷丘 / 雷丘Léiqiū	Elektro
+0027		Sandan	Sandshrew	Sabelette	サンドSand	모래두지Moreduji	穿山鼠 / 穿山鼠Chuānshānshǔ	Boden
+0028		Sandamer	Sandslash	Sablaireau	サンドパンSandpan	고지Koji	穿山王 / 穿山王Chuānshānwáng	Boden
+0029		Nidoran♀	Nidoran♀	Nidoran♀	ニドラン♀Nidoran♀	니드런♀Nidoran♀	尼多蘭 / 尼多兰Níduōlán	Gift
+0030		Nidorina	Nidorina	Nidorina	ニドリーナNidorina	니드리나Nidorina	尼多娜 / 尼多娜Níduōnà	Gift
+0031		Nidoqueen	Nidoqueen	Nidoqueen	ニドクインNidoqueen	니드퀸Nidoqueen	尼多后 / 尼多后Níduōhòu	Gift Boden
+0032		Nidoran♂	Nidoran♂	Nidoran♂	ニドラン♂Nidoran♂	니드런♂Nidoran♂	尼多朗 / 尼多朗Níduōláng	Gift
+0033		Nidorino	Nidorino	Nidorino	ニドリーノNidorino	니드리노Nidorino	尼多力諾 / 尼多力诺Níduōlìnuò	Gift
+0034		Nidoking	Nidoking	Nidoking	ニドキングNidoking	니드킹Nidoking	尼多王 / 尼多王Níduōwáng	Gift Boden
+0035		Piepi	Clefairy	Mélofée	ピッピPippi	삐삐Ppippi	皮皮 / 皮皮Pípí	Fee
+0036		Pixi	Clefable	Mélodelfe	ピクシーPixy	픽시Pixy	皮可西 / 皮可西Píkěxī	Fee
+0037		Vulpix	Vulpix	Goupix	ロコンRokon	식스테일Sixtail	六尾 / 六尾Liùwěi	Feuer
+0038		Vulnona	Ninetales	Feunard	キュウコンKyukon	나인테일Ninetail	九尾 / 九尾Jiǔwěi	Feuer
+0039		Pummeluff	Jigglypuff	Rondoudou	プリンPurin	푸린Purin	胖丁 / 胖丁Pàngdīng	Normal Fee
+0040		Knuddeluff	Wigglytuff	Grodoudou	プクリンPukurin	푸크린Pukurin	胖可丁 / 胖可丁Pàngkědīng	Normal Fee
+0041		Zubat	Zubat	Nosferapti	ズバットZubat	주뱃Zubat	超音蝠 / 超音蝠Chāoyīnfú	Gift Flug
+0042		Golbat	Golbat	Nosferalto	ゴルバットGolbat	골뱃Golbat	大嘴蝠 / 大嘴蝠Dàzuǐfú	Gift Flug
+0043		Myrapla	Oddish	Mystherbe	ナゾノクサNazonokusa	뚜벅쵸Ttubeogcho	走路草 / 走路草Zǒulùcǎo	Pflanze Gift
+0044		Duflor	Gloom	Ortide	クサイハナKusaihana	냄새꼬Naemsaeko	臭臭花 / 臭臭花Chòuchòuhuā	Pflanze Gift
+0045		Giflor	Vileplume	Rafflesia	ラフレシアRuffresia	라플레시아Raplresia	霸王花 / 霸王花Bàwánghuā	Pflanze Gift
+0046		Paras	Paras	Paras	パラスParas	파라스Paras	派拉斯 / 派拉斯Pàilāsī	Käfer Pflanze
+0047		Parasek	Parasect	Parasect	パラセクトParasect	파라섹트Parasect	派拉斯特 / 派拉斯特Pàilāsītè	Käfer Pflanze
+0048		Bluzuk	Venonat	Mimitoss	コンパンKongpang	콘팡Konpan	毛球 / 毛球Máoqiú	Käfer Gift
+0049		Omot	Venomoth	Aéromite	モルフォンMorphon	도나리Donari	摩魯蛾 / 摩鲁蛾Mólǔ'é	Käfer Gift
+0050		Digda	Diglett	Taupiqueur	ディグダDigda	디그다Digda	地鼠 / 地鼠Dìshǔ	Boden
+0051		Digdri	Dugtrio	Triopikeur	ダグトリオDugtrio	닥트리오Daktrio	三地鼠 / 三地鼠Sāndìshǔ	Boden
+0052		Mauzi	Meowth	Miaouss	ニャースNyarth	나옹Naong	喵喵 / 喵喵Miāomiāo	Normal
+0053		Snobilikat	Persian	Persian	ペルシアンPersian	페르시온Persion	貓老大 / 猫老大Māolǎodà	Normal
+0054		Enton	Psyduck	Psykokwak	コダックKoduck	고라파덕Gorapaduck	可達鴨 / 可达鸭Kědáyā	Wasser
+0055		Entoron	Golduck	Akwakwak	ゴルダックGolduck	골덕Golduck	哥達鴨 / 哥达鸭Gēdáyā	Wasser
+0056		Menki	Mankey	Férosinge	マンキーMankey	망키Mankey	猴怪 / 猴怪Hóuguài	Kampf
+0057		Rasaff	Primeape	Colossinge	オコリザルOkorizaru	성원숭Seongwonsung	火爆猴 / 火爆猴Huǒbàohóu	Kampf
+0058		Fukano	Growlithe	Caninos	ガーディGardie	가디Gadi	卡蒂狗 / 卡蒂狗Kǎdìgǒu	Feuer
+0059		Arkani	Arcanine	Arcanin	ウインディWindie	윈디Windi	風速狗 / 风速狗Fēngsùgǒu	Feuer
+0060		Quapsel	Poliwag	Ptitard	ニョロモNyoromo	발챙이Balchengi	蚊香蝌蚪 / 蚊香蝌蚪Wénxiāngkēdǒu	Wasser
+0061		Quaputzi	Poliwhirl	Têtarte	ニョロゾNyorozo	슈륙챙이Shuryukchengi	蚊香君 / 蚊香君Wénxiāngjūn	Wasser
+0062		Quappo	Poliwrath	Tartard	ニョロボンNyorobon	강챙이Gangchaengi	蚊香泳士 / 蚊香泳士Wénxiāngyǒngshì	Wasser Kampf
+0063		Abra	Abra	Abra	ケーシィCasey	캐이시Keisi	凱西 / 凯西Kǎixī	Psycho
+0064		Kadabra	Kadabra	Kadabra	ユンゲラーYungerer	윤겔라Yunghelar	勇基拉 / 勇基拉Yǒngjīlā	Psycho
+0065		Simsala	Alakazam	Alakazam	フーディンFoodin	후딘Fudin	胡地 / 胡地Húdì	Psycho
+0066		Machollo	Machop	Machoc	ワンリキーWanriky	알통몬Altongmon	腕力 / 腕力Wànlì	Kampf
+0067		Maschock	Machoke	Machopeur	ゴーリキーGoriky	근육몬Geunyukmon	豪力 / 豪力Háolì	Kampf
+0068		Machomei	Machamp	Mackogneur	カイリキーKairiky	괴력몬Goeryeokmon	怪力 / 怪力Guàilì	Kampf
+0069		Knofensa	Bellsprout	Chétiflor	マダツボミMadatsubomi	모다피Modapi	喇叭芽 / 喇叭芽Lǎbāyá	Pflanze Gift
+0070		Ultrigaria	Weepinbell	Boustiflor	ウツドンUtsudon	우츠동Uchudon	口呆花 / 口呆花Kǒudāihuā	Pflanze Gift
+0071		Sarzenia	Victreebel	Empiflor	ウツボットUtsubot	우츠보트Uchubot	大食花 / 大食花Dàshíhuā	Pflanze Gift
+0072		Tentacha	Tentacool	Tentacool	メノクラゲMenokurage	왕눈해Wangnunhe	瑪瑙水母 / 玛瑙水母Mǎnǎoshuǐmǔ	Wasser Gift
+0073		Tentoxa	Tentacruel	Tentacruel	ドククラゲDokukurage	독파리Tokpari	毒刺水母 / 毒刺水母Dúcìshuǐmǔ	Wasser Gift
+0074		Kleinstein	Geodude	Racaillou	イシツブテIsitsubute	꼬마돌Kkomadol	小拳石 / 小拳石Xiǎoquánshí	Gestein Boden
+0075		Georok	Graveler	Gravalanch	ゴローンGolone	데구리Deguri	隆隆石 / 隆隆石Lónglóngshí	Gestein Boden
+0076		Geowaz	Golem	Grolem	ゴローニャGolonya	딱구리Ttakguri	隆隆岩 / 隆隆岩Lónglóngyán	Gestein Boden
+0077		Ponita	Ponyta	Ponyta	ポニータPonyta	포니타Ponyta	小火馬 / 小火马Xiǎohuǒmǎ	Feuer
+0078		Gallopa	Rapidash	Galopa	ギャロップGallop	날쌩마Nalssengma	烈焰馬 / 烈焰马Lièyànmǎ	Feuer
+0079		Flegmon	Slowpoke	Ramoloss	ヤドンYadon	야돈Yadon	呆呆獸 / 呆呆兽Dāidāishòu	Wasser Psycho
+0080		Lahmus	Slowbro	Flagadoss	ヤドランYadoran	야도란Yadonran	呆殼獸 / 呆壳兽Dāikéshòu	Wasser Psycho
+0081		Magnetilo	Magnemite	Magnéti	コイルCoil	코일Koil	小磁怪 / 小磁怪Xiǎocíguài	Elektro Stahl
+0082		Magneton	Magneton	Magnéton	レアコイルRarecoil	레어코일Rarekoil	三合一磁怪 / 三合一磁怪Sānhéyīcíguài	Elektro Stahl
+0083		Porenta	Farfetch’d	Canarticho	カモネギKamonegi	파오리Paori	大蔥鴨 / 大葱鸭Dàcōngyā	Normal Flug
+0084		Dodu	Doduo	Doduo	ドードーDodo	두두Dudu	嘟嘟 / 嘟嘟Dūdū	Normal Flug
+0085		Dodri	Dodrio	Dodrio	ドードリオDodorio	두트리오Dutrio	嘟嘟利 / 嘟嘟利Dūdūlì	Normal Flug
+0086		Jurob	Seel	Otaria	パウワウPawou	쥬쥬Juju	小海獅 / 小海狮Xiǎohǎishī	Wasser
+0087		Jugong	Dewgong	Lamantine	ジュゴンJugon	쥬레곤Juregon	白海獅 / 白海狮Báihǎishī	Wasser Eis
+0088		Sleima	Grimer	Tadmorv	ベトベターBetbeter	질퍽이Jilpeogi	臭泥 / 臭泥Chòuní	Gift
+0089		Sleimok	Muk	Grotadmorv	ベトベトンBetbeton	질뻐기Jilppeogi	臭臭泥 / 臭臭泥Chòuchòuní	Gift
+0090		Muschas	Shellder	Kokiyas	シェルダーShellder	셀러Sellor	大舌貝 / 大舌贝Dàshébèi	Wasser
+0091		Austos	Cloyster	Crustabri	パルシェンParshen	파르셀Parsell	刺甲貝 / 刺甲贝Cìjiǎbèi	Wasser Eis
+0092		Nebulak	Gastly	Fantominus	ゴースGhos	고오스Goohs	鬼斯 / 鬼斯Guǐsī	Geist Gift
+0093		Alpollo	Haunter	Spectrum	ゴーストGhost	고우스트Goust	鬼斯通 / 鬼斯通Guǐsītōng	Geist Gift
+0094		Gengar	Gengar	Ectoplasma	ゲンガーGangar	팬텀Penteom	耿鬼 / 耿鬼Gěngguǐ	Geist Gift
+0095		Onix	Onix	Onix	イワークIwark	롱스톤Rongston	大岩蛇 / 大岩蛇Dàyánshé	Gestein Boden
+0096		Traumato	Drowzee	Soporifik	スリープSleepe	슬리프Sllip	催眠貘 / 催眠貘Cuīmiánmò	Psycho
+0097		Hypno	Hypno	Hypnomade	スリーパーSleeper	슬리퍼Slliper	引夢貘人 / 引梦貘人Yǐnmèngmòrén	Psycho
+0098		Krabby	Krabby	Krabby	クラブCrab	크랩Kreb	大鉗蟹 / 大钳蟹Dàqiánxiè	Wasser
+0099		Kingler	Kingler	Krabboss	キングラーKingler	킹크랩Kingkreb	巨鉗蟹 / 巨钳蟹Jùqiánxiè	Wasser
+0100		Voltobal	Voltorb	Voltorbe	ビリリダマBiriridama	찌리리공Zzililigong	霹靂電球 / 霹雳电球Pīlìdiànqiú	Elektro
+0101		Lektrobal	Electrode	Électrode	マルマインMarumine	붐볼Boomball	頑皮雷彈 / 顽皮雷弹Wánpíléidàn	Elektro
+0102		Owei	Exeggcute	Noeunoeuf	タマタマTamatama	아라리Arari	蛋蛋 / 蛋蛋Dàndàn	Pflanze Psycho
+0103		Kokowei	Exeggutor	Noadkoko	ナッシーNassy	나시Nasi	椰蛋樹 / 椰蛋树Yēdànshù	Pflanze Psycho
+0104		Tragosso	Cubone	Osselait	カラカラKarakara	탕구리Tangguri	卡拉卡拉 / 卡拉卡拉Kǎlākǎlā	Boden
+0105		Knogga	Marowak	Ossatueur	ガラガラGaragara	텅구리Teongguri	嘎啦嘎啦 / 嘎啦嘎啦Gālāgālā	Boden
+0106		Kicklee	Hitmonlee	Kicklee	サワムラーSawamular	시라소몬Sirasomon	飛腿郎 / 飞腿郎Fēituǐláng	Kampf
+0107		Nockchan	Hitmonchan	Tygnon	エビワラーEbiwalar	홍수몬Hongsoomon	快拳郎 / 快拳郎Kuàiquánláng	Kampf
+0108		Schlurp	Lickitung	Excelangue	ベロリンガBeroringa	내루미Nerumi	大舌頭 / 大舌头Dàshétóu	Normal
+0109		Smogon	Koffing	Smogo	ドガースDogars	또가스Ttogas	瓦斯彈 / 瓦斯弹Wǎsīdàn	Gift
+0110		Smogmog	Weezing	Smogogo	マタドガスMatadogas	또도가스Ttodogas	雙彈瓦斯 / 双弹瓦斯Shuāngdànwǎsī	Gift
+0111		Rihorn	Rhyhorn	Rhinocorne	サイホーンSihorn	뿔카노Ppulkano	獨角犀牛 / 独角犀牛Dújiǎoxīniú	Boden Gestein
+0112		Rizeros	Rhydon	Rhinoféros	サイドンSidon	코뿌리Koppuri	鑽角犀獸 / 钻角犀兽Zuānjiǎoxīshòu	Boden Gestein
+0113		Chaneira	Chansey	Leveinard	ラッキーLucky	럭키Lucki	吉利蛋 / 吉利蛋Jílìdàn	Normal
+0114		Tangela	Tangela	Saquedeneu	モンジャラMonjara	덩쿠리Deongkuri	蔓藤怪 / 蔓藤怪Mànténgguài	Pflanze
+0115		Kangama	Kangaskhan	Kangourex	ガルーラGarura	캥카Kengka	袋獸 / 袋兽Dàishòu	Normal
+0116		Seeper	Horsea	Hypotrempe	タッツーTattu	쏘드라Ssodra	墨海馬 / 墨海马Mòhǎimǎ	Wasser
+0117		Seemon	Seadra	Hypocéan	シードラSeadra	시드라Seadra	海刺龍 / 海刺龙Hǎicìlóng	Wasser
+0118		Goldini	Goldeen	Poissirène	トサキントTosakinto	콘치Konchi	角金魚 / 角金鱼Jiǎojīnyú	Wasser
+0119		Golking	Seaking	Poissoroy	アズマオウAzumao	왕콘치Wangkonchi	金魚王 / 金鱼王Jīnyúwáng	Wasser
+0120		Sterndu	Staryu	Stari	ヒトデマンHitodeman	별가사리Byulgasari	海星星 / 海星星Hǎixīngxīng	Wasser
+0121		Starmie	Starmie	Staross	スターミーStarmie	아쿠스타Akusta	寶石海星 / 宝石海星Bǎoshíhǎixīng	Wasser Psycho
+0122		Pantimos	Mr. Mime	M. Mime	バリヤードBarrierd	마임맨Maimman	魔牆人偶 / 魔墙人偶Móqiángrén'ǒu	Psycho Fee
+0123		Sichlor	Scyther	Insécateur	ストライクStrike	스라크Srak	飛天螳螂 / 飞天螳螂Fēitiāntángláng	Käfer Flug
+0124		Rossana	Jynx	Lippoutou	ルージュラRougela	루주라Rujura	迷唇姐 / 迷唇姐Míchúnjiě	Eis Psycho
+0125		Elektek	Electabuzz	Élektek	エレブーEleboo	에레브Elev	電擊獸 / 电击兽Diànjīshòu	Elektro
+0126		Magmar	Magmar	Magmar	ブーバーBoober	마그마Magmar	鴨嘴火獸 / 鸭嘴火兽Yāzuǐhuǒshòu	Feuer
+0127		Pinsir	Pinsir	Scarabrute	カイロスKailios	쁘사이저Ppeusaizeo	凱羅斯 / 凯罗斯Kǎiluósī	Käfer
+0128		Tauros	Tauros	Tauros	ケンタロスKentauros	켄타로스Kentaros	肯泰羅 / 肯泰罗Kěntàiluó	Normal
+0129		Karpador	Magikarp	Magicarpe	コイキングKoiking	잉어킹Ingeoking	鯉魚王 / 鲤鱼王Lǐyúwáng	Wasser
+0130		Garados	Gyarados	Léviator	ギャラドスGyarados	갸라도스Gyarados	暴鯉龍 / 暴鲤龙Bàolǐlóng	Wasser Flug
+0131		Lapras	Lapras	Lokhlass	ラプラスLaplace	라프라스Lapras	拉普拉斯 / 拉普拉斯Lāpǔlāsī	Wasser Eis
+0132		Ditto	Ditto	Métamorph	メタモンMetamon	메타몽Metamong	百變怪 / 百变怪Bǎibiànguài	Normal
+0133		Evoli	Eevee	Évoli	イーブイEievui	이브이Eevee	伊布 / 伊布Yībù	Normal
+0134		Aquana	Vaporeon	Aquali	シャワーズShowers	샤미드Shamid	水伊布 / 水伊布Shuǐyībù	Wasser
+0135		Blitza	Jolteon	Voltali	サンダースThunders	쥬피썬더Jupithunder	雷伊布 / 雷伊布Léiyībù	Elektro
+0136		Flamara	Flareon	Pyroli	ブースターBooster	부스터Booster	火伊布 / 火伊布Huǒyībù	Feuer
+0137		Porygon	Porygon	Porygon	ポリゴンPorygon	폴리곤Porygon	多邊獸 / 多边兽Duōbiānshòu	Normal
+0138		Amonitas	Omanyte	Amonita	オムナイトOmnite	암나이트Amnait	菊石獸 / 菊石兽Júshíshòu	Gestein Wasser
+0139		Amoroso	Omastar	Amonistar	オムスターOmstar	암스타Amsta	多刺菊石獸 / 多刺菊石兽Duōcìjúshíshòu	Gestein Wasser
+0140		Kabuto	Kabuto	Kabuto	カブトKabuto	투구Toogu	化石盔 / 化石盔Huàshíkuī	Gestein Wasser
+0141		Kabutops	Kabutops	Kabutops	カブトプスKabutops	투구푸스Tooguphus	鐮刀盔 / 镰刀盔Liándāokuī	Gestein Wasser
+0142		Aerodactyl	Aerodactyl	Ptéra	プテラPtera	프테라Ptera	化石翼龍 / 化石翼龙Huàshíyìlóng	Gestein Flug
+0143		Relaxo	Snorlax	Ronflex	カビゴンKabigon	잠만보Jammanbo	卡比獸 / 卡比兽Kǎbǐshòu	Normal
+0144		Arktos	Articuno	Artikodin	フリーザーFreezer	프리져Freeser	急凍鳥 / 急冻鸟Jídòngniǎo	Eis Flug
+0145		Zapdos	Zapdos	Électhor	サンダーThunder	썬더Sunder	閃電鳥 / 闪电鸟Shǎndiànniǎo	Elektro Flug
+0146		Lavados	Moltres	Sulfura	ファイヤーFire	파이어Faier	火焰鳥 / 火焰鸟Huǒyànniǎo	Feuer Flug
+0147		Dratini	Dratini	Minidraco	ミニリュウMiniryu	미뇽Minyong	迷你龍 / 迷你龙Mínǐlóng	Drache
+0148		Dragonir	Dragonair	Draco	ハクリューHakuryu	신뇽Sinnyong	哈克龍 / 哈克龙Hākèlóng	Drache
+0149		Dragoran	Dragonite	Dracolosse	カイリューKairyu	망나뇽Mangnanyong	快龍 / 快龙Kuàilóng	Drache Flug
+0150		Mewtu	Mewtwo	Mewtwo	ミュウツーMewtwo	뮤츠Mewtwo	超夢 / 超梦Chāomèng	Psycho
+0151		Mew	Mew	Mew	ミュウMew	뮤Mew	夢幻 / 梦幻Mènghuàn	Psycho
+0152		Endivie	Chikorita	Germignon	チコリータChikorita	치코리타Chikorita	菊草葉 / 菊草叶Júcǎoyè	Pflanze
+0153		Lorblatt	Bayleef	Macronium	ベイリーフBayleaf	베이리프Bayleef	月桂葉 / 月桂叶Yuèguìyè	Pflanze
+0154		Meganie	Meganium	Méganium	メガニウムMeganium	메가니움Meganium	大竺葵 / 大竺葵Dàzhúkuí	Pflanze
+0155		Feurigel	Cyndaquil	Héricendre	ヒノアラシHinoarashi	브케인Beukein	火球鼠 / 火球鼠Huǒqiúshǔ	Feuer
+0156		Igelavar	Quilava	Feurisson	マグマラシMagmarashi	마그케인Mageukein	火岩鼠 / 火岩鼠Huǒyánshǔ	Feuer
+0157		Tornupto	Typhlosion	Typhlosion	バクフーンBakphoon	블레이범Bleibeom	火爆獸 / 火暴兽Huǒbàoshòu	Feuer
+0158		Karnimani	Totodile	Kaiminus	ワニノコWaninoko	리아코Liako	小鋸鱷 / 小锯鳄Xiǎojù'è	Wasser
+0159		Tyracroc	Croconaw	Crocrodil	アリゲイツAlligates	엘리게이Elligei	藍鱷 / 蓝鳄Lán'è	Wasser
+0160		Impergator	Feraligatr	Aligatueur	オーダイルOrdile	장크로다일Jangkrodail	大力鱷 / 大力鳄Dàlì'è	Wasser
+0161		Wiesor	Sentret	Fouinette	オタチOtachi	꼬리선Kkoriseon	尾立 / 尾立Wěilì	Normal
+0162		Wiesenior	Furret	Fouinar	オオタチOotachi	다꼬리Dakkori	大尾立 / 大尾立Dàwěilì	Normal
+0163		Hoothoot	Hoothoot	Hoothoot	ホーホーHoho	부우부Buubu	咕咕 / 咕咕Gūgū	Normal Flug
+0164		Noctuh	Noctowl	Noarfang	ヨルノズクYorunozuku	야부엉Yabueong	貓頭夜鷹 / 猫头夜鹰Māotóuyèyīng	Normal Flug
+0165		Ledyba	Ledyba	Coxy	レディバRediba	레디바Ledyba	芭瓢蟲 / 芭瓢虫Bāpiáochóng	Käfer Flug
+0166		Ledian	Ledian	Coxyclaque	レディアンRedian	레디안Ledian	安瓢蟲 / 安瓢虫Ānpiáochóng	Käfer Flug
+0167		Webarak	Spinarak	Mimigal	イトマルItomaru	페이검Peigeom	圓絲蛛 / 圆丝蛛Yuánsīzhū	Käfer Gift
+0168		Ariados	Ariados	Migalos	アリアドスAriados	아리아도스Ariados	阿利多斯 / 阿利多斯Ālìduōsī	Käfer Gift
+0169		Iksbat	Crobat	Nostenfer	クロバットCrobat	크로뱃Crobat	叉字蝠 / 叉字蝠Chāzìfú	Gift Flug
+0170		Lampi	Chinchou	Loupio	チョンチーChonchie	초라기Choragi	燈籠魚 / 灯笼鱼Dēnglóngyú	Wasser Elektro
+0171		Lanturn	Lanturn	Lanturn	ランターンLantern	랜턴Lanturn	電燈怪 / 电灯怪Diàndēngguài	Wasser Elektro
+0172		Pichu	Pichu	Pichu	ピチューPichu	피츄Pichu	皮丘 / 皮丘Píqiū	Elektro
+0173		Pii	Cleffa	Mélo	ピィPy	삐Ppi	皮寶寶 / 皮宝宝Píbǎobǎo	Fee
+0174		Fluffeluff	Igglybuff	Toudoudou	ププリンPupurin	푸푸린Pupurin	寶寶丁 / 宝宝丁Bǎobǎodīng	Normal Fee
+0175		Togepi	Togepi	Togepi	トゲピーTogepy	토게피Togepi	波克比 / 波克比Bōkèbĭ	Fee
+0176		Togetic	Togetic	Togetic	トゲチックTogechick	토게틱Togetic	波克基古 / 波克基古Bōkèjīgŭ	Fee Flug
+0177		Natu	Natu	Natu	ネイティNaty	네이티Neiti	天然雀 / 天然雀Tiānránquè	Psycho Flug
+0178		Xatu	Xatu	Xatu	ネイティオNatio	네이티오Neitio	天然鳥 / 天然鸟Tiānránniǎo	Psycho Flug
+0179		Voltilamm	Mareep	Wattouat	メリープMerriep	메리프Meleep	咩利羊 / 咩利羊Miēlìyáng	Elektro
+0180		Waaty	Flaaffy	Lainergie	モココMokoko	보송송Bosongsong	茸茸羊 / 茸茸羊Róngróngyáng	Elektro
+0181		Ampharos	Ampharos	Pharamp	デンリュウDenryu	전룡Jeonryong	電龍 / 电龙Diànlóng	Elektro
+0182		Blubella	Bellossom	Joliflor	キレイハナKireihana	아르코Areuko	美麗花 / 美丽花Měilìhuā	Pflanze
+0183		Marill	Marill	Marill	マリルMaril	마릴Marill	瑪力露 / 玛力露Mǎlìlù	Wasser Fee
+0184		Azumarill	Azumarill	Azumarill	マリルリMarilli	마릴리Marilly	瑪力露麗 / 玛力露丽Mǎlìlùlí	Wasser Fee
+0185		Mogelbaum	Sudowoodo	Simularbre	ウソッキーUsokkie	꼬지모Kkojimo	樹才怪 / 树才怪Shùcáiguài	Gestein
+0186		Quaxo	Politoed	Tarpaud	ニョロトノNyorotono	왕구리Wangguri	蚊香蛙皇 / 蚊香蛙皇Wénxiāngwāhuáng	Wasser
+0187		Hoppspross	Hoppip	Granivol	ハネッコHanecco	통통코Tongtongko	毽子草 / 毽子草Jiànzǐcǎo	Pflanze Flug
+0188		Hubelupf	Skiploom	Floravol	ポポッコPopocco	두코Duko	毽子花 / 毽子花Jiànzǐhuā	Pflanze Flug
+0189		Papungha	Jumpluff	Cotovol	ワタッコWatacco	솜솜코Somsomko	毽子棉 / 毽子棉Jiànzǐmián	Pflanze Flug
+0190		Griffel	Aipom	Capumain	エイパムEipam	에이팜Eipam	長尾怪手 / 长尾怪手Chángwěiguàishǒu	Normal
+0191		Sonnkern	Sunkern	Tournegrin	ヒマナッツHimanuts	해너츠Haenuts	向日種子 / 向日种子Xiàngrìzhǒngzǐ	Pflanze
+0192		Sonnflora	Sunflora	Héliatronc	キマワリKimawari	해루미Haerumi	向日花怪 / 向日花怪Xiàngrìhuāguài	Pflanze
+0193		Yanma	Yanma	Yanma	ヤンヤンマYanyanma	왕자리Wangjari	蜻蜻蜓 / 蜻蜻蜓Qīngqīngtíng	Käfer Flug
+0194		Felino	Wooper	Axoloto	ウパーUpah	우파Woopa	烏波 / 乌波Wūbō	Wasser Boden
+0195		Morlord	Quagsire	Maraiste	ヌオーNuoh	누오Nuo	沼王 / 沼王Zhǎowáng	Wasser Boden
+0196		Psiana	Espeon	Mentali	エーフィEifie	에브이Ebeui	太陽伊布 / 太阳伊布Tàiyángyībù	Psycho
+0197		Nachtara	Umbreon	Noctali	ブラッキーBracky	블래키Blacky	月亮伊布 / 月亮伊布Yuèliàngyībù	Unlicht
+0198		Kramurx	Murkrow	Cornèbre	ヤミカラスYamikarasu	니로우Nirou	黑暗鴉 / 黑暗鸦Hēi'ànyā	Unlicht Flug
+0199		Laschoking	Slowking	Roigada	ヤドキングYadoking	야도킹Yadoking	呆呆王 / 呆呆王Dāidāiwáng	Wasser Psycho
+0200		Traunfugil	Misdreavus	Feuforêve	ムウマMuma	무우마Muuma	夢妖 / 梦妖Mèngyāo	Geist
+0201		Icognito	Unown	Zarbi	アンノーンUnknown	안농Annown	未知圖騰 / 未知图腾Wèizhītúténg	Psycho
+0202		Woingenau	Wobbuffet	Qulbutoké	ソーナンスSonans	마자용Mazayong	果然翁 / 果然翁Guǒránwēng	Psycho
+0203		Girafarig	Girafarig	Girafarig	キリンリキKirinriki	키링키Kilingki	麒麟奇 / 麒麟奇Qílínqí	Normal Psycho
+0204		Tannza	Pineco	Pomdepik	クヌギダマKunugidama	피콘Pikon	榛果球 / 榛果球Zhēnguǒqiú	Käfer
+0205		Forstellka	Forretress	Foretress	フォレトスForetos	쏘콘Ssokon	佛烈托斯 / 佛烈托斯Fóliètuōsī	Käfer Stahl
+0206		Dummisel	Dunsparce	Insolourdo	ノコッチNokocchi	노고치Nogochi	土龍弟弟 / 土龙弟弟Tǔlóngdìdì	Normal
+0207		Skorgla	Gligar	Scorplane	グライガーGliger	글라이거Glaiger	天蠍 / 天蝎Tiānxiē	Boden Flug
+0208		Stahlos	Steelix	Steelix	ハガネールHaganeil	강철톤Gangcheolton	大鋼蛇 / 大钢蛇Dàgāngshé	Stahl Boden
+0209		Snubbull	Snubbull	Snubbull	ブルーBulu	블루Bullu	布魯 / 布鲁Bùlǔ	Fee
+0210		Granbull	Granbull	Granbull	グランブルGranbulu	그랑블루Granbullu	布魯皇 / 布鲁皇Bùlǔhuáng	Fee
+0211		Baldorfish	Qwilfish	Qwilfish	ハリーセンHarysen	침바루Chimbaru	千針魚 / 千针鱼Qiānzhēnyú	Wasser Gift
+0212		Scherox	Scizor	Cizayox	ハッサムHassam	핫삼Hatsam	巨鉗螳螂 / 巨钳螳螂Jùqiántángláng	Käfer Stahl
+0213		Pottrott	Shuckle	Caratroc	ツボツボTsubotsubo	단단지Dandanji	壺壺 / 壶壶Húhú	Käfer Gestein
+0214		Skaraborn	Heracross	Scarhino	ヘラクロスHeracros	헤라크로스Heracross	赫拉克羅斯 / 赫拉克罗斯Hèlākèluósī	Käfer Kampf
+0215		Sniebel	Sneasel	Farfuret	ニューラNyula	포푸니Popuni	狃拉 / 狃拉Niǔlā	Unlicht Eis
+0216		Teddiursa	Teddiursa	Teddiursa	ヒメグマHimeguma	깜지곰Kkamjigom	熊寶寶 / 熊宝宝Xióngbǎobǎo	Normal
+0217		Ursaring	Ursaring	Ursaring	リングマRinguma	링곰Ringgom	圈圈熊 / 圈圈熊Quānquānxióng	Normal
+0218		Schneckmag	Slugma	Limagma	マグマッグMagmag	마그마그Magmag	熔岩蟲 / 熔岩虫Róngyánchóng	Feuer
+0219		Magcargo	Magcargo	Volcaropod	マグカルゴMagcargot	마그카르고Magcargo	熔岩蝸牛 / 熔岩蜗牛Róngyánwōniú	Feuer Gestein
+0220		Quiekel	Swinub	Marcacrin	ウリムーUrimoo	꾸꾸리Kkukkuri	小山豬 / 小山猪Xiǎoshānzhū	Eis Boden
+0221		Keifel	Piloswine	Cochignon	イノムーInomoo	메꾸리Mekkuri	長毛豬 / 长毛猪Chángmáozhū	Eis Boden
+0222		Corasonn	Corsola	Corayon	サニーゴSunnygo	코산호Kosanho	太陽珊瑚 / 太阳珊瑚Tàiyángshānhú	Wasser Gestein
+0223		Remoraid	Remoraid	Rémoraid	テッポウオTeppouo	총어Chongeo	鐵炮魚 / 铁炮鱼Tiěpàoyú	Wasser
+0224		Octillery	Octillery	Octillery	オクタンOkutank	대포무노Daepomuno	章魚桶 / 章鱼桶Zhāngyútǒng	Wasser
+0225		Botogel	Delibird	Cadoizo	デリバードDelibird	딜리버드Delibird	信使鳥 / 信使鸟Xìnshǐniǎo	Eis Flug
+0226		Mantax	Mantine	Démanta	マンタインMantain	만타인Mantine	巨翅飛魚 / 巨翅飞鱼Jùchìfēiyú	Wasser Flug
+0227		Panzaeron	Skarmory	Airmure	エアームドAirmd	무장조Mujangjo	盔甲鳥 / 盔甲鸟Kuījiǎniǎo	Stahl Flug
+0228		Hunduster	Houndour	Malosse	デルビルDelvil	델빌Delvil	戴魯比 / 戴鲁比Dàilǔbǐ	Unlicht Feuer
+0229		Hundemon	Houndoom	Démolosse	ヘルガーHellgar	헬가Helga	黑魯加 / 黑鲁加Hēilǔjiā	Unlicht Feuer
+0230		Seedraking	Kingdra	Hyporoi	キングドラKingdra	킹드라Kingdra	刺龍王 / 刺龙王Cìlóngwáng	Wasser Drache
+0231		Phanpy	Phanpy	Phanpy	ゴマゾウGomazou	코코리Kokori	小小象 / 小小象Xiǎoxiǎoxiàng	Boden
+0232		Donphan	Donphan	Donphan	ドンファンDonfan	코리갑Korigap	頓甲 / 顿甲Dùnjiǎ	Boden
+0233		Porygon2	Porygon2	Porygon2	ポリゴン２Porygon2	폴리곤2Porygon2	多邊獸Ⅱ / 多边兽2型DuōbiānshòuII / Duōbiānshòu2xíng	Normal
+0234		Damhirplex	Stantler	Cerfrousse	オドシシOdoshishi	노라키Noraki	驚角鹿 / 惊角鹿Jīngjiǎolù	Normal
+0235		Farbeagle	Smeargle	Queulorior	ドーブルDoble	루브도Rubeudo	圖圖犬 / 图图犬Tútúquǎn	Normal
+0236		Rabauz	Tyrogue	Debugant	バルキーBalkie	배루키Baeruki	無畏小子 / 无畏小子Wúwèixiǎozǐ	Kampf
+0237		Kapoera	Hitmontop	Kapoera	カポエラーKapoerer	카포에라Kapoera	戰舞郎 / 战舞郎Zhànwǔláng	Kampf
+0238		Kussilla	Smoochum	Lippouti	ムチュールMuchul	뽀뽀라Ppoppora	迷唇娃 / 迷唇娃Míchúnwá	Eis Psycho
+0239		Elekid	Elekid	Élekid	エレキッドElekid	에레키드Elekid	電擊怪 / 电击怪Diànjīguài	Elektro
+0240		Magby	Magby	Magby	ブビィBuby	마그비Magby	鴨嘴寶寶 / 鸭嘴宝宝Yāzuǐbǎobǎo	Feuer
+0241		Miltank	Miltank	Écrémeuh	ミルタンクMiltank	밀탱크Miltank	大奶罐 / 大奶罐Dànǎiguàn	Normal
+0242		Heiteira	Blissey	Leuphorie	ハピナスHappinas	해피너스Happynus	幸福蛋 / 幸福蛋Xìngfúdàn	Normal
+0243		Raikou	Raikou	Raikou	ライコウRaikou	라이코Raikou	雷公 / 雷公Léigōng	Elektro
+0244		Entei	Entei	Entei	エンテイEntei	앤테이Entei	炎帝 / 炎帝Yándì	Feuer
+0245		Suicune	Suicune	Suicune	スイクンSuicune	스이쿤Suicune	水君 / 水君Shuǐjūn	Wasser
+0246		Larvitar	Larvitar	Embrylex	ヨーギラスYogiras	애버라스Aebeoras	幼基拉斯 / 幼基拉斯Yòujīlāsī	Gestein Boden
+0247		Pupitar	Pupitar	Ymphect	サナギラスSanagiras	데기라스Degiras	沙基拉斯 / 沙基拉斯Shājīlāsī	Gestein Boden
+0248		Despotar	Tyranitar	Tyranocif	バンギラスBangiras	마기라스Magiras	班基拉斯 / 班基拉斯Bānjīlāsī	Gestein Unlicht
+0249		Lugia	Lugia	Lugia	ルギアLugia	루기아Rugia	洛奇亞 / 洛奇亚Luòqíyà	Psycho Flug
+0250		Ho-Oh	Ho-Oh	Ho-Oh	ホウオウHouou	칠색조Chilsaeckjo	鳳王 / 凤王Fèngwáng	Feuer Flug
+0251		Celebi	Celebi	Celebi	セレビィCelebi	세레비Celebi	時拉比 / 时拉比Shílābǐ	Psycho Pflanze
+0252		Geckarbor	Treecko	Arcko	キモリKimori	나무지기Namujigi	木守宮 / 木守宫Mùshǒugōng	Pflanze
+0253		Reptain	Grovyle	Massko	ジュプトルJuptile	나무돌이Namudori	森林蜥蜴 / 森林蜥蜴Sēnlínxīyì	Pflanze
+0254		Gewaldro	Sceptile	Jungko	ジュカインJukain	나무킹Namuking	蜥蜴王 / 蜥蜴王Xīyìwáng	Pflanze
+0255		Flemmli	Torchic	Poussifeu	アチャモAchamo	아차모Achamo	火稚雞 / 火稚鸡Huǒzhìjī	Feuer
+0256		Jungglut	Combusken	Galifeu	ワカシャモWakasyamo	영치코Youngchiko	力壯雞 / 力壮鸡Lìzhuàngjī	Feuer Kampf
+0257		Lohgock	Blaziken	Braségali	バシャーモBursyamo	번치코Bunchiko	火焰雞 / 火焰鸡Huǒyànjī	Feuer Kampf
+0258		Hydropi	Mudkip	Gobou	ミズゴロウMizugorou	물짱이Muljjangi	水躍魚 / 水跃鱼Shuǐyuèyú	Wasser
+0259		Moorabbel	Marshtomp	Flobio	ヌマクローNumacraw	늪짱이Nupjjangi	沼躍魚 / 沼跃鱼Zhǎoyuèyú	Wasser Boden
+0260		Sumpex	Swampert	Laggron	ラグラージLaglarge	대짱이Daejjangi	巨沼怪 / 巨沼怪Jùzhǎoguài	Wasser Boden
+0261		Fiffyen	Poochyena	Medhyèna	ポチエナPochiena	포챠나Pochana	土狼犬 / 土狼犬Tǔlángquǎn	Unlicht
+0262		Magnayen	Mightyena	Grahyèna	グラエナGraena	그라에나Guraeana	大狼犬 / 大狼犬Dàlángquǎn	Unlicht
+0263		Zigzachs	Zigzagoon	Zigzaton	ジグザグマJiguzaguma	지그제구리Jigujaeguri	蛇紋熊 / 蛇纹熊Shéwénxióng	Normal
+0264		Geradaks	Linoone	Linéon	マッスグマMassuguma	직구리Jikguli	直衝熊 / 直冲熊Zhíchōngxióng	Normal
+0265		Waumpel	Wurmple	Chenipotte	ケムッソKemusso	개무소Gaemuso	刺尾蟲 / 刺尾虫Cìwěichóng	Käfer
+0266		Schaloko	Silcoon	Armulys	カラサリスKarasalis	실쿤Silcoon	甲殼繭 / 甲壳茧Jiǎkéjiǎn	Käfer
+0267		Papinella	Beautifly	Charmillon	アゲハントAgehunt	뷰티플라이Beautifly	狩獵鳳蝶 / 狩猎凤蝶Shòulièfèngdié	Käfer Flug
+0268		Panekon	Cascoon	Blindalys	マユルドMayuld	카스쿤Cascoon	盾甲繭 / 盾甲茧Dùnjiǎjiǎn	Käfer
+0269		Pudox	Dustox	Papinox	ドクケイルDokucale	독케일Dokkeil	毒粉蛾 / 毒粉蛾Dúfěn'é	Käfer Gift
+0270		Loturzel	Lotad	Nénupiot	ハスボーHassboh	연꽃몬Yeonkkotmon	蓮葉童子 / 莲叶童子Liányètóngzǐ	Wasser Pflanze
+0271		Lombrero	Lombre	Lombre	ハスブレロHasubrero	로토스Rotosu	蓮帽小童 / 莲帽小童Liánmàoxiǎotóng	Wasser Pflanze
+0272		Kappalores	Ludicolo	Ludicolo	ルンパッパRunpappa	로파파Ropapa	樂天河童 / 乐天河童Lètiānhétóng	Wasser Pflanze
+0273		Samurzel	Seedot	Grainipiot	タネボーTaneboh	도토링Dotoring	橡實果 / 橡实果Xiàngshíguǒ	Pflanze
+0274		Blanas	Nuzleaf	Pifeuil	コノハナKonohana	잎새코Ipseko	長鼻葉 / 长鼻叶Chángbíyè	Pflanze Unlicht
+0275		Tengulist	Shiftry	Tengalice	ダーテングDirteng	다탱구Datenggu	狡猾天狗 / 狡猾天狗Jiǎohuátiāngǒu	Pflanze Unlicht
+0276		Schwalbini	Taillow	Nirondelle	スバメSubame	테일로Tailow	傲骨燕 / 傲骨燕Àogǔyàn	Normal Flug
+0277		Schwalboss	Swellow	Hélédelle	オオスバメOhsubame	스왈로Swalow	大王燕 / 大王燕Dàwángyàn	Normal Flug
+0278		Wingull	Wingull	Goélise	キャモメCamome	갈모매Galmomae	長翅鷗 / 长翅鸥Chángchì'ōu	Wasser Flug
+0279		Pelipper	Pelipper	Bekipan	ペリッパーPelipper	패리퍼Pelipper	大嘴鷗 / 大嘴鸥Dàzuǐ'ōu	Wasser Flug
+0280		Trasla	Ralts	Tarsal	ラルトスRalts	랄토스Raltos	拉魯拉絲 / 拉鲁拉丝Lālǔlāsī	Psycho Fee
+0281		Kirlia	Kirlia	Kirlia	キルリアKirlia	킬리아Kirlia	奇魯莉安 / 奇鲁莉安Qílǔlì'ān	Psycho Fee
+0282		Guardevoir	Gardevoir	Gardevoir	サーナイトSirnight	가디안Gadian	沙奈朵 / 沙奈朵Shānàiduǒ	Psycho Fee
+0283		Gehweiher	Surskit	Arakdo	アメタマAmetama	비구술Bigusul	溜溜糖球 / 溜溜糖球Liūliūtángqiú	Käfer Wasser
+0284		Maskeregen	Masquerain	Maskadra	アメモースAmemoth	비나방Binabang	雨翅蛾 / 雨翅蛾Yǔchì'é	Käfer Flug
+0285		Knilz	Shroomish	Balignon	キノココKinococo	버섯꼬Bosotkko	蘑蘑菇 / 蘑蘑菇Mómógū	Pflanze
+0286		Kapilz	Breloom	Chapignon	キノガッサKinogassa	버섯모Bosotmo	斗笠菇 / 斗笠菇Dǒulìgū	Pflanze Kampf
+0287		Bummelz	Slakoth	Parecool	ナマケロNamakero	게을로Geulro	懶人獺 / 懒人獭Lǎnréntǎ	Normal
+0288		Muntier	Vigoroth	Vigoroth	ヤルキモノYarukimono	발바로Balbaro	過動猿 / 过动猿Guòdòngyuán	Normal
+0289		Letarking	Slaking	Monaflèmit	ケッキングKekking	게을킹Geulking	請假王 / 请假王Qǐngjiàwáng	Normal
+0290		Nincada	Nincada	Ningale	ツチニンTutinin	토중몬Tojungmon	土居忍士 / 土居忍士Tǔjūrěnshì	Käfer Boden
+0291		Ninjask	Ninjask	Ninjask	テッカニンTekkanin	아이스크Aisukeu	鐵面忍者 / 铁面忍者Tiěmiànrěnzhě	Käfer Flug
+0292		Ninjatom	Shedinja	Munja	ヌケニンNukenin	껍질몬Kkubjilmon	脫殼忍者 / 脱壳忍者Tuōkérěnzhě	Käfer Geist
+0293		Flurmel	Whismur	Chuchmur	ゴニョニョGonyonyo	소곤룡Sogonryong	咕妞妞 / 咕妞妞Gūniūniū	Normal
+0294		Krakeelo	Loudred	Ramboum	ドゴームDogohmb	노공룡Nogonryong	吼爆彈 / 吼爆弹Hǒubàodàn	Normal
+0295		Krawumms	Exploud	Brouhabam	バクオングBakuong	폭음룡Pokumryong	爆音怪 / 爆音怪Bàoyīnguài	Normal
+0296		Makuhita	Makuhita	Makuhita	マクノシタMakunoshita	마크탕Makeutang	幕下力士 / 幕下力士Mùxiàlìshì	Kampf
+0297		Hariyama	Hariyama	Hariyama	ハリテヤマHariteyama	하리뭉Harimung	鐵掌力士 / 铁掌力士Tiězhǎnglìshì	Kampf
+0298		Azurill	Azurill	Azurill	ルリリRuriri	루리리Ruriri	露力麗 / 露力丽Lùlìlí	Normal Fee
+0299		Nasgnet	Nosepass	Tarinor	ノズパスNosepass	코코파스Kokopas	朝北鼻 / 朝北鼻Cháoběibí	Gestein
+0300		Eneco	Skitty	Skitty	エネコEneco	에나비Enabi	向尾喵 / 向尾喵Xiàngwěimiāo	Normal
+0301		Enekoro	Delcatty	Delcatty	エネコロロEnekororo	델케티Delcatty	優雅貓 / 优雅猫Yōuyǎmāo	Normal
+0302		Zobiris	Sableye	Ténéfix	ヤミラミYamirami	깜까미Kamkami	勾魂眼 / 勾魂眼Gōuhúnyǎn	Unlicht Geist
+0303		Flunkifer	Mawile	Mysdibule	クチートKucheat	입치트Ipchitt	大嘴娃 / 大嘴娃Dàzuǐwá	Stahl Fee
+0304		Stollunior	Aron	Galekid	ココドラCokodora	가보리Gabori	可可多拉 / 可可多拉Kěkěduōlā	Stahl Gestein
+0305		Stollrak	Lairon	Galegon	コドラKodora	갱도라Gaengdora	可多拉 / 可多拉Kěduōlā	Stahl Gestein
+0306		Stolloss	Aggron	Galeking	ボスゴドラBossgodora	보스로라Bosrora	波士可多拉 / 波士可多拉Bōshìkěduōlā	Stahl Gestein
+0307		Meditie	Meditite	Méditikka	アサナンAsanan	요가랑Yogarang	瑪沙那 / 玛沙那Mǎshānà	Kampf Psycho
+0308		Meditalis	Medicham	Charmina	チャーレムCharem	요가램Yogaram	恰雷姆 / 恰雷姆Qiàléimǔ	Kampf Psycho
+0309		Frizelbliz	Electrike	Dynavolt	ラクライRakurai	썬더라이Thunderai	落雷獸 / 落雷兽Luòléishòu	Elektro
+0310		Voltenso	Manectric	Élecsprint	ライボルトLivolt	썬더볼트Thundervolt	雷電獸 / 雷电兽Léidiànshòu	Elektro
+0311		Plusle	Plusle	Posipi	プラスルPrasle	플러시Plusy	正電拍拍 / 正电拍拍Zhèngdiànpāipāi	Elektro
+0312		Minun	Minun	Négapi	マイナンMinun	마이농Mainong	負電拍拍 / 负电拍拍Fùdiànpāipāi	Elektro
+0313		Volbeat	Volbeat	Muciole	バルビートBarubeat	볼비트Volbeat	電螢蟲 / 电萤虫Diànyíngchóng	Käfer
+0314		Illumise	Illumise	Lumivole	イルミーゼIllumise	네오비트Neobeat	甜甜螢 / 甜甜萤Tiántiányíng	Käfer
+0315		Roselia	Roselia	Rosélia	ロゼリアRoselia	로젤리아Rozelia	毒薔薇 / 毒蔷薇Dúqiángwēi	Pflanze Gift
+0316		Schluppuck	Gulpin	Gloupti	ゴクリンGokulin	꼴깍몬Kolkkakmon	溶食獸 / 溶食兽Róngshíshòu	Gift
+0317		Schlukwech	Swalot	Avaltout	マルノームMarunoom	꿀꺽몬Koolkkokmon	吞食獸 / 吞食兽Tūnshíshòu	Gift
+0318		Kanivanha	Carvanha	Carvanha	キバニアKibanha	샤프니아Sharpnia	利牙魚 / 利牙鱼Lìyáyú	Wasser Unlicht
+0319		Tohaido	Sharpedo	Sharpedo	サメハダーSamehader	샤크니아Sharknia	巨牙鯊 / 巨牙鲨Jùyáshā	Wasser Unlicht
+0320		Wailmer	Wailmer	Wailmer	ホエルコHoeruko	고래왕자Goraewangja	吼吼鯨 / 吼吼鲸Hǒuhǒujīng	Wasser
+0321		Wailord	Wailord	Wailord	ホエルオーWhaloh	고래왕Goraewang	吼鯨王 / 吼鲸王Hǒujīngwáng	Wasser
+0322		Camaub	Numel	Chamallot	ドンメルDonmel	둔타Doonta	呆火駝 / 呆火驼Dāihuǒtuó	Feuer Boden
+0323		Camerupt	Camerupt	Camérupt	バクーダBakuuda	폭타Pokta	噴火駝 / 喷火驼Pēnhuǒtuó	Feuer Boden
+0324		Qurtel	Torkoal	Chartor	コータスCotoise	코터스Kotas	煤炭龜 / 煤炭龟Méitànguī	Feuer
+0325		Spoink	Spoink	Spoink	バネブーBaneboo	피그점프Pigjump	跳跳豬 / 跳跳猪Tiàotiàozhū	Psycho
+0326		Groink	Grumpig	Groret	ブーピッグBoopig	피그킹Pigking	噗噗豬 / 噗噗猪Pūpūzhū	Psycho
+0327		Pandir	Spinda	Spinda	パッチールPatcheel	얼루기Ollugi	晃晃斑 / 晃晃斑Huànghuàngbān	Normal
+0328		Knacklion	Trapinch	Kraknoix	ナックラーNuckrar	톱치Topchi	大顎蟻 / 大颚蚁Dà‘èyǐ	Boden
+0329		Vibrava	Vibrava	Vibraninf	ビブラーバVibrava	비브라바Vibrava	超音波幼蟲 / 超音波幼虫Chāoyīnbōyòuchóng	Boden Drache
+0330		Libelldra	Flygon	Libégon	フライゴンFlygon	플라이곤Flygon	沙漠蜻蜓 / 沙漠蜻蜓Shāmòqīngtíng	Boden Drache
+0331		Tuska	Cacnea	Cacnea	サボネアSabonea	선인왕Seoninwang	刺球仙人掌 / 刺球仙人掌Cìqiúxiānrénzhǎng	Pflanze
+0332		Noktuska	Cacturne	Cacturne	ノクタスNoctus	밤선인Bamseonin	夢歌仙人掌 / 梦歌仙人掌Mènggēxiānrénzhǎng	Pflanze Unlicht
+0333		Wablu	Swablu	Tylton	チルットTyltto	파비코Pavico	青綿鳥 / 青绵鸟Qīngmiánniǎo	Normal Flug
+0334		Altaria	Altaria	Altaria	チルタリスTyltalis	파비코리Pavicori	七夕青鳥 / 七夕青鸟Qīxīqīngniǎo	Drache Flug
+0335		Sengo	Zangoose	Mangriff	ザングースZangoose	쟝고Zanggo	貓鼬斬 / 猫鼬斩Māoyòuzhǎn	Normal
+0336		Vipitis	Seviper	Séviper	ハブネークHabunake	세비퍼Seviper	飯匙蛇 / 饭匙蛇Fànchíshé	Gift
+0337		Lunastein	Lunatone	Séléroc	ルナトーンLunatone	루나톤Lunatone	月石 / 月石Yuèshí	Gestein Psycho
+0338		Sonnfel	Solrock	Solaroc	ソルロックSolrock	솔록Solrock	太陽岩 / 太阳岩Tàiyángyán	Gestein Psycho
+0339		Schmerbe	Barboach	Barloche	ドジョッチDojoach	미꾸리Mikuri	泥泥鰍 / 泥泥鳅Níníqiū	Wasser Boden
+0340		Welsar	Whiscash	Barbicha	ナマズンNamazun	메깅Meging	鯰魚王 / 鲶鱼王Niányúwáng	Wasser Boden
+0341		Krebscorps	Corphish	Écrapince	ヘイガニHeigani	가재군Gazegun	龍蝦小兵 / 龙虾小兵Lóngxiāxiǎobīng	Wasser
+0342		Krebutack	Crawdaunt	Colhomard	シザリガーShizariger	가재장군Gazezanggun	鐵螯龍蝦 / 铁螯龙虾Tiě'áolóngxiā	Wasser Unlicht
+0343		Puppance	Baltoy	Balbuto	ヤジロンYajilon	오뚝군Ohttukgun	天秤偶 / 天秤偶Tiānchèng'ǒu	Boden Psycho
+0344		Lepumentas	Claydol	Kaorine	ネンドールNendoll	점토도리Zeumtodori	念力土偶 / 念力土偶Niànlìtǔ'ǒu	Boden Psycho
+0345		Liliep	Lileep	Lilia	リリーラLilyla	릴링Lilring	觸手百合 / 触手百合Chùshǒubǎihé	Gestein Pflanze
+0346		Wielie	Cradily	Vacilys	ユレイドルYuradle	릴리요Lilriyo	搖籃百合 / 摇篮百合Yáolánbǎihé	Gestein Pflanze
+0347		Anorith	Anorith	Anorith	アノプスAnopth	아노딥스Anodeeps	太古羽蟲 / 太古羽虫Tàigǔyǔchóng	Gestein Käfer
+0348		Armaldo	Armaldo	Armaldo	アーマルドArmaldo	아말도Amaldo	太古盔甲 / 太古盔甲Tàigǔkuījiǎ	Gestein Käfer
+0349		Barschwa	Feebas	Barpau	ヒンバスHinbass	빈티나Vintina	醜醜魚 / 丑丑鱼Chǒuchǒuyú	Wasser
+0350		Milotic	Milotic	Milobellus	ミロカロスMilokaross	밀로틱Milotic	美納斯 / 美纳斯Měinàsī	Wasser
+0351		Formeo	Castform	Morphéo	ポワルンPowalen	캐스퐁Castpong	飄浮泡泡 / 飘浮泡泡Piāofúpàopào	Normal
+0352		Kecleon	Kecleon	Kecleon	カクレオンKakureon	켈리몬Kelimon	變隱龍 / 变隐龙Biànyǐnlóng	Normal
+0353		Shuppet	Shuppet	Polichombr	カゲボウズKagebouzu	어둠대신Udumdaesin	怨影娃娃 / 怨影娃娃Yuànyǐngwáwá	Geist
+0354		Banette	Banette	Branette	ジュペッタJuppeta	다크펫Darkpet	詛咒娃娃 / 诅咒娃娃Zǔzhòuwáwá	Geist
+0355		Zwirrlicht	Duskull	Skelénox	ヨマワルYomawaru	해골몽Haegolmong	夜巡靈 / 夜巡灵Yèxúnlíng	Geist
+0356		Zwirrklop	Dusclops	Téraclope	サマヨールSamayouru	미라몽Miramong	彷徨夜靈 / 彷徨夜灵Pánghuángyèlíng	Geist
+0357		Tropius	Tropius	Tropius	トロピウスTropius	트로피우스Tropius	熱帶龍 / 热带龙Rèdàilóng	Pflanze Flug
+0358		Palimpalim	Chimecho	Éoko	チリーンChirean	치렁Chirung	風鈴鈴 / 风铃铃Fēnglínglíng	Psycho
+0359		Absol	Absol	Absol	アブソルAbsol	앱솔Absol	阿勃梭魯 / 阿勃梭鲁Ābósuōlǔ	Unlicht
+0360		Isso	Wynaut	Okéoké	ソーナノSohnano	마자Maza	小果然 / 小果然Xiǎoguǒrán	Psycho
+0361		Schneppke	Snorunt	Stalgamin	ユキワラシYukiwarashi	눈꼬마Nunkoma	雪童子 / 雪童子Xuětóngzǐ	Eis
+0362		Firnontor	Glalie	Oniglali	オニゴーリOnigohri	얼음귀신Urumkisin	冰鬼護 / 冰鬼护Bīngguǐhù	Eis
+0363		Seemops	Spheal	Obalie	タマザラシTamazarashi	대굴레오Degulleo	海豹球 / 海豹球Hǎibàoqiú	Eis Wasser
+0364		Seejong	Sealeo	Phogleur	トドグラーTodoggler	씨레오Sealeo	海魔獅 / 海魔狮Hǎimóshī	Eis Wasser
+0365		Walraisa	Walrein	Kaimorse	トドゼルガTodoseruga	씨카이저Seakaiser	帝牙海獅 / 帝牙海狮Dìyáhǎishī	Eis Wasser
+0366		Perlu	Clamperl	Coquiperl	パールルPearlulu	진주몽Zinzumong	珍珠貝 / 珍珠贝Zhēnzhūbèi	Wasser
+0367		Aalabyss	Huntail	Serpang	ハンテールHuntail	헌테일Huntail	獵斑魚 / 猎斑鱼Lièbānyú	Wasser
+0368		Saganabyss	Gorebyss	Rosabyss	サクラビスSakurabyss	분홍장이Bunhongzangi	櫻花魚 / 樱花鱼Yīnghuāyú	Wasser
+0369		Relicanth	Relicanth	Relicanth	ジーランスGlanth	시라칸Searakan	古空棘魚 / 古空棘鱼Gǔkōngjíyú	Wasser Gestein
+0370		Liebiskus	Luvdisc	Lovdisc	ラブカスLovecus	사랑동이Sarangdongi	愛心魚 / 爱心鱼Àixīnyú	Wasser
+0371		Kindwurm	Bagon	Draby	タツベイTatsubay	아공이Agongi	寶貝龍 / 宝贝龙Bǎobèilóng	Drache
+0372		Draschel	Shelgon	Drackhaus	コモルーKomoruu	쉘곤Shelgon	甲殼龍 / 甲壳龙Jiǎkélóng	Drache
+0373		Brutalanda	Salamence	Drattak	ボーマンダBohmander	보만다Bomanda	暴飛龍 / 暴飞龙Bàofēilóng	Drache Flug
+0374		Tanhel	Beldum	Terhal	ダンバルDumbber	메탕Metan	鐵啞鈴 / 铁哑铃Tiěyǎlíng	Stahl Psycho
+0375		Metang	Metang	Métang	メタングMetang	메탕구Metangoo	金屬怪 / 金属怪Jīnshǔguài	Stahl Psycho
+0376		Metagross	Metagross	Métalosse	メタグロスMetagross	메타그로스Metagross	巨金怪 / 巨金怪Jùjīnguài	Stahl Psycho
+0377		Regirock	Regirock	Regirock	レジロックRegirock	레지락Regirock	雷吉洛克 / 雷吉洛克Léijíluòkè	Gestein
+0378		Regice	Regice	Regice	レジアイスRegice	레지아이스Regice	雷吉艾斯 / 雷吉艾斯Léijí'àisī	Eis
+0379		Registeel	Registeel	Registeel	レジスチルRegisteel	레지스틸Registeel	雷吉斯奇魯 / 雷吉斯奇鲁Léijísījīlǔ	Stahl
+0380		Latias	Latias	Latias	ラティアスLatias	라티아스Latias	拉帝亞斯 / 拉帝亚斯Lādìyàsī	Drache Psycho
+0381		Latios	Latios	Latios	ラティオスLatios	라티오스Latios	拉帝歐斯 / 拉帝欧斯Lādì'ōusī	Drache Psycho
+0382		Kyogre	Kyogre	Kyogre	カイオーガKyogre	가이오가Kyogre	蓋歐卡 / 盖欧卡Gài'ōukǎ	Wasser
+0383		Groudon	Groudon	Groudon	グラードンGroudon	그란돈Groudon	固拉多 / 固拉多Gùlāduō	Boden
+0384		Rayquaza	Rayquaza	Rayquaza	レックウザRayquaza	레쿠쟈Rayquaza	烈空坐 / 烈空坐Lièkōngzuò	Drache Flug
+0385		Jirachi	Jirachi	Jirachi	ジラーチJirachi	지라치Jirachi	基拉祈 / 基拉祈Jīlāqí	Stahl Psycho
+0386		Deoxys	Deoxys	Deoxys	デオキシスDeoxys	테오키스Teoxys	代歐奇希斯 / 代欧奇希斯Dài'ōuqíxīsī	Psycho
+0387		Chelast	Turtwig	Tortipouss	ナエトルNaetle	모부기Mobugi	草苗龜 / 草苗龟Cǎomiáoguī	Pflanze
+0388		Chelcarain	Grotle	Boskara	ハヤシガメHayashigame	수풀부기Supulbugi	樹林龜 / 树林龟Shùlínguī	Pflanze
+0389		Chelterrar	Torterra	Torterra	ドダイトスDodaitose	토대부기Todaibugi	土台龜 / 土台龟Tǔtáiguī	Pflanze Boden
+0390		Panflam	Chimchar	Ouisticram	ヒコザルHikozaru	불꽃숭이Bulkotsoongi	小火焰猴 / 小火焰猴Xiǎohuǒyànhóu	Feuer
+0391		Panpyro	Monferno	Chimpenfeu	モウカザルMoukazaru	파이숭이Paisoongi	猛火猴 / 猛火猴Měnghuǒhóu	Feuer Kampf
+0392		Panferno	Infernape	Simiabraz	ゴウカザルGoukazaru	초염몽Choyeommong	烈焰猴 / 烈焰猴Lièyànhóu	Feuer Kampf
+0393		Plinfa	Piplup	Tiplouf	ポッチャマPochama	팽도리Pengdori	波加曼 / 波加曼Bōjiāmàn	Wasser
+0394		Pliprin	Prinplup	Prinplouf	ポッタイシPottaishi	팽태자Pengtaiza	波皇子 / 波皇子Bōhuángzǐ	Wasser
+0395		Impoleon	Empoleon	Pingoléon	エンペルトEmperte	엠페르트Emperut	帝王拿波 / 帝王拿波Dìwángnábō	Wasser Stahl
+0396		Staralili	Starly	Étourmi	ムックルMukkuru	찌르꼬Jjiruko	姆克兒 / 姆克儿Mǔkè'ér	Normal Flug
+0397		Staravia	Staravia	Étourvol	ムクバードMukubird	찌르버드Jjirubird	姆克鳥 / 姆克鸟Mǔkèniǎo	Normal Flug
+0398		Staraptor	Staraptor	Étouraptor	ムクホークMukuhawk	찌르호크Jjiruhawk	姆克鷹 / 姆克鹰Mǔkèyīng	Normal Flug
+0399		Bidiza	Bidoof	Keunotor	ビッパBippa	비버니Bibeoni	大牙狸 / 大牙狸Dàyálí	Normal
+0400		Bidifas	Bibarel	Castorno	ビーダルBeadaru	비버통Bibeotong	大尾狸 / 大尾狸Dàwěilí	Normal Wasser
+0401		Zirpurze	Kricketot	Crikzik	コロボーシKorobohshi	귀뚤뚜기Gwittulttugi	圓法師 / 圆法师Yuánfǎshī	Käfer
+0402		Zirpeise	Kricketune	Mélokrik	コロトックKorotock	귀뚤톡크Gwittultock	音箱蟀 / 音箱蟀Yīnxiāngshuài	Käfer
+0403		Sheinux	Shinx	Lixy	コリンクKolink	꼬링크Koringku	小貓怪 / 小猫怪Xiǎomāoguài	Elektro
+0404		Luxio	Luxio	Luxio	ルクシオLuxio	럭시오Leoksio	勒克貓 / 勒克猫Lèkèmāo	Elektro
+0405		Luxtra	Luxray	Luxray	レントラーRentorar	렌트라Renteura	倫琴貓 / 伦琴猫Lúnqínmāo	Elektro
+0406		Knospi	Budew	Rozbouton	スボミーSubomie	꼬몽울Komongul	含羞苞 / 含羞苞Hánxiūbāo	Pflanze Gift
+0407		Roserade	Roserade	Roserade	ロズレイドRoserade	로즈레이드Rozureid	羅絲雷朵 / 罗丝雷朵Luósīléiduǒ	Pflanze Gift
+0408		Koknodon	Cranidos	Kranidos	ズガイドスZugaidos	두개도스Dugaedos	頭蓋龍 / 头盖龙Tóugàilóng	Gestein
+0409		Rameidon	Rampardos	Charkos	ラムパルドRampald	램펄드Ramparld	戰槌龍 / 战槌龙Zhànchuílóng	Gestein
+0410		Schilterus	Shieldon	Dinoclier	タテトプスTatetops	방패톱스Bangpaetops	盾甲龍 / 盾甲龙Dùnjiǎlóng	Gestein Stahl
+0411		Bollterus	Bastiodon	Bastiodon	トリデプスTorideps	바리톱스Baritops	護城龍 / 护城龙Hùchénglóng	Gestein Stahl
+0412		Burmy	Burmy	Cheniti	ミノムッチMinomucchi	도롱충이Dorongchungi	結草兒 / 结草儿Jiécǎo'ér	Käfer
+0413		Burmadame	Wormadam	Cheniselle	ミノマダムMinomadam	도롱마담Dorongmadam	結草貴婦 / 结草贵妇Jiécǎoguìfù	Käfer Pflanze
+0414		Moterpel	Mothim	Papilord	ガーメイルGamale	나메일Nameil	紳士蛾 / 绅士蛾Shēnshì'é	Käfer Flug
+0415		Wadribie	Combee	Apitrini	ミツハニーMitsuhoney	세꿀버리Sekkulbeori	三蜜蜂 / 三蜜蜂Sānmìfēng	Käfer Flug
+0416		Honweisel	Vespiquen	Apireine	ビークインBeequen	비퀸Beequein	蜂女王 / 蜂女王Fēngnǚwáng	Käfer Flug
+0417		Pachirisu	Pachirisu	Pachirisu	パチリスPachirisu	파치리스Pachirisu	帕奇利茲 / 帕奇利兹Pàqílìzī	Elektro
+0418		Bamelin	Buizel	Mustébouée	ブイゼルBuoysel	브이젤Buijel	泳圈鼬 / 泳圈鼬Yǒngquānyòu	Wasser
+0419		Bojelin	Floatzel	Mustéflott	フローゼルFloazel	플로젤Pulrozel	浮潛鼬 / 浮潜鼬Fúqiányòu	Wasser
+0420		Kikugi	Cherubi	Ceribou	チェリンボCherinbo	체리버Cheriber	櫻花寶 / 樱花宝Yīnghuābǎo	Pflanze
+0421		Kinoso	Cherrim	Ceriflor	チェリムCherrim	체리꼬Cheriko	櫻花兒 / 樱花儿Yīnghuā'ér	Pflanze
+0422		Schalellos	Shellos	Sancoki	カラナクシKaranakushi	깝질무Kapjilmu	無殼海兔 / 无壳海兔Wúkéhǎitù	Wasser
+0423		Gastrodon	Gastrodon	Tritosor	トリトドンTritodon	트리토돈Tritodon	海兔獸 / 海兔兽Hǎitùshòu	Wasser Boden
+0424		Ambidiffel	Ambipom	Capidextre	エテボースEteboth	겟핸보숭Gethainbosung	雙尾怪手 / 双尾怪手Shuāngwěiguàishǒu	Normal
+0425		Driftlon	Drifloon	Baudrive	フワンテFuwante	흔들풍손Hundlpungson	飄飄球 / 飘飘球Piāopiāoqiú	Geist Flug
+0426		Drifzepeli	Drifblim	Grodrive	フワライドFuwaride	둥실라이드Dungsilraid	隨風球 / 随风球Suífēngqiú	Geist Flug
+0427		Haspiror	Buneary	Laporeille	ミミロルMimirol	이어롤Ieorol	捲捲耳 / 卷卷耳Juǎnjuǎn'ěr	Normal
+0428		Schlapor	Lopunny	Lockpin	ミミロップMimilop	이어롭Ieorop	長耳兔 / 长耳兔Cháng'ěrtù	Normal
+0429		Traunmagil	Mismagius	Magirêve	ムウマージMumargi	무우마직Muumajik	夢妖魔 / 梦妖魔Mèngyāomó	Geist
+0430		Kramshef	Honchkrow	Corboss	ドンカラスDongkarasu	돈크로우Donkeurou	烏鴉頭頭 / 乌鸦头头Wūyātóutóu	Unlicht Flug
+0431		Charmian	Glameow	Chaglam	ニャルマーNyarmar	나옹마Naongma	魅力喵 / 魅力喵Mèilìmiāo	Normal
+0432		Shnurgarst	Purugly	Chaffreux	ブニャットBunyatto	몬냥이Monnyangi	東施喵 / 东施喵Dōngshīmiāo	Normal
+0433		Klingplim	Chingling	Korillon	リーシャンLisyan	랑딸랑Rangttallang	鈴鐺響 / 铃铛响Língdāngxiǎng	Psycho
+0434		Skunkapuh	Stunky	Moufouette	スカンプーSkunpuu	스컹뿡Skunbbung	臭鼬噗 / 臭鼬噗Chòuyòupū	Gift Unlicht
+0435		Skuntank	Skuntank	Moufflair	スカタンクSkutank	스컹탱크Skuntank	坦克臭鼬 / 坦克臭鼬Tǎnkèchòuyòu	Gift Unlicht
+0436		Bronzel	Bronzor	Archéomire	ドーミラーDohmirror	동미러Dongmirror	銅鏡怪 / 铜镜怪Tóngjìngguài	Stahl Psycho
+0437		Bronzong	Bronzong	Archéodong	ドータクンDohtakun	동탁군Dongtakgun	青銅鐘 / 青铜钟Qīngtóngzhōng	Stahl Psycho
+0438		Mobai	Bonsly	Manzaï	ウソハチUsohachi	꼬지지Kkojiji	盆才怪 / 盆才怪Péncáiguài	Gestein
+0439		Pantimimi	Mime Jr.	Mime Jr.	マネネManene	흉내내Hungnaenae	魔尼尼 / 魔尼尼Móníní	Psycho Fee
+0440		Wonneira	Happiny	Ptiravi	ピンプクPinpuku	핑복Pingbok	小福蛋 / 小福蛋Xiǎofúdàn	Normal
+0441		Plaudagei	Chatot	Pijako	ペラップPerap	페라페Perape	聒噪鳥 / 聒噪鸟Guōzàoniǎo	Normal Flug
+0442		Kryppuk	Spiritomb	Spiritomb	ミカルゲMikaruge	화강돌Hwagangdol	花岩怪 / 花岩怪Huāyánguài	Geist Unlicht
+0443		Kaumalat	Gible	Griknot	フカマルFukamaru	딥상어동Dipsangeodong	圓陸鯊 / 圆陆鲨Yuánlùshā	Drache Boden
+0444		Knarksel	Gabite	Carmache	ガバイトGabite	한바이트Hanbite	尖牙陸鯊 / 尖牙陆鲨Jiānyálùshā	Drache Boden
+0445		Knakrack	Garchomp	Carchacrok	ガブリアスGaburias	한카리아스Hankarias	烈咬陸鯊 / 烈咬陆鲨Lièyǎolùshā	Drache Boden
+0446		Mampfaxo	Munchlax	Goinfrex	ゴンベGonbe	먹고자Moukgoja	小卡比獸 / 小卡比兽Xiǎokǎbǐshòu	Normal
+0447		Riolu	Riolu	Riolu	リオルRiolu	리오르Riolu	利歐路 / 利欧路Lì'ōulù	Kampf
+0448		Lucario	Lucario	Lucario	ルカリオLucario	루카리오Lucario	路卡利歐 / 路卡利欧Lùkǎlì'ōu	Kampf Stahl
+0449		Hippopotas	Hippopotas	Hippopotas	ヒポポタスHippopotas	히포포타스Hipopotaseu	沙河馬 / 沙河马Shāhémǎ	Boden
+0450		Hippoterus	Hippowdon	Hippodocus	カバルドンKabaldon	하마돈Hamadon	河馬獸 / 河马兽Hémǎshòu	Boden
+0451		Pionskora	Skorupi	Rapion	スコルピScorupi	스콜피Skorupi	鉗尾蠍 / 钳尾蝎Qiánwěixiē	Gift Käfer
+0452		Piondragi	Drapion	Drascore	ドラピオンDorapion	드래피온Drapion	龍王蠍 / 龙王蝎Lóngwángxiē	Gift Unlicht
+0453		Glibunkel	Croagunk	Cradopaud	グレッグルGureggru	삐딱구리Pitakguri	不良蛙 / 不良蛙Bùliángwā	Gift Kampf
+0454		Toxiquak	Toxicroak	Coatox	ドクロッグDokurog	독개굴Dokgaegul	毒骷蛙 / 毒骷蛙Dùkūwā	Gift Kampf
+0455		Venuflibis	Carnivine	Vortente	マスキッパMuskippa	무스틈니Museuteumni	尖牙籠 / 尖牙笼Jiānyálóng	Pflanze
+0456		Finneon	Finneon	Écayon	ケイコウオKeikouo	형광어Hyeonggwangeo	螢光魚 / 荧光鱼Yíngguāngyú	Wasser
+0457		Lumineon	Lumineon	Luminéon	ネオラントNeolant	네오라이트Neolite	霓虹魚 / 霓虹鱼Níhóngyú	Wasser
+0458		Mantirps	Mantyke	Babimanta	タマンタTamanta	타만타Tamanta	小球飛魚 / 小球飞鱼Xiǎoqiúfēiyú	Wasser Flug
+0459		Shnebedeck	Snover	Blizzi	ユキカブリYukikaburi	눈쓰개Nunsseugae	雪笠怪 / 雪笠怪Xuělìguài	Pflanze Eis
+0460		Rexblisar	Abomasnow	Blizzaroi	ユキノオーYukinooh	눈설왕Nunseolwang	暴雪王 / 暴雪王Bàoxuěwáng	Pflanze Eis
+0461		Snibunna	Weavile	Dimoret	マニューラManyula	포푸니라Popunira	瑪狃拉 / 玛狃拉Mǎniǔlā	Unlicht Eis
+0462		Magnezone	Magnezone	Magnézone	ジバコイルJibacoil	자포코일Zapokoil	自爆磁怪 / 自爆磁怪Zìbàocíguài	Elektro Stahl
+0463		Schlurplek	Lickilicky	Coudlangue	ベロベルトBerobelt	내룸벨트Naerumbelt	大舌舔 / 大舌舔Dàshétiǎn	Normal
+0464		Rihornior	Rhyperior	Rhinastoc	ドサイドンDosidon	거대코뿌리Geodaekopuri	超甲狂犀 / 超甲狂犀Chāojiǎkuángxī	Boden Gestein
+0465		Tangoloss	Tangrowth	Bouldeneu	モジャンボMojumbo	덩쿠림보Deongkurimbo	巨蔓藤 / 巨蔓藤Jùmànténg	Pflanze
+0466		Elevoltek	Electivire	Élekable	エレキブルElekible	에레키블Elekible	電擊魔獸 / 电击魔兽Diànjīmóshòu	Elektro
+0467		Magbrant	Magmortar	Maganon	ブーバーンBooburn	마그마번Magmaburn	鴨嘴炎獸 / 鸭嘴炎兽Yāzuǐyánshòu	Feuer
+0468		Togekiss	Togekiss	Togekiss	トゲキッスTogekiss	토게키스Togekiss	波克基斯 / 波克基斯Bōkèjīsī	Fee Flug
+0469		Yanmega	Yanmega	Yanmega	メガヤンマMegayanma	메가자리Megajari	遠古巨蜓 / 远古巨蜓Yuǎngǔjùtíng	Käfer Flug
+0470		Folipurba	Leafeon	Phyllali	リーフィアLeafia	리피아Lipia	葉伊布 / 叶伊布Yèyībù	Pflanze
+0471		Glaziola	Glaceon	Givrali	グレイシアGlacia	글레이시아Geulleisia	冰伊布 / 冰伊布Bīngyībù	Eis
+0472		Skorgro	Gliscor	Scorvol	グライオンGlion	글라이온Glion	天蠍王 / 天蝎王Tiānxiēwáng	Boden Flug
+0473		Mamutel	Mamoswine	Mammochon	マンムーMammoo	맘모꾸리Mammokkuri	象牙豬 / 象牙猪Xiàngyázhū	Eis Boden
+0474		Porygon-Z	Porygon-Z	Porygon-Z	ポリゴンＺPorygon-Z	폴리곤ZPorygonZ	多邊獸Ｚ / 多边兽乙型DuōbiānshòuZ / Duōbiānshòuyǐxíng	Normal
+0475		Galagladi	Gallade	Gallame	エルレイドErureido	엘레이드Ellade	艾路雷朵 / 艾路雷朵Àilùléiduǒ	Psycho Kampf
+0476		Voluminas	Probopass	Tarinorme	ダイノーズDainose	대코파스Daekopas	大朝北鼻 / 大朝北鼻Dàcháoběibí	Gestein Stahl
+0477		Zwirrfinst	Dusknoir	Noctunoir	ヨノワールYonoir	야느와르몽Yaneuwareumong	黑夜魔靈 / 黑夜魔灵Hēiyèmólíng	Geist
+0478		Frosdedje	Froslass	Momartik	ユキメノコYukimenoko	눈여아Nunyeoa	雪妖女 / 雪妖女Xuěyāonǚ	Eis Geist
+0479		Rotom	Rotom	Motisma	ロトムRotom	로토무Rotomu	洛托姆 / 洛托姆Luòtuōmǔ	Elektro Geist
+0480		Selfe	Uxie	Créhelf	ユクシーYuxie	유크시Yuxie	由克希 / 由克希Yóukèxī	Psycho
+0481		Vesprit	Mesprit	Créfollet	エムリットEmrit	엠라이트Emrite	艾姆利多 / 艾姆利多Àimǔlìduō	Psycho
+0482		Tobutz	Azelf	Créfadet	アグノムAgnome	아그놈Agnome	亞克諾姆 / 亚克诺姆Yàkènuòmǔ	Psycho
+0483		Dialga	Dialga	Dialga	ディアルガDialga	디아루가Dialga	帝牙盧卡 / 帝牙卢卡Dìyálúkǎ	Stahl Drache
+0484		Palkia	Palkia	Palkia	パルキアPalkia	펄기아Palkia	帕路奇亞 / 帕路奇亚Pàlùqíyà	Wasser Drache
+0485		Heatran	Heatran	Heatran	ヒードランHeatran	히드런Heatran	席多藍恩 / 席多蓝恩Xíduōlán'ēn	Feuer Stahl
+0486		Regigigas	Regigigas	Regigigas	レジギガスRegigigas	레지기가스Regigigas	雷吉奇卡斯 / 雷吉奇卡斯Léijíqíkǎsī	Normal
+0487		Giratina	Giratina	Giratina	ギラティナGiratina	기라티나Giratina	騎拉帝納 / 骑拉帝纳Qílādìnà	Geist Drache
+0488		Cresselia	Cresselia	Cresselia	クレセリアCresselia	크레세리아Cresselia	克雷色利亞 / 克雷色利亚Kèléisèlìyà	Psycho
+0489		Phione	Phione	Phione	フィオネPhione	피오네Phione	霏歐納 / 霏欧纳Fēi'ōunà	Wasser
+0490		Manaphy	Manaphy	Manaphy	マナフィManaphy	마나피Manaphy	瑪納霏 / 玛纳霏Mǎnàfēi	Wasser
+0491		Darkrai	Darkrai	Darkrai	ダークライDarkrai	다크라이Darkrai	達克萊伊 / 达克莱伊Dákèláiyī	Unlicht
+0492		Shaymin	Shaymin	Shaymin	シェイミShaymin	쉐이미Shaymin	謝米 / 谢米Xièmǐ	Pflanze
+0493		Arceus	Arceus	Arceus	アルセウスArceus	아르세우스Arceus	阿爾宙斯 / 阿尔宙斯Ā'ěrzhòusī	Normal
+0494		Victini	Victini	Victini	ビクティニVictini	비크티니Bikeutini	比克提尼 / 比克提尼Bǐkètíní	Psycho Feuer
+0495		Serpifeu	Snivy	Vipélierre	ツタージャTsutarja	주리비얀Juribiyan	藤藤蛇 / 藤藤蛇Téngténgshé	Pflanze
+0496		Efoserp	Servine	Lianaja	ジャノビーJanovy	샤비Syabi	青藤蛇 / 青藤蛇Qīngténgshé	Pflanze
+0497		Serpiroyal	Serperior	Majaspic	ジャローダJalorda	샤로다Syaroda	君主蛇 / 君主蛇Jūnzhǔshé	Pflanze
+0498		Floink	Tepig	Gruikui	ポカブPokabu	뚜꾸리Ttukkuri	暖暖豬 / 暖暖猪Nuǎnnuǎnzhū	Feuer
+0499		Ferkokel	Pignite	Grotichon	チャオブーChaoboo	챠오꿀Chaokkul	炒炒豬 / 炒炒猪Chǎochǎozhū	Feuer Kampf
+0500		Flambirex	Emboar	Roitiflam	エンブオーEnbuoh	염무왕Yeommuwang	炎武王 / 炎武王Yánwǔwáng	Feuer Kampf
+0501		Ottaro	Oshawott	Moustillon	ミジュマルMijumaru	수댕이Sudaengi	水水獺 / 水水獭Shuǐshuǐtǎ	Wasser
+0502		Zwottronin	Dewott	Mateloutre	フタチマルFutachimaru	쌍검자비Ssangeomzabi	雙刃丸 / 双刃丸Shuāngrènwán	Wasser
+0503		Admurai	Samurott	Clamiral	ダイケンキDaikenki	대검귀Daegeomgwi	大劍鬼 / 大剑鬼Dàjiànguǐ	Wasser
+0504		Nagelotz	Patrat	Ratentif	ミネズミMinezumi	보르쥐Borujwi	探探鼠 / 探探鼠Tàntànshŭ	Normal
+0505		Kukmarda	Watchog	Miradar	ミルホッグMiruhog	보르그Borugu	步哨鼠 / 步哨鼠Bùshàoshŭ	Normal
+0506		Yorkleff	Lillipup	Ponchiot	ヨーテリーYorterrie	요테리Yorterrie	小約克 / 小约克Xiǎoyuēkè	Normal
+0507		Terribark	Herdier	Ponchien	ハーデリアHerderrie	하데리어Herderrie	哈約克 / 哈约克Hāyuēkè	Normal
+0508		Bissbark	Stoutland	Mastouffe	ムーランドMooland	바랜드Baland	長毛狗 / 长毛狗Chángmáogŏu	Normal
+0509		Felilou	Purrloin	Chacripan	チョロネコChoroneko	쌔비냥Ssaebinyang	扒手貓 / 扒手猫Páshǒumāo	Unlicht
+0510		Kleoparda	Liepard	Léopardus	レパルダスLepardas	레파르다스Lepardas	酷豹 / 酷豹Kùbào	Unlicht
+0511		Vegimak	Pansage	Feuillajou	ヤナップYanappu	야나프Yanappu	花椰猴 / 花椰猴Huāyēhóu	Pflanze
+0512		Vegichita	Simisage	Feuiloutan	ヤナッキーYanakkie	야나키Yanakkie	花椰猿 / 花椰猿Huāyēyuán	Pflanze
+0513		Grillmak	Pansear	Flamajou	バオップBaoppu	바오프Baoppu	爆香猴 / 爆香猴Bàoxiānghóu	Feuer
+0514		Grillchita	Simisear	Flamoutan	バオッキーBaokkie	바오키Baokkie	爆香猿 / 爆香猿Bàoxiāngyuán	Feuer
+0515		Sodamak	Panpour	Flotajou	ヒヤップHiyappu	앗차프Atchappu	冷水猴 / 冷水猴Lěngshuǐhóu	Wasser
+0516		Sodachita	Simipour	Flotoutan	ヒヤッキーHiyakkie	앗차키Atchakkie	冷水猿 / 冷水猿Lěngshuǐyuán	Wasser
+0517		Somniam	Munna	Munna	ムンナMunna	몽나Mongna	食夢夢 / 食梦梦Shímèngmèng	Psycho
+0518		Somnivora	Musharna	Mushana	ムシャーナMusharna	몽얌나Mongyamna	夢夢蝕 / 梦梦蚀Mèngmèngshí	Psycho
+0519		Dusselgurr	Pidove	Poichigeon	マメパトMamepato	콩둘기Kongdulgi	豆豆鴿 / 豆豆鸽Dòudòugē	Normal Flug
+0520		Navitaub	Tranquill	Colombeau	ハトーボーHatoboh	유토브Yutobu	咕咕鴿 / 咕咕鸽Gūgūgē	Normal Flug
+0521		Fasasnob	Unfezant	Déflaisan	ケンホロウKenhallow	켄호로우Kenhorrow	高傲雉雞 / 高傲雉鸡Gāo'àozhìjī	Normal Flug
+0522		Elezeba	Blitzle	Zébibron	シママShimama	줄뮤마Julmyuma	斑斑馬 / 斑斑马Bānbānmǎ	Elektro
+0523		Zebritz	Zebstrika	Zéblitz	ゼブライカZebraika	제브라이카Zebraika	雷電斑馬 / 雷电斑马Léidiànbānmǎ	Elektro
+0524		Kiesling	Roggenrola	Nodulithe	ダンゴロDangoro	단굴Dangul	石丸子 / 石丸子Shíwánzǐ	Gestein
+0525		Sedimantur	Boldore	Géolithe	ガントルGantle	암트르Amtru	地幔岩 / 地幔岩Dìmànyán	Gestein
+0526		Brockoloss	Gigalith	Gigalithe	ギガイアスGigaiath	기가이어스Gigaiath	龐岩怪 / 庞岩怪Pángyánguài	Gestein
+0527		Fleknoil	Woobat	Chovsourir	コロモリKoromori	또르박쥐Ttorbakjwi	滾滾蝙蝠 / 滚滚蝙蝠Gǔngǔnbiānfú	Psycho Flug
+0528		Fletiamo	Swoobat	Rhinolove	ココロモリKokoromori	맘박쥐Mambakjwi	心蝙蝠 / 心蝙蝠Xīnbiānfú	Psycho Flug
+0529		Rotomurf	Drilbur	Rototaupe	モグリューMogurew	두더류Dudeoryu	螺釘地鼠 / 螺钉地鼠Luódīngdìshǔ	Boden
+0530		Stalobor	Excadrill	Minotaupe	ドリュウズDoryuzu	몰드류Moldryu	龍頭地鼠 / 龙头地鼠Lóngtóudìshǔ	Boden Stahl
+0531		Ohrdoch	Audino	Nanméouïe	タブンネTabunne	다부니Dabunie	差不多娃娃 / 差不多娃娃Chàbùduōwáwá	Normal
+0532		Praktibalk	Timburr	Charpenti	ドッコラーDokkorer	으랏차Uratcha	搬運小匠 / 搬运小匠Bānyùnxiǎojiàng	Kampf
+0533		Strepoli	Gurdurr	Ouvrifier	ドテッコツDotekkotsu	토쇠골Tosoegol	鐵骨土人 / 铁骨土人Tiěgǔtǔrén	Kampf
+0534		Meistagrif	Conkeldurr	Bétochef	ローブシンRoubushin	노보청Nobocheong	修建老匠 / 修建老匠Xiūjiànlǎojiàng	Kampf
+0535		Schallquap	Tympole	Tritonde	オタマロOtamaro	동챙이Dongchaengi	圓蝌蚪 / 圆蝌蚪Yuánkēdǒu	Wasser
+0536		Mebrana	Palpitoad	Batracné	ガマガルGamagaru	두까비Dukkabi	藍蟾蜍 / 蓝蟾蜍Lánchánchú	Wasser Boden
+0537		Branawarz	Seismitoad	Crapustule	ガマゲロゲGamageroge	두빅굴Dubiggul	蟾蜍王 / 蟾蜍王Chánchúwáng	Wasser Boden
+0538		Jiutesto	Throh	Judokrak	ナゲキNageki	던지미Deonjimi	投摔鬼 / 投摔鬼Tóushuāiguǐ	Kampf
+0539		Karadonis	Sawk	Karaclée	ダゲキDageki	타격귀Tagyeokgwi	打擊鬼 / 打击鬼Dǎjīguǐ	Kampf
+0540		Strawickl	Sewaddle	Larveyette	クルミルKurumiru	두르보Durbo	蟲寶包 / 虫宝包Chóngbǎobāo	Käfer Pflanze
+0541		Folikon	Swadloon	Couverdure	クルマユKurumayu	두르쿤Durcoon	寶包繭 / 宝包茧Bǎobāojiǎn	Käfer Pflanze
+0542		Matrifol	Leavanny	Manternel	ハハコモリHahakomori	모아머Moameo	保母蟲 / 保姆虫Bǎomǔchóng	Käfer Pflanze
+0543		Toxiped	Venipede	Venipatte	フシデFushide	마디네Madine	百足蜈蚣 / 百足蜈蚣Bǎizúwúgōng	Käfer Gift
+0544		Rollum	Whirlipede	Scobolide	ホイーガWheega	휠구Hwilgu	車輪毬 / 车轮球Chēlúnqiú	Käfer Gift
+0545		Cerapendra	Scolipede	Brutapode	ペンドラーPendror	펜드라Pendror	蜈蚣王 / 蜈蚣王Wúgōngwáng	Käfer Gift
+0546		Waumboll	Cottonee	Doudouvet	モンメンMonmen	소미안Somian	木棉球 / 木棉球Mùmiánqiú	Pflanze Fee
+0547		Elfun	Whimsicott	Farfaduvet	エルフーンElfuun	엘풍Elfuun	風妖精 / 风妖精Fēngyāojīng	Pflanze Fee
+0548		Lilminip	Petilil	Chlorobule	チュリネChurine	치릴리Chirilri	百合根娃娃 / 百合根娃娃Bǎihégēnwáwá	Pflanze
+0549		Dressella	Lilligant	Fragilady	ドレディアDredear	드레디어Dredear	裙兒小姐 / 裙儿小姐Qún'érxiǎojiě	Pflanze
+0550		Barschuft	Basculin	Bargantua	バスラオBassrao	배쓰나이Bessnai	野蠻鱸魚 / 野蛮鲈鱼Yěmánlúyú	Wasser
+0551		Ganovil	Sandile	Mascaïman	メグロコMeguroco	깜눈크Kkamnunku	黑眼鱷 / 黑眼鳄Hēiyǎn'è	Boden Unlicht
+0552		Rokkaiman	Krokorok	Escroco	ワルビルWaruvile	악비르Akbir	混混鱷 / 混混鳄Hùnhùn'è	Boden Unlicht
+0553		Rabigator	Krookodile	Crocorible	ワルビアルWaruvial	악비아르Akbiar	流氓鱷 / 流氓鳄Liúmáng'è	Boden Unlicht
+0554		Flampion	Darumaka	Darumarond	ダルマッカDarumakka	달막화Dalmakhwa	火紅不倒翁 / 火红不倒翁Huǒhóngbùdǎowēng	Feuer
+0555		Flampivian	Darmanitan	Darumacho	ヒヒダルマHihidaruma	불비달마Bulbidalma	達摩狒狒 / 达摩狒狒Dámófèifèi	Feuer
+0556		Maracamba	Maractus	Maracachi	マラカッチMaracacchi	마라카치Maracacchi	沙鈴仙人掌 / 沙铃仙人掌Shālíngxiānrénzhǎng	Pflanze
+0557		Lithomith	Dwebble	Crabicoque	イシズマイIshizumai	돌살이Dolsari	石居蟹 / 石居蟹Shíjūxiè	Käfer Gestein
+0558		Castellith	Crustle	Crabaraque	イワパレスIwapalace	암팰리스Ampalace	岩殿居蟹 / 岩殿居蟹Yándiànjūxiè	Käfer Gestein
+0559		Zurrokex	Scraggy	Baggiguane	ズルッグZuruggu	곤율랭Gonyulraeng	滑滑小子 / 滑滑小子Huáhuáxiǎozǐ	Unlicht Kampf
+0560		Irokex	Scrafty	Baggaïd	ズルズキンZuruzukin	곤율거니Gonyulgeoni	頭巾混混 / 头巾混混Tóujīnhùnhùn	Unlicht Kampf
+0561		Symvolara	Sigilyph	Cryptéro	シンボラーSymboler	심보러Symboler	象徵鳥 / 象征鸟Xiàngzhēngniǎo	Psycho Flug
+0562		Makabaja	Yamask	Tutafeh	デスマスDesumasu	데스마스Desumasu	哭哭面具 / 哭哭面具Kūkūmiànjù	Geist
+0563		Echnatoll	Cofagrigus	Tutankafer	デスカーンDesukarn	데스니칸Desunikan	死神棺 / 迭失棺Sǐshénguān / Diéshīguān	Geist
+0564		Galapaflos	Tirtouga	Carapagos	プロトーガProtoga	프로토가Protoga	原蓋海龜 / 原盖海龟Yuángàihǎiguī	Wasser Gestein
+0565		Karippas	Carracosta	Mégapagos	アバゴーラAbagoura	늑골라Neukgolra	肋骨海龜 / 肋骨海龟Lèigǔhǎiguī	Wasser Gestein
+0566		Flapteryx	Archen	Arkéapti	アーケンArchen	아켄Aken	始祖小鳥 / 始祖小鸟Shǐzǔxiǎoniǎo	Gestein Flug
+0567		Aeropteryx	Archeops	Aéroptéryx	アーケオスArcheos	아케오스Akeos	始祖大鳥 / 始祖大鸟Shǐzǔdàniǎo	Gestein Flug
+0568		Unratütox	Trubbish	Miamiasme	ヤブクロンYabukuron	깨봉이Kkaebongi	破破袋 / 破破袋Pòpòdài	Gift
+0569		Deponitox	Garbodor	Miasmax	ダストダスDustdas	더스트나Dustna	灰塵山 / 灰尘山Huīchénshān	Gift
+0570		Zorua	Zorua	Zorua	ゾロアZorua	조로아Zorua	索羅亞 / 索罗亚Suǒluóyà	Unlicht
+0571		Zoroark	Zoroark	Zoroark	ゾロアークZoroark	조로아크Zoroark	索羅亞克 / 索罗亚克Suǒluóyàkè	Unlicht
+0572		Picochilla	Minccino	Chinchidou	チラーミィChillarmy	치라미Chillarmy	泡沫栗鼠 / 泡沫栗鼠Pàomòlìshǔ	Normal
+0573		Chillabell	Cinccino	Pashmilla	チラチーノChillaccino	치라치노Chillaccino	奇諾栗鼠 / 奇诺栗鼠Qínuòlìshǔ	Normal
+0574		Mollimorba	Gothita	Scrutella	ゴチムGothimu	고디탱Goditeng	哥德寶寶 / 哥德宝宝Gēdébǎobǎo	Psycho
+0575		Hypnomorba	Gothorita	Mesmérella	ゴチミルGothimiru	고디보미Godibomi	哥德小童 / 哥德小童Gēdéxiǎotóng	Psycho
+0576		Morbitesse	Gothitelle	Sidérella	ゴチルゼルGothiruselle	고디모아젤Godimoiselle	哥德小姐 / 哥德小姐Gēdéxiǎojiě	Psycho
+0577		Monozyto	Solosis	Nucléos	ユニランUniran	유니란Uniran	單卵細胞球 / 单卵细胞球Dānluǎnxìbāoqiú	Psycho
+0578		Mitodos	Duosion	Méios	ダブランDoublan	듀란Dyuran	雙卵細胞球 / 双卵细胞球Shuāngluǎnxìbāoqiú	Psycho
+0579		Zytomega	Reuniclus	Symbios	ランクルスLanculus	란쿨루스Lanculus	人造細胞卵 / 人造细胞卵Rénzàoxìbāoluǎn	Psycho
+0580		Piccolente	Ducklett	Couaneton	コアルヒーKoaruhie	꼬지보리Kkojibori	鴨寶寶 / 鸭宝宝Yābǎobǎo	Wasser Flug
+0581		Swaroness	Swanna	Lakmécygne	スワンナSwanna	스완나Swanna	舞天鵝 / 舞天鹅Wǔtiān'é	Wasser Flug
+0582		Gelatini	Vanillite	Sorbébé	バニプッチVanipeti	바닐프티Vanipeti	迷你冰 / 迷你冰Mínǐbīng	Eis
+0583		Gelatroppo	Vanillish	Sorboul	バニリッチVanirich	바닐리치Vanirich	多多冰 / 多多冰Duōduōbīng	Eis
+0584		Gelatwino	Vanilluxe	Sorbouboul	バイバニラBaivanilla	배바닐라Baevanilla	雙倍多多冰 / 双倍多多冰Shuāngbèiduōduōbīng	Eis
+0585		Sesokitz	Deerling	Vivaldaim	シキジカShikijika	사철록Sacheolrok	四季鹿 / 四季鹿Sìjìlù	Normal Pflanze
+0586		Kronjuwild	Sawsbuck	Haydaim	メブキジカMebukijika	바라철록Baracheolrok	萌芽鹿 / 萌芽鹿Méngyálù	Normal Pflanze
+0587		Emolga	Emolga	Emolga	エモンガEmonga	에몽가Emonga	電飛鼠 / 电飞鼠Diànfēishǔ	Elektro Flug
+0588		Laukaps	Karrablast	Carabing	カブルモKaburumo	딱정곤Ttakjeonggon	蓋蓋蟲 / 盖盖虫Gàigàichóng	Käfer
+0589		Cavalanzas	Escavalier	Lançargot	シュバルゴChevargo	슈바르고Chevargo	騎士蝸牛 / 骑士蜗牛Qíshìwōniú	Käfer Stahl
+0590		Tarnpignon	Foongus	Trompignon	タマゲタケTamagetake	깜놀버슬Kamnolberseul	哎呀球菇 / 哎呀球菇Āiyāqiúgū	Pflanze Gift
+0591		Hutsassa	Amoonguss	Gaulet	モロバレルMorobareru	뽀록나Pporokna	敗露球菇 / 败露球菇Bàilùqiúgū	Pflanze Gift
+0592		Quabbel	Frillish	Viskuse	プルリルPururill	탱그릴Tengguril	輕飄飄 / 轻飘飘Qīngpiāopiāo	Wasser Geist
+0593		Apoquallyp	Jellicent	Moyade	ブルンゲルBurungel	탱탱겔Taengtaenggel	胖嘟嘟 / 胖嘟嘟Pàngdūdū	Wasser Geist
+0594		Mamolida	Alomomola	Mamanbo	ママンボウMamanbou	맘복치Mambokchi	保母曼波 / 保姆曼波Bǎomǔmànbō	Wasser
+0595		Wattzapf	Joltik	Statitik	バチュルBachuru	피쪼옥Pazzouok	電電蟲 / 电电虫Diàndiànchóng	Käfer Elektro
+0596		Voltula	Galvantula	Mygavolt	デンチュラDentula	전툴라Jeontula	電蜘蛛 / 电蜘蛛Diànzhīzhū	Käfer Elektro
+0597		Kastadur	Ferroseed	Grindur	テッシードTesseed	철시드Cheolseed	種子鐵球 / 种子铁球Zhǒngzǐtiěqiú	Pflanze Stahl
+0598		Tentantel	Ferrothorn	Noacier	ナットレイNutrey	너트령Nutryung	堅果啞鈴 / 坚果哑铃Jiānguǒyǎlíng	Pflanze Stahl
+0599		Klikk	Klink	Tic	ギアルGiaru	기어르Giaru	齒輪兒 / 齿轮儿Chǐlún'ér	Stahl
+0600		Kliklak	Klang	Clic	ギギアルGigiaru	기기어르Gigiaru	齒輪組 / 齿轮组Chǐlúnzǔ	Stahl
+0601		Klikdiklak	Klinklang	Cliticlic	ギギギアルGigigiaru	기기기어르Gigigiaru	齒輪怪 / 齿轮怪Chǐlúnguài	Stahl
+0602		Zapplardin	Tynamo	Anchwatt	シビシラスShibishirasu	저리어Jeorieo	麻麻小魚 / 麻麻小鱼Mámáxiǎoyú	Elektro
+0603		Zapplalek	Eelektrik	Lampéroie	シビビールShibibeel	저리릴Jeoriril	麻麻鰻 / 麻麻鳗Mámámán	Elektro
+0604		Zapplarang	Eelektross	Ohmassacre	シビルドンShibirudon	저리더프Jeorideof	麻麻鰻魚王 / 麻麻鳗鱼王Mámámányúwáng	Elektro
+0605		Pygraulon	Elgyem	Lewsor	リグレーLigray	리그레Ligray	小灰怪 / 小灰怪Xiǎohuīguài	Psycho
+0606		Megalon	Beheeyem	Neitram	オーベムOhbem	벰크Bemk	大宇怪 / 大宇怪Dàyǔguài	Psycho
+0607		Lichtel	Litwick	Funécire	ヒトモシHitomoshi	불켜미Bulkyeomi	燭光靈 / 烛光灵Zhúguānglíng	Geist Feuer
+0608		Laternecto	Lampent	Mélancolux	ランプラーLampler	램프라Lampler	燈火幽靈 / 灯火幽灵Dēnghuǒyōulíng	Geist Feuer
+0609		Skelabra	Chandelure	Lugulabre	シャンデラChandela	샹델라Chandela	水晶燈火靈 / 水晶灯火灵Shuǐjīngdēnghuǒlíng	Geist Feuer
+0610		Milza	Axew	Coupenotte	キバゴKibago	터검니Teogeomni	牙牙 / 牙牙Yáyá	Drache
+0611		Sharfax	Fraxure	Incisache	オノンドOnondo	액슨도Axndo	斧牙龍 / 斧牙龙Fǔyálóng	Drache
+0612		Maxax	Haxorus	Tranchodon	オノノクスOnonokus	액스라이즈Axrise	雙斧戰龍 / 双斧战龙Shuāngfǔzhànlóng	Drache
+0613		Petznief	Cubchoo	Polarhume	クマシュンKumasyun	코고미Kogomi	噴嚏熊 / 喷嚏熊Pēntìxióng	Eis
+0614		Siberio	Beartic	Polagriffe	ツンベアーTunbear	툰베어Tunbear	凍原熊 / 冻原熊Dòngyuánxióng	Eis
+0615		Frigometri	Cryogonal	Hexagel	フリージオFreegeo	프리지오Freegeo	幾何雪花 / 几何雪花Jǐhéxuěhuā	Eis
+0616		Schnuthelm	Shelmet	Escargaume	チョボマキChobomaki	쪼마리Jjomari	小嘴蝸 / 小嘴蜗Xiǎozuǐwō	Käfer
+0617		Hydragil	Accelgor	Limaspeed	アギルダーAgilder	어지리더Eojirideo	敏捷蟲 / 敏捷虫Mǐnjiéchóng	Käfer
+0618		Flunschlik	Stunfisk	Limonde	マッギョMaggyo	메더Medeo	泥巴魚 / 泥巴鱼Níbāyú	Boden Elektro
+0619		Lin-Fu	Mienfoo	Kungfouine	コジョフーKojofu	비조푸Bizofu	功夫鼬 / 功夫鼬Gōngfūyòu	Kampf
+0620		Wie-Shu	Mienshao	Shaofouine	コジョンドKojondo	비조도Bizodo	師父鼬 / 师父鼬Shīfùyòu	Kampf
+0621		Shardrago	Druddigon	Drakkarmin	クリムガンCrimgan	크리만Criman	赤面龍 / 赤面龙Chìmiànlóng	Drache
+0622		Golbit	Golett	Gringolem	ゴビットGobit	골비람Golbiram	泥偶小人 / 泥偶小人Ní'ǒuxiǎorén	Boden Geist
+0623		Golgantes	Golurk	Golemastoc	ゴルーグGoloog	골루그Goloog	泥偶巨人 / 泥偶巨人Ní'ǒujùrén	Boden Geist
+0624		Gladiantri	Pawniard	Scalpion	コマタナKomatana	자망칼Jamangkal	駒刀小兵 / 驹刀小兵Jūdāoxiǎobīng	Unlicht Stahl
+0625		Caesurio	Bisharp	Scalproie	キリキザンKirikizan	절각참Jeolgakcham	劈斬司令 / 劈斩司令Pīzhǎnsīlìng	Unlicht Stahl
+0626		Bisofank	Bouffalant	Frison	バッフロンBuffron	버프론Buffron	爆炸頭水牛 / 爆炸头水牛Bàozhàtóushuǐniú	Normal
+0627		Geronimatz	Rufflet	Furaiglon	ワシボンWashibon	수리둥보Suridungbo	毛頭小鷹 / 毛头小鹰Máotóuxiǎoyīng	Normal Flug
+0628		Washakwil	Braviary	Gueriaigle	ウォーグルWarrgle	워글Warrgle	勇士雄鷹 / 勇士雄鹰Yǒngshìxióngyīng	Normal Flug
+0629		Skallyk	Vullaby	Vostourno	バルチャイValchai	벌차이Beolchai	禿鷹丫頭 / 秃鹰丫头Tūyīngyātóu	Unlicht Flug
+0630		Grypheldis	Mandibuzz	Vaututrice	バルジーナVulgina	버랜지나Beorenjina	禿鷹娜 / 秃鹰娜Tūyīngnà	Unlicht Flug
+0631		Furnifraß	Heatmor	Aflamanoir	クイタランKuitaran	앤티골Antigol	熔蟻獸 / 熔蚁兽Róngyǐshòu	Feuer
+0632		Fermicula	Durant	Fermite	アイアントAiant	아이앤트Aiant	鐵蟻 / 铁蚁Tiěyǐ	Käfer Stahl
+0633		Kapuno	Deino	Solochi	モノズMonozu	모노두Monodoo	單首龍 / 单首龙Dānshǒulóng	Unlicht Drache
+0634		Duodino	Zweilous	Diamat	ジヘッドDihead	디헤드Dihead	雙首暴龍 / 双首暴龙Shuāngshǒubàolóng	Unlicht Drache
+0635		Trikephalo	Hydreigon	Trioxhydre	サザンドラSazandora	삼삼드래Samsamdrae	三首惡龍 / 三首恶龙Sānshǒu'èlóng	Unlicht Drache
+0636		Ignivor	Larvesta	Pyronille	メラルバMerlarva	활화르바Hwalhwaruba	燃燒蟲 / 燃烧虫Ránshāochóng	Käfer Feuer
+0637		Ramoth	Volcarona	Pyrax	ウルガモスUlgamoth	불카모스Bulkamos	火神蛾 / 火神蛾Huǒshén'é	Käfer Feuer
+0638		Kobalium	Cobalion	Cobaltium	コバルオンCobalon	코바르온Cobalon	勾帕路翁 / 勾帕路翁Gōupàlùwēng	Stahl Kampf
+0639		Terrakium	Terrakion	Terrakium	テラキオンTerrakion	테라키온Terrakion	代拉基翁 / 代拉基翁Dàilājīwēng	Gestein Kampf
+0640		Viridium	Virizion	Viridium	ビリジオンVirizion	비리디온Virizion	畢力吉翁 / 毕力吉翁Bìlìjíwēng	Pflanze Kampf
+0641		Boreos	Tornadus	Boréas	トルネロスTornelos	토네로스Tornelos	龍捲雲 / 龙卷云Lóngjuǎnyún	Flug
+0642		Voltolos	Thundurus	Fulguris	ボルトロスVoltolos	볼트로스Voltolos	雷電雲 / 雷电云Léidiànyún	Elektro Flug
+0643		Reshiram	Reshiram	Reshiram	レシラムReshiram	레시라무Reshiram	萊希拉姆 / 莱希拉姆Láixīlāmǔ	Drache Feuer
+0644		Zekrom	Zekrom	Zekrom	ゼクロムZekrom	제크로무Zekrom	捷克羅姆 / 捷克罗姆Jiékèluómǔ	Drache Elektro
+0645		Demeteros	Landorus	Démétéros	ランドロスLandlos	랜드로스Landlos	土地雲 / 土地云Tǔdìyún	Boden Flug
+0646		Kyurem	Kyurem	Kyurem	キュレムKyurem	큐레무Kyurem	酋雷姆 / 酋雷姆Qiúléimǔ	Drache Eis
+0647		Keldeo	Keldeo	Keldeo	ケルディオKeldeo	케르디오Kereudio	凱路迪歐 / 凯路迪欧Kǎilùdí'ōu	Wasser Kampf
+0648		Meloetta	Meloetta	Meloetta	メロエッタMeloetta	메로엣타Meroetta	美洛耶塔 / 美洛耶塔Měiluòyētǎ	Normal Psycho
+0649		Genesect	Genesect	Genesect	ゲノセクトGenesect	게노세크트Genosekeuteu	蓋諾賽克特 / 盖诺赛克特Gàinuòsàikètè	Käfer Stahl
+0650		Igamaro	Chespin	Marisson	ハリマロンHarimaron	도치마론Dochimaron	哈力栗 / 哈力栗Hālìlì	Pflanze
+0651		Igastarnish	Quilladin	Boguérisse	ハリボーグHariborg	도치보구Dochibogu	胖胖哈力 / 胖胖哈力Pàngpànghālì	Pflanze
+0652		Brigaron	Chesnaught	Blindépique	ブリガロンBrigarron	브리가론Beurigaron	布里卡隆 / 布里卡隆Bùlǐkǎlóng	Pflanze Kampf
+0653		Fynx	Fennekin	Feunnec	フォッコFokko	푸호꼬Puhokko	火狐狸 / 火狐狸Huǒhúlí	Feuer
+0654		Rutena	Braixen	Roussil	テールナーTairenar	테르나Tereuna	長尾火狐 / 长尾火狐Chángwěihuǒhú	Feuer
+0655		Fennexis	Delphox	Goupelin	マフォクシーMahoxy	마폭시Mapoksi	妖火紅狐 / 妖火红狐Yāohuǒhónghú	Feuer Psycho
+0656		Froxy	Froakie	Grenousse	ケロマツKeromatsu	개구마르Gaegumareu	呱呱泡蛙 / 呱呱泡蛙Guāguāpàowā	Wasser
+0657		Amphizel	Frogadier	Croâporal	ゲコガシラGekogashira	개굴반장Gaegulbanjang	呱頭蛙 / 呱头蛙Guātóuwā	Wasser
+0658		Quajutsu	Greninja	Amphinobi	ゲッコウガGekkouga	개굴닌자Gaegulninja	甲賀忍蛙 / 甲贺忍蛙Jiǎhèrěnwā	Wasser Unlicht
+0659		Scoppel	Bunnelby	Sapereau	ホルビーHorubee	파르빗Pareubit	掘掘兔 / 掘掘兔Juéjuétù	Normal
+0660		Grebbit	Diggersby	Excavarenne	ホルードHorudo	파르토Pareuto	掘地兔 / 掘地兔Juédìtù	Normal Boden
+0661		Dartiri	Fletchling	Passerouge	ヤヤコマYayakoma	화살꼬빈Hwasalkkobin	小箭雀 / 小箭雀Xiǎojiànquè	Normal Flug
+0662		Dartignis	Fletchinder	Braisillon	ヒノヤコマHinoyakoma	불화살빈Bulhwasalbin	火箭雀 / 火箭雀Huǒjiànquè	Feuer Flug
+0663		Fiaro	Talonflame	Flambusard	ファイアローFiarrow	파이어로Paieoro	烈箭鷹 / 烈箭鹰Lièjiànyīng	Feuer Flug
+0664		Purmel	Scatterbug	Lépidonille	コフキムシKofukimushi	분이벌레Bunibeolle	粉蝶蟲 / 粉蝶虫Fěndiéchóng	Käfer
+0665		Puponcho	Spewpa	Pérégrain	コフーライKofuurai	분떠도리Buntteodori	粉蝶蛹 / 粉蝶蛹Fěndiéyǒng	Käfer
+0666		Vivillon	Vivillon	Prismillon	ビビヨンViviyon	비비용Bibiyong	彩粉蝶 / 彩粉蝶Cǎifěndié	Käfer Flug
+0667		Leufeo	Litleo	Hélionceau	シシコShishiko	레오꼬Reokko	小獅獅 / 小狮狮Xiǎoshīshī	Feuer Normal
+0668		Pyroleo	Pyroar	Némélios	カエンジシKaenjishi	화염레오Hwayeomreo	火炎獅 / 火炎狮Huǒyánshī	Feuer Normal
+0669		Flabébé	Flabébé	Flabébé	フラベベFlabebe	플라베베Peullabebe	花蓓蓓 / 花蓓蓓Huābèibèi	Fee
+0670		Floette	Floette	Floette	フラエッテFloette	플라엣테Peullaette	花葉蒂 / 花叶蒂Huāyèdì	Fee
+0671		Florges	Florges	Florges	フラージェスFlorges	플라제스Peullajeseu	花潔夫人 / 花洁夫人Huājiéfūrén	Fee
+0672		Mähikel	Skiddo	Cabriolaine	メェークルMeecle	메이클Meikeul	坐騎小羊 / 坐骑小羊Zuòqíxiǎoyáng	Pflanze
+0673		Chevrumm	Gogoat	Chevroum	ゴーゴートGogoat	고고트Gogoteu	坐騎山羊 / 坐骑山羊Zuòqíshānyáng	Pflanze
+0674		Pam-Pam	Pancham	Pandespiègle	ヤンチャムYancham	판짱Panjjang	頑皮熊貓 / 顽皮熊猫Wánpíxióngmāo	Kampf
+0675		Pandagro	Pangoro	Pandarbare	ゴロンダGoronda	부란다Buranda	流氓熊貓 / 霸道熊猫Liúmángxióngmāo / Bàdàoxióngmāo	Kampf Unlicht
+0676		Coiffwaff	Furfrou	Couafarel	トリミアンTrimmien	트리미앙Teurimiang	多麗米亞 / 多丽米亚Duōlìmǐyà	Normal
+0677		Psiau	Espurr	Psystigri	ニャスパーNyasper	냐스퍼Nyaseupeo	妙喵 / 妙喵Miàomiāo	Psycho
+0678		Psiaugon	Meowstic	Mistigrix	ニャオニクスNyaonix	냐오닉스Nyaonikseu	超能妙喵 / 超能妙喵Chāonéngmiàomiāo	Psycho
+0679		Gramokles	Honedge	Monorpale	ヒトツキHitotsuki	단칼빙Dankalbing	獨劍鞘 / 独剑鞘Dújiànqiào	Stahl Geist
+0680		Duokles	Doublade	Dimoclès	ニダンギルNidangill	쌍검킬Ssanggeomkil	雙劍鞘 / 双剑鞘Shuāngjiànqiào	Stahl Geist
+0681		Durengard	Aegislash	Exagide	ギルガルドGillgard	킬가르도Kilgareudo	堅盾劍怪 / 坚盾剑怪Jiāndùnjiànguài	Stahl Geist
+0682		Parfi	Spritzee	Fluvetin	シュシュプShushupu	슈쁘Syuppeu	粉香香 / 粉香香Fěnxiāngxiāng	Fee
+0683		Parfinesse	Aromatisse	Cocotine	フレフワンFrefuwan	프레프티르Peurepeutireu	芳香精 / 芳香精Fāngxiāngjīng	Fee
+0684		Flauschling	Swirlix	Sucroquin	ペロッパフPeroppafu	나룸퍼프Narumpeopeu	綿綿泡芙 / 绵绵泡芙Miánmiánpàofú	Fee
+0685		Sabbaione	Slurpuff	Cupcanaille	ペロリームPeroream	나루림Narurim	胖甜妮 / 胖甜妮Pàngtiánnī	Fee
+0686		Iscalar	Inkay	Sepiatop	マーイーカMaaiika	오케이징Okeijing	好啦魷 / 好啦鱿Hǎolāyóu	Unlicht Psycho
+0687		Calamanero	Malamar	Sepiatroce	カラマネロCalamanero	칼라마네로Kallamanero	烏賊王 / 乌贼王Wūzéiwáng	Unlicht Psycho
+0688		Bithora	Binacle	Opermine	カメテテKametete	거북손손Geoboksonson	龜腳腳 / 龟脚脚Guījiǎojiǎo	Gestein Wasser
+0689		Thanathora	Barbaracle	Golgopathe	ガメノデスGamenodes	거북손데스Geoboksondeseu	龜足巨鎧 / 龟足巨铠Guīzújùkǎi	Gestein Wasser
+0690		Algitt	Skrelp	Venalgue	クズモーKuzumo	수레기Suregi	垃垃藻 / 垃垃藻Lālāzǎo	Gift Wasser
+0691		Tandrak	Dragalge	Kravarech	ドラミドロDramidoro	드래캄Deuraekam	毒藻龍 / 毒藻龙Dúzǎolóng	Gift Drache
+0692		Scampisto	Clauncher	Flingouste	ウデッポウUdeppou	완철포Wancheolpo	鐵臂槍蝦 / 铁臂枪虾Tiěbìqiāngxiā	Wasser
+0693		Wummer	Clawitzer	Gamblast	ブロスターBloster	블로스터Beulloseuteo	鋼炮臂蝦 / 钢炮臂虾Gāngpàobìxiā	Wasser
+0694		Eguana	Helioptile	Galvaran	エリキテルErikiteru	목도리키텔Mokdorikitel	傘電蜥 / 伞电蜥Sǎndiànxī	Elektro Normal
+0695		Elezard	Heliolisk	Iguolta	エレザードElezard	일레도리자드Illedorijadeu	光電傘蜥 / 光电伞蜥Guāngdiànsǎnxī	Elektro Normal
+0696		Balgoras	Tyrunt	Ptyranidur	チゴラスChigoras	티고라스Tigoraseu	寶寶暴龍 / 宝宝暴龙Bǎobǎobàolóng	Gestein Drache
+0697		Monargoras	Tyrantrum	Rexillius	ガチゴラスGachigoras	견고라스Gyeongoraseu	怪顎龍 / 怪颚龙Guài'èlóng	Gestein Drache
+0698		Amarino	Amaura	Amagara	アマルスAmarus	아마루스Amaruseu	冰雪龍 / 冰雪龙Bīngxuělóng	Gestein Eis
+0699		Amagarga	Aurorus	Dragmara	アマルルガAmaruruga	아마루르가Amarureuga	冰雪巨龍 / 冰雪巨龙Bīngxuějùlóng	Gestein Eis
+0700		Feelinara	Sylveon	Nymphali	ニンフィアNymphia	님피아Nymphia	仙子伊布 / 仙子伊布Xiānzǐyībù	Fee
+0701		Resladero	Hawlucha	Brutalibré	ルチャブルLuchabull	루차불Ruchabul	摔角鷹人 / 摔角鹰人Shuāijiǎoyīngrén	Kampf Flug
+0702		Dedenne	Dedenne	Dedenne	デデンネDedenne	데덴네Dedenne	咚咚鼠 / 咚咚鼠Dōngdōngshǔ	Elektro Fee
+0703		Rocara	Carbink	Strassie	メレシーMelecie	멜리시Mellisi	小碎鑽 / 小碎钻Xiǎosuìzuàn	Gestein Fee
+0704		Viscora	Goomy	Mucuscule	ヌメラNumera	미끄메라Mikkeumera	黏黏寶 / 黏黏宝Niánniánbǎo	Drache
+0705		Viscargot	Sliggoo	Colimucus	ヌメイルNumeil	미끄네일Mikkeuneil	黏美兒 / 黏美儿Niánměi'ér	Drache
+0706		Viscogon	Goodra	Muplodocus	ヌメルゴンNumelgon	미끄래곤Mikkeuraegon	黏美龍 / 黏美龙Niánměilóng	Drache
+0707		Clavion	Klefki	Trousselin	クレッフィCleffy	클레피Keullepi	鑰圈兒 / 钥圈儿Yàoquān'ér	Stahl Fee
+0708		Paragoni	Phantump	Brocélôme	ボクレーBokurei	나목령Namokryeong	小木靈 / 小木灵Xiǎomùlíng	Geist Pflanze
+0709		Trombork	Trevenant	Desséliande	オーロットOhrot	대로트Daeroteu	朽木妖 / 朽木妖Xiǔmùyāo	Geist Pflanze
+0710		Irrbis	Pumpkaboo	Pitrouille	バケッチャBakeccha	호바귀Hobagwi	南瓜精 / 南瓜精Nánguājīng	Geist Pflanze
+0711		Pumpdjinn	Gourgeist	Banshitrouye	パンプジンPumpjin	펌킨인Peomkinin	南瓜怪人 / 南瓜怪人Nánguāguàirén	Geist Pflanze
+0712		Arktip	Bergmite	Grelaçon	カチコールKachikohru	꽁어름Kkongeoreum	冰寶 / 冰宝Bīngbǎo	Eis
+0713		Arktilas	Avalugg	Séracrawl	クレベースCrebase	크레베이스Keurebeiseu	冰岩怪 / 冰岩怪Bīngyánguài	Eis
+0714		eF-eM	Noibat	Sonistrelle	オンバットOnbat	음뱃Eumbaet	嗡蝠 / 嗡蝠Wēngfú	Flug Drache
+0715		UHaFnir	Noivern	Bruyverne	オンバーンOnvern	음번Eumbeon	音波龍 / 音波龙Yīnbōlóng	Flug Drache
+0716		Xerneas	Xerneas	Xerneas	ゼルネアスXerneas	제르네아스Xerneas	哲爾尼亞斯 / 哲尔尼亚斯Zhé'ěrníyàsī	Fee
+0717		Yveltal	Yveltal	Yveltal	イベルタルYveltal	이벨타르Yveltal	伊裴爾塔爾 / 伊裴尔塔尔Yīpéi'ěrtǎ'ěr	Unlicht Flug
+0718		Zygarde	Zygarde	Zygarde	ジガルデZygarde	지가르데Jigareude	基格爾德 / 基格尔德Jīgé'ěrdé	Drache Boden
+0719		Diancie	Diancie	Diancie	ディアンシーDiancie	디안시Diancie	蒂安希 / 蒂安希Dì'ānxī	Gestein Fee
+0720		Hoopa	Hoopa	Hoopa	フーパHoopa	후파Hoopa	胡帕 / 胡帕Húpà	Psycho Geist
+0721		Volcanion	Volcanion	Volcanion	ボルケニオンVolcanion	볼케니온Volcanion	波爾凱尼恩 / 波尔凯尼恩Bō'ěrkǎiní'ēn	Feuer Wasser
+0722		Bauz	Rowlet	Brindibou	モクローMokuroh	나몰빼미Namolppaemi	木木梟 / 木木枭Mùmùxiāo	Pflanze Flug
+0723		Arboretoss	Dartrix	Efflèche	フクスローFukuthrow	빼미스로우Ppaemiseurou	投羽梟 / 投羽枭Tóuyǔxiāo	Pflanze Flug
+0724		Silvarro	Decidueye	Archéduc	ジュナイパーJunaiper	모크나이퍼Mokeunaipeo	狙射樹梟 / 狙射树枭Jūshèshùxiāo	Pflanze Geist
+0725		Flamiau	Litten	Flamiaou	ニャビーNyabby	냐오불Nyaobul	火斑喵 / 火斑喵Huǒbānmiāo	Feuer
+0726		Miezunder	Torracat	Matoufeu	ニャヒートNyaheat	냐오히트Nyaohiteu	炎熱喵 / 炎热喵Yánrèmiāo	Feuer
+0727		Fuegro	Incineroar	Félinferno	ガオガエンGaogaen	어흥염Eoheungyeom	熾焰咆哮虎 / 炽焰咆哮虎Chìyànpáoxiàohǔ	Feuer Unlicht
+0728		Robball	Popplio	Otaquin	アシマリAshimari	누리공Nurigong	球球海獅 / 球球海狮Qiúqiúhǎishī	Wasser
+0729		Marikeck	Brionne	Otarlette	オシャマリOsyamari	키요공Kiyogong	花漾海獅 / 花漾海狮Huāyànghǎishī	Wasser
+0730		Primarene	Primarina	Oratoria	アシレーヌAshirene	누리레느Nurireneu	西獅海壬 / 西狮海壬Xīshīhǎirén	Wasser Fee
+0731		Peppeck	Pikipek	Picassaut	ツツケラTsutsukera	콕코구리Kokkoguri	小篤兒 / 小笃儿Xiǎodǔ'ér	Normal Flug
+0732		Trompeck	Trumbeak	Piclairon	ケララッパKerarappa	크라파Keurapa	喇叭啄鳥 / 喇叭啄鸟Lǎbāzhuóniǎo	Normal Flug
+0733		Tukanon	Toucannon	Bazoucan	ドデカバシDodekabashi	왕큰부리Wangkeunburi	銃嘴大鳥 / 铳嘴大鸟Chòngzuǐdàniǎo	Normal Flug
+0734		Mangunior	Yungoos	Manglouton	ヤングースYoungoose	영구스Yeongguseu	貓鼬少 / 猫鼬少Māoyòushào	Normal
+0735		Manguspektor	Gumshoos	Argouste	デカグースDekagoose	형사구스Hyeongsaguseu	貓鼬探長 / 猫鼬探长Māoyòutànzhǎng	Normal
+0736		Mabula	Grubbin	Larvibule	アゴジムシAgojimushi	턱지충이Teokjichungi	強顎雞母蟲 / 强颚鸡母虫Qiáng'èjīmǔchóng	Käfer
+0737		Akkup	Charjabug	Chrysapile	デンヂムシDendimushi	전지충이Jeonjichungi	蟲電寶 / 虫电宝Chóngdiànbǎo	Käfer Elektro
+0738		Donarion	Vikavolt	Lucanon	クワガノンKuwagannon	투구뿌논Tuguppunon	鍬農炮蟲 / 锹农炮虫Qiāonóngpàochóng	Käfer Elektro
+0739		Krabbox	Crabrawler	Crabagarre	マケンカニMakenkani	오기지게Ogijige	好勝蟹 / 好胜蟹Hàoshèngxiè	Kampf
+0740		Krawell	Crabominable	Crabominable	ケケンカニKekenkani	모단단게Modandange	好勝毛蟹 / 好胜毛蟹Hàoshèngmáoxiè	Kampf Eis
+0741		Choreogel	Oricorio	Plumeline	オドリドリOdoridori	춤추새Chumchusae	花舞鳥 / 花舞鸟Huāwǔniǎo	Feuer Flug
+0742		Wommel	Cutiefly	Bombydou	アブリーAbuly	에블리Ebeulli	萌虻 / 萌虻Méngméng	Käfer Fee
+0743		Bandelby	Ribombee	Rubombelle	アブリボンAburibbon	에리본Eribon	蝶結萌虻 / 蝶结萌虻Diéjiéméngméng	Käfer Fee
+0744		Wuffels	Rockruff	Rocabot	イワンコIwanko	암멍이Ammeongi	岩狗狗 / 岩狗狗Yángǒugǒu	Gestein
+0745		Wolwerock	Lycanroc	Lougaroc	ルガルガンLugarugan	루가루암Rugaruam	鬃岩狼人 / 鬃岩狼人Zōngyánlángrén	Gestein
+0746		Lusardin	Wishiwashi	Froussardine	ヨワシYowashi	약어리Yageori	弱丁魚 / 弱丁鱼Ruòdīngyú	Wasser
+0747		Garstella	Mareanie	Vorastérie	ヒドイデHidoide	시마사리Simasari	好壞星 / 好坏星Hǎohuàixīng	Gift Wasser
+0748		Aggrostella	Toxapex	Prédastérie	ドヒドイデDohidoide	더시마사리Deosimasari	超壞星 / 超坏星Chāohuàixīng	Gift Wasser
+0749		Pampuli	Mudbray	Tiboudet	ドロバンコDorobanko	머드나기Meodeunagi	泥驢仔 / 泥驴仔Nílǘzǐ	Boden
+0750		Pampross	Mudsdale	Bourrinos	バンバドロBanbadoro	만마드Manmadeu	重泥挽馬 / 重泥挽马Zhòngníwǎnmǎ	Boden
+0751		Araqua	Dewpider	Araqua	シズクモShizukumo	물거미Mulgeomi	滴蛛 / 滴蛛Dīzhū	Wasser Käfer
+0752		Aranestro	Araquanid	Tarenbulle	オニシズクモOnishizukumo	깨비물거미Kkaebimulgeomi	滴蛛霸 / 滴蛛霸Dīzhūbà	Wasser Käfer
+0753		Imantis	Fomantis	Mimantis	カリキリKarikiri	짜랑랑Jjarangrang	偽螳草 / 伪螳草Wěitángcǎo	Pflanze
+0754		Mantidea	Lurantis	Floramantis	ラランテスLalantes	라란티스Rarantiseu	蘭螳花 / 兰螳花Lántánghuā	Pflanze
+0755		Bubungus	Morelull	Spododo	ネマシュNemasyu	자마슈Jamasyu	睡睡菇 / 睡睡菇Shuìshuìgū	Pflanze Fee
+0756		Lamellux	Shiinotic	Lampignon	マシェードMashade	마셰이드Masyeideu	燈罩夜菇 / 灯罩夜菇Dēngzhàoyègū	Pflanze Fee
+0757		Molunk	Salandit	Tritox	ヤトウモリYatoumori	야도뇽Yadonyong	夜盜火蜥 / 夜盗火蜥Yèdàohuǒxī	Gift Feuer
+0758		Amfira	Salazzle	Malamandre	エンニュートEnnewt	염뉴트Yeomnyuteu	焰后蜥 / 焰后蜥Yànhòuxī	Gift Feuer
+0759		Velursi	Stufful	Nounourson	ヌイコグマNuikoguma	포곰곰Pogomgom	童偶熊 / 童偶熊Tóng'ǒuxióng	Normal Kampf
+0760		Kosturso	Bewear	Chelours	キテルグマKiteruguma	이븐곰Ibeungom	穿著熊 / 穿着熊Chuānzhuóxióng	Normal Kampf
+0761		Frubberl	Bounsweet	Croquine	アマカジAmakaji	달콤아Dalkoma	甜竹竹 / 甜竹竹Tiánzhúzhú	Pflanze
+0762		Frubaila	Steenee	Candine	アママイコAmamaiko	달무리나Dalmurina	甜舞妮 / 甜舞妮Tiánwǔnī	Pflanze
+0763		Fruyal	Tsareena	Sucreine	アマージョAmajo	달코퀸Dalkokwin	甜冷美后 / 甜冷美后Tiánlěngměihòu	Pflanze
+0764		Curelei	Comfey	Guérilande	キュワワーCuwawa	큐아링Kyuaring	花療環環 / 花疗环环Huāliáohuánhuán	Fee
+0765		Kommandutan	Oranguru	Gouroutan	ヤレユータンYareyuutan	하랑우탄Harangutan	智揮猩 / 智挥猩Zhìhuīxīng	Normal Psycho
+0766		Quartermak	Passimian	Quartermac	ナゲツケサルNagetukesaru	내던숭이Naedeonsungi	投擲猴 / 投掷猴Tóuzhìhóu	Kampf
+0767		Reißlaus	Wimpod	Sovkipou	コソクムシKosokumushi	꼬시레Kkosire	膽小蟲 / 胆小虫Dǎnxiǎochóng	Käfer Wasser
+0768		Tectass	Golisopod	Sarmuraï	グソクムシャGusokumusha	갑주무사Gapjumusa	具甲武者 / 具甲武者Jùjiǎwǔzhě	Käfer Wasser
+0769		Sankabuh	Sandygast	Bacabouh	スナバァSunaba	모래꿍Moraekkung	沙丘娃 / 沙丘娃Shāqiūwá	Geist Boden
+0770		Colossand	Palossand	Trépassable	シロデスナSirodethna	모래성이당Moraeseongidang	噬沙堡爺 / 噬沙堡爷Shìshābǎoyé	Geist Boden
+0771		Gufa	Pyukumuku	Concombaffe	ナマコブシNamakobushi	해무기Haemugi	拳海參 / 拳海參Quánhǎishēn	Wasser
+0772		Typ:Null	Type: Null	Type:0	タイプ：ヌルType:Null	타입:널Type:Null	屬性：空 / 属性：空Shǔxìng:Kōng	Normal
+0773		Amigento	Silvally	Silvallié	シルヴァディSilvady	실버디Silbeodi	銀伴戰獸 / 银伴战兽Yínbànzhànshòu	Normal
+0774		Meteno	Minior	Météno	メテノMeteno	메테노Meteno	小隕星 / 小陨星Xiǎoyǔnxīng	Gestein Flug
+0775		Koalelu	Komala	Dodoala	ネッコアラNekkoara	자말라Jamalla	樹枕尾熊 / 树枕尾熊Shùzhěnwěixióng	Normal
+0776		Tortunator	Turtonator	Boumata	バクガメスBakugames	폭거북스Pokgeobukseu	爆焰龜獸 / 爆焰龟兽Bàoyànguīshòu	Feuer Drache
+0777		Togedemaru	Togedemaru	Togedemaru	トゲデマルTogedemaru	토게데마루Togedemaru	托戈德瑪爾 / 托戈德玛尔Tuōgēdémǎ'ěr	Elektro Stahl
+0778		Mimigma	Mimikyu	Mimiqui	ミミッキュMimikkyu	따라큐Ttarakyu	謎擬Ｑ / 谜拟丘MínǐQ / Mínǐqiū	Geist Fee
+0779		Knirfish	Bruxish	Denticrisse	ハギギシリHagigishiri	치갈기Chigalgi	磨牙彩皮魚 / 磨牙彩皮鱼Móyácǎipíyú	Wasser Psycho
+0780		Sen-Long	Drampa	Draïeul	ジジーロンJijilong	할비롱Halbirong	老翁龍 / 老翁龙Lǎowēnglóng	Normal Drache
+0781		Moruda	Dhelmise	Sinistrail	ダダリンDadarin	타타륜Tataryun	破破舵輪 / 破破舵轮Pòpòduòlún	Geist Pflanze
+0782		Miniras	Jangmo-o	Bébécaille	ジャラコJyarako	짜랑꼬Jjarangkko	心鱗寶 / 心鳞宝Xīnlínbǎo	Drache
+0783		Mediras	Hakamo-o	Écaïd	ジャランゴJyarango	짜랑고우Jjaranggou	鱗甲龍 / 鳞甲龙Línjiǎlóng	Drache Kampf
+0784		Grandiras	Kommo-o	Ékaïser	ジャラランガJyararanga	짜랑고우거Jjaranggougeo	杖尾鱗甲龍 / 杖尾鳞甲龙Zhàngwěilínjiǎlóng	Drache Kampf
+0785		Kapu-Riki	Tapu Koko	Tokorico	カプ・コケコKapu-Kokeko	카푸꼬꼬꼭Kapukkokkokkok	卡璞・鳴鳴 / 卡璞・鸣鸣Kǎpú·Míngmíng	Elektro Fee
+0786		Kapu-Fala	Tapu Lele	Tokopiyon	カプ・テテフKapu-Tetefu	카푸나비나Kapunabina	卡璞・蝶蝶 / 卡璞・蝶蝶Kǎpú·Diédié	Psycho Fee
+0787		Kapu-Toro	Tapu Bulu	Tokotoro	カプ・ブルルKapu-Bulul	카푸브루루Kapubeururu	卡璞・哞哞 / 卡璞・哞哞Kǎpú·Mōumōu	Pflanze Fee
+0788		Kapu-Kime	Tapu Fini	Tokopisco	カプ・レヒレKapu-Rehire	카푸느지느Kapuneujineu	卡璞・鰭鰭 / 卡璞・鳍鳍Kǎpú·Qíqí	Wasser Fee
+0789		Cosmog	Cosmog	Cosmog	コスモッグCosmog	코스모그Koseumogeu	科斯莫古 / 科斯莫古Kēsīmògǔ	Psycho
+0790		Cosmovum	Cosmoem	Cosmovum	コスモウムCosmovum	코스모움Koseumoum	科斯莫姆 / 科斯莫姆Kēsīmòmǔ	Psycho
+0791		Solgaleo	Solgaleo	Solgaleo	ソルガレオSolgaleo	솔가레오Solgaleo	索爾迦雷歐 / 索尔迦雷欧Suǒ'ěrjiāléi'ōu	Psycho Stahl
+0792		Lunala	Lunala	Lunala	ルナアーラLunala	루나아라Lunala	露奈雅拉 / 露奈雅拉Lùnàiyǎlā	Psycho Geist
+0793		Anego	Nihilego	Zéroïd	ウツロイドUturoid	텅비드Teongbideu	虛吾伊德 / 虚吾伊德Xūwúyīdé	Gestein Gift
+0794		Masskito	Buzzwole	Mouscoto	マッシブーンMassivoon	매시붕Maesibung	爆肌蚊 / 爆肌蚊Bàojīwén	Käfer Kampf
+0795		Schabelle	Pheromosa	Cancrelove	フェローチェPheroache	페로코체Perokoche	費洛美螂 / 费洛美螂Fèiluòměiláng	Käfer Kampf
+0796		Voltriant	Xurkitree	Câblifère	デンジュモクDenjyumoku	전수목Jeonsumok	電束木 / 电束木Diànshùmù	Elektro
+0797		Kaguron	Celesteela	Bamboiselle	テッカグヤTekkaguya	철화구야Cheolhwaguya	鐵火輝夜 / 铁火辉夜Tiěhuǒhuīyè	Stahl Flug
+0798		Katagami	Kartana	Katagami	カミツルギKamiturugi	종이신도Jongisindo	紙禦劍 / 纸御剑Zhǐyùjiàn	Pflanze Stahl
+0799		Schlingking	Guzzlord	Engloutyran	アクジキングAkuziking	악식킹Aksikking	惡食大王 / 恶食大王Èshídàwáng	Unlicht Drache
+0800		Necrozma	Necrozma	Necrozma	ネクロズマNecrozma	네크로즈마Necrozma	奈克洛茲瑪 / 奈克洛兹玛Nàikèluòzīmǎ	Psycho
+0801		Magearna	Magearna	Magearna	マギアナMagearna	마기아나Magearna	瑪機雅娜 / 玛机雅娜Mǎjīyǎnà	Stahl Fee
+0802		Marshadow	Marshadow	Marshadow	マーシャドーMarshadow	마샤도Marshadow	瑪夏多 / 玛夏多Mǎxiàduō	Kampf Geist
+0803		Venicro	Poipole	Vémini	ベベノムBevenom	베베놈Bebenom	毒貝比 / 毒贝比Dúbèibǐ	Gift
+0804		Agoyon	Naganadel	Mandrillon	アーゴヨンAgoyon	아고용Agoyong	四顎針龍 / 四颚针龙Sì'èzhēnlóng	Gift Drache
+0805		Muramura	Stakataka	Ama-Ama	ツンデツンデTundetunde	차곡차곡Chagokchagok	壘磊石 / 垒磊石Lěilěishí	Gestein Stahl
+0806		Kopplosio	Blacephalon	Pierroteknik	ズガドーンZugadoon	두파팡Dupapang	砰頭小丑 / 砰头小丑Pēngtóuxiǎochǒu	Feuer Geist
+0807		Zeraora	Zeraora	Zeraora	ゼラオラZeraora	제라오라Zeraora	捷拉奧拉 / 捷拉奥拉Jiélā'àolā	Elektro
+0808		Meltan	Meltan	Meltan	メルタンMeltan	멜탄Meltan	美錄坦 / 美录坦Měilùtǎn	Stahl
+0809		Melmetal	Melmetal	Melmetal	メルメタルMelmetal	멜메탈Melmetal	美錄梅塔 / 美录梅塔Měilùméitǎ	Stahl
+0810		Chimpep	Grookey	Ouistempo	サルノリSarunori	흥나숭Heungnasung	敲音猴 / 敲音猴Qiāoyīnhóu	Pflanze
+0811		Chimstix	Thwackey	Badabouin	バチンキーBachinkey	채키몽Chaekimong	啪咚猴 / 啪咚猴Pādōnghóu	Pflanze
+0812		Gortrom	Rillaboom	Gorythmic	ゴリランダーGorirander	고릴타Gorilta	轟擂金剛猩 / 轰擂金刚猩Hōnglèijīngāngxīng	Pflanze
+0813		Hopplo	Scorbunny	Flambino	ヒバニーHibanny	염버니Yeombeoni	炎兔兒 / 炎兔儿Yántù'ér	Feuer
+0814		Kickerlo	Raboot	Lapyro	ラビフットRabbifuto	래비풋Raebiput	騰蹴小將 / 腾蹴小将Téngcùxiǎojiàng	Feuer
+0815		Liberlo	Cinderace	Pyrobut	エースバーンAceburn	에이스번Eiseubeon	閃焰王牌 / 闪焰王牌Shǎnyànwángpái	Feuer
+0816		Memmeon	Sobble	Larméléon	メッソンMesson	울머기Ulmeogi	淚眼蜥 / 泪眼蜥Lèiyǎnxī	Wasser
+0817		Phlegleon	Drizzile	Arrozard	ジメレオンJimereon	누겔레온Nugelleon	變澀蜥 / 变涩蜥Biànsèxī	Wasser
+0818		Intelleon	Inteleon	Lézargus	インテレオンIntereon	인텔리레온Intellileon	千面避役 / 千面避役Qiānmiànbìyì	Wasser
+0819		Raffel	Skwovet	Rongourmand	ホシガリスHoshigarisu	탐리스Tamriseu	貪心栗鼠 / 贪心栗鼠Tānxīnlìshǔ	Normal
+0820		Schlaraffel	Greedent	Rongrigou	ヨクバリスYokubarisu	요씽리스Yossingriseu	藏飽栗鼠 / 藏饱栗鼠Cángbǎolìshǔ	Normal
+0821		Meikro	Rookidee	Minisange	ココガラKokogara	파라꼬Parakko	稚山雀 / 稚山雀Zhìshānquè	Flug
+0822		Kranoviz	Corvisquire	Bleuseille	アオガラスAogarasu	파크로우Pakeurou	藍鴉 / 蓝鸦Lányā	Flug
+0823		Krarmor	Corviknight	Corvaillus	アーマーガアArmorga	아머까오Ameokkao	鋼鎧鴉 / 钢铠鸦Gāngkǎiyā	Flug Stahl
+0824		Sensect	Blipbug	Larvadar	サッチムシSacchimushi	두루지벌레Durujibeolle	索偵蟲 / 索侦虫Suǒzhēnchóng	Käfer
+0825		Keradar	Dottler	Coléodôme	レドームシRedomushi	레돔벌레Redombeolle	天罩蟲 / 天罩虫Tiānzhàochóng	Käfer Psycho
+0826		Maritellit	Orbeetle	Astronelle	イオルブEolb	이올브Iolbeu	以歐路普 / 以欧路普Yǐ'ōulùpǔ	Käfer Psycho
+0827		Kleptifux	Nickit	Goupilou	クスネKusune	훔처우Humcheou	偷兒狐 / 狡小狐Tōu'érhú / Jiǎoxiǎohú	Unlicht
+0828		Gaunux	Thievul	Roublenard	フォクスライFoxly	폭슬라이Pokseullai	狐大盜 / 猾大狐Húdàdào / Huádàhú	Unlicht
+0829		Cottini	Gossifleur	Tournicoton	ヒメンカHimenka	꼬모카Kkomoka	幼棉棉 / 幼棉棉Yòumiánmián	Pflanze
+0830		Cottomi	Eldegoss	Blancoton	ワタシラガWatashiraga	백솜모카Baeksommoka	白蓬蓬 / 白蓬蓬Báipéngpéng	Pflanze
+0831		Wolly	Wooloo	Moumouton	ウールーWooluu	우르Ureu	毛辮羊 / 毛辫羊Máobiànyáng	Normal
+0832		Zwollock	Dubwool	Moumouflon	バイウールーBaiwooluu	배우르Baeureu	毛毛角羊 / 毛毛角羊Máomáojiǎoyáng	Normal
+0833		Kamehaps	Chewtle	Khélocrok	カムカメKamukame	깨물부기Kkaemulbugi	咬咬龜 / 咬咬龟Yǎoyǎoguī	Wasser
+0834		Kamalm	Drednaw	Torgamord	カジリガメKajirigame	갈가부기Galgabugi	暴噬龜 / 暴噬龟Bàoshìguī	Wasser Gestein
+0835		Voldi	Yamper	Voltoutou	ワンパチWanpachi	멍파치Meongpachi	來電汪 / 来电汪Láidiànwāng	Elektro
+0836		Bellektro	Boltund	Fulgudog	パルスワンPulsewan	펄스멍Peolseumeong	逐電犬 / 逐电犬Zhúdiànquǎn	Elektro
+0837		Klonkett	Rolycoly	Charbi	タンドンTandon	탄동Tandong	小炭仔 / 小炭仔Xiǎotànzǐ	Gestein
+0838		Wagong	Carkol	Wagomine	トロッゴンToroggon	탄차곤Tanchagon	大炭車 / 大炭车Dàtànchē	Gestein Feuer
+0839		Montecarbo	Coalossal	Monthracite	セキタンザンSekitanzan	석탄산Seoktansan	巨炭山 / 巨炭山Jùtànshān	Gestein Feuer
+0840		Knapfel	Applin	Verpom	カジッチュKajicchu	과사삭벌레Gwasasakbeolle	啃果蟲 / 啃果虫Kěnguǒchóng	Pflanze Drache
+0841		Drapfel	Flapple	Pomdrapi	アップリューAppryu	애프룡Aepeuryong	蘋裹龍 / 苹裹龙Píngguǒlóng	Pflanze Drache
+0842		Schlapfel	Appletun	Dratatin	タルップルTarupple	단지래플Danjiraepeul	豐蜜龍 / 丰蜜龙Fēngmìlóng	Pflanze Drache
+0843		Salanga	Silicobra	Dunaja	スナヘビSunahebi	모래뱀Moraebaem	沙包蛇 / 沙包蛇Shābāoshé	Boden
+0844		Sanaconda	Sandaconda	Dunaconda	サダイジャSadaija	사다이사Sadaisa	沙螺蟒 / 沙螺蟒Shāluómǎng	Boden
+0845		Urgl	Cramorant	Nigosier	ウッウUu	윽우지Euguji	古月鳥 / 古月鸟Gǔyuèniǎo	Flug Wasser
+0846		Pikuda	Arrokuda	Embrochet	サシカマスSasikamasu	찌로꼬치Jjirokkochi	刺梭魚 / 刺梭鱼Cìsuōyú	Wasser
+0847		Barrakiefa	Barraskewda	Hastacuda	カマスジョーKamasujaw	꼬치조Kkochijo	戽斗尖梭 / 戽斗尖梭Hùdǒujiānsuō	Wasser
+0848		Toxel	Toxel	Toxizap	エレズンEleson	일레즌Illejeun	毒電嬰 / 电音婴Dúdiànyīng / Diànyīnyīng	Elektro Gift
+0849		Riffex	Toxtricity	Salarsen	ストリンダーStrinder	스트린더Seuteurindeo	顫弦蠑螈 / 颤弦蝾螈Chànxiánróngyuán	Elektro Gift
+0850		Thermopod	Sizzlipede	Grillepattes	ヤクデYakude	태우지네Taeujine	燒火蚣 / 烧火蚣Shāohuǒgōng	Feuer Käfer
+0851		Infernopod	Centiskorch	Scolocendre	マルヤクデMaruyakude	다태우지네Dataeujine	焚焰蚣 / 焚焰蚣Fényàngōng	Feuer Käfer
+0852		Klopptopus	Clobbopus	Poulpaf	タタッコTatakko	때때무노Ttaettaemuno	拳拳蛸 / 拳拳蛸Quánquánxiāo	Kampf
+0853		Kaocto	Grapploct	Krakos	オトスパスOtosupus	케오퍼스Keopeoseu	八爪武師 / 八爪武师Bāzhuǎwǔshī	Kampf
+0854		Fatalitee	Sinistea	Théffroi	ヤバチャYabacha	데인차Deincha	來悲茶 / 来悲茶Láibēichá	Geist
+0855		Mortipot	Polteageist	Polthégeist	ポットデスPotdeath	포트데스Poteudeseu	怖思壺 / 怖思壶Bùsīhú	Geist
+0856		Brimova	Hatenna	Bibichut	ミブリムMibrim	몸지브림Momjibeurim	迷布莉姆 / 迷布莉姆Míbùlìmǔ	Psycho
+0857		Brimano	Hattrem	Chapotus	テブリムTebrim	손지브림Sonjibeurim	提布莉姆 / 提布莉姆Tíbùlìmǔ	Psycho
+0858		Silembrim	Hatterene	Sorcilence	ブリムオンBrimuon	브리무음Beurimueum	布莉姆溫 / 布莉姆温Bùlìmǔwēn	Psycho Fee
+0859		Bähmon	Impidimp	Grimalin	ベロバーBeroba	메롱꿍Merongkkung	搗蛋小妖 / 捣蛋小妖Dǎodànxiǎoyāo	Unlicht Fee
+0860		Pelzebub	Morgrem	Fourbelin	ギモーGimoh	쏘겨모Ssogyeomo	詐唬魔 / 诈唬魔Zhàhǔmó	Unlicht Fee
+0861		Olangaar	Grimmsnarl	Angoliath	オーロンゲOhlonge	오롱털Orongteol	長毛巨魔 / 长毛巨魔Chángmáojùmó	Unlicht Fee
+0862		Barrikadax	Obstagoon	Ixon	タチフサグマTachifusaguma	가로막구리Garomakguri	堵攔熊 / 堵拦熊Dǔlánxióng	Unlicht Normal
+0863		Mauzinger	Perrserker	Berserkatt	ニャイキングNyaiking	나이킹Naiking	喵頭目 / 喵头目Miāotóumù	Stahl
+0864		Gorgasonn	Cursola	Corayôme	サニゴーンSunigoon	산호르곤Sanhoreugon	魔靈珊瑚 / 魔灵珊瑚Mólíngshānhú	Geist
+0865		Lauchzelot	Sirfetch’d	Palarticho	ネギガナイトNegigaknight	창파나이트Changpanaiteu	蔥遊兵 / 葱游兵Cōngyóubīng	Kampf
+0866		Pantifrost	Mr. Rime	M. Glaquette	バリコオルBarrikohru	마임꽁꽁Maimkkongkkong	踏冰人偶 / 踏冰人偶Tàbīngrén'ǒu	Eis Psycho
+0867		Oghnatoll	Runerigus	Tutétékri	デスバーンDeathbarn	데스판Deseupan	死神板 / 迭失板Sǐshénbǎn / Diéshībǎn	Boden Geist
+0868		Hokumil	Milcery	Crèmy	マホミルMahomil	마빌크Mabilkeu	小仙奶 / 小仙奶Xiǎoxiānnǎi	Fee
+0869		Pokusan	Alcremie	Charmilly	マホイップMawhip	마휘핑Mahwiping	霜奶仙 / 霜奶仙Shuāngnǎixiān	Fee
+0870		Legios	Falinks	Hexadron	タイレーツTairetsu	대여르Daeyeoreu	列陣兵 / 列阵兵Lièzhènbīng	Kampf
+0871		Britzigel	Pincurchin	Wattapik	バチンウニBachinuni	찌르성게Jjireuseongge	啪嚓海膽 / 啪嚓海胆Pāchāhǎidǎn	Elektro
+0872		Snomnom	Snom	Frissonille	ユキハミYukihami	누니머기Nunimeogi	雪吞蟲 / 雪吞虫Xuětūnchóng	Eis Käfer
+0873		Mottineva	Frosmoth	Beldeneige	モスノウMothnow	모스노우Moseunou	雪絨蛾 / 雪绒蛾Xuěróng'é	Eis Käfer
+0874		Humanolith	Stonjourner	Dolman	イシヘンジンIshihengin	돌헨진Dolhenjin	巨石丁 / 巨石丁Jùshídīng	Gestein
+0875		Kubuin	Eiscue	Bekaglaçon	コオリッポKorippo	빙큐보Bingkyubo	冰砌鵝 / 冰砌鹅Bīngqì'é	Eis
+0876		Servol	Indeedee	Wimessir	イエッサンYessan	에써르Esseoreu	愛管侍 / 爱管侍Àiguǎnshì	Psycho Normal
+0877		Morpeko	Morpeko	Morpeko	モルペコMorpeko	모르페코Moreupeko	莫魯貝可 / 莫鲁贝可Mòlǔbèikě	Elektro Unlicht
+0878		Kupfanti	Cufant	Charibari	ゾウドウZoudou	끼리동Kkiridong	銅象 / 铜象Tóngxiàng	Stahl
+0879		Patinaraja	Copperajah	Pachyradjah	ダイオウドウDaioudou	대왕끼리동Daewangkkiridong	大王銅象 / 大王铜象Dàwángtóngxiàng	Stahl
+0880		Lectragon	Dracozolt	Galvagon	パッチラゴンPatchiragon	파치래곤Pachiraegon	雷鳥龍 / 雷鸟龙Léiniǎolóng	Elektro Drache
+0881		Lecryodon	Arctozolt	Galvagla	パッチルドンPatchilldon	파치르돈Pachireudon	雷鳥海獸 / 雷鸟海兽Léiniǎohǎishòu	Elektro Eis
+0882		Pescragon	Dracovish	Hydragon	ウオノラゴンUonoragon	어래곤Eoraegon	鰓魚龍 / 鳃鱼龙Sāiyúlóng	Wasser Drache
+0883		Pescryodon	Arctovish	Hydragla	ウオチルドンUochilldon	어치르돈Eochireudon	鰓魚海獸 / 鳃鱼海兽Sāiyúhǎishòu	Wasser Eis
+0884		Duraludon	Duraludon	Duralugon	ジュラルドンDuraludon	두랄루돈Duralludon	鋁鋼龍 / 铝钢龙Lǚgānglóng	Stahl Drache
+0885		Grolldra	Dreepy	Fantyrm	ドラメシヤDorameshiya	드라꼰Deurakkon	多龍梅西亞 / 多龙梅西亚Duōlóngméixīyà	Drache Geist
+0886		Phandra	Drakloak	Dispareptil	ドロンチDoronch	드래런치Deuraereonchi	多龍奇 / 多龙奇Duōlóngqí	Drache Geist
+0887		Katapuldra	Dragapult	Lanssorien	ドラパルトDorapult	드래펄트Deuraepeolteu	多龍巴魯托 / 多龙巴鲁托Duōlóngbālǔtuō	Drache Geist
+0888		Zacian	Zacian	Zacian	ザシアンZacian	자시안Jasian	蒼響 / 苍响Cāngxiǎng	Fee
+0889		Zamazenta	Zamazenta	Zamazenta	ザマゼンタZamazenta	자마젠타Jamajenta	藏瑪然特 / 藏玛然特Zàngmǎrántè	Kampf
+0890		Endynalos	Eternatus	Éthernatos	ムゲンダイナMugendina	무한다이노Muhandaino	無極汰那 / 无极汰那Wújítàinà	Gift Drache
+0891		Dakuma	Kubfu	Wushours	ダクマDakuma	치고마Chigoma	熊徒弟 / 熊徒弟Xióngtúdì	Kampf
+0892		Wulaosu	Urshifu	Shifours	ウーラオスWulaosu	우라오스Uraoseu	武道熊師 / 武道熊师Wǔdàoxióngshī	Kampf Unlicht
+0893		Zarude	Zarude	Zarude	ザルードZarude	자루도Jarudo	薩戮德 / 萨戮德Sàlùdé	Unlicht Pflanze
+0894		Regieleki	Regieleki	Regieleki	レジエレキRegieleki	레지에레키Rejiereki	雷吉艾勒奇 / 雷吉艾勒奇Léijí'àilèqí	Elektro
+0895		Regidrago	Regidrago	Regidrago	レジドラゴRegidorago	레지드래고Rejideuraego	雷吉鐸拉戈 / 雷吉铎拉戈Léijíduólāgē	Drache
+0896		Polaross	Glastrier	Blizzeval	ブリザポスBlizzapos	블리자포스Beullijaposeu	雪暴馬 / 雪暴马Xuěbàomǎ	Eis
+0897		Phantoross	Spectrier	Spectreval	レイスポスWraithpos	레이스포스Reiseuposeu	靈幽馬 / 灵幽马Língyōumǎ	Geist
+0898		Coronospa	Calyrex	Sylveroy	バドレックスBudrex	버드렉스Beodeurekseu	蕾冠王 / 蕾冠王Lěiguānwáng	Psycho Pflanze
+0899		Damythir	Wyrdeer	Cerbyllin	アヤシシAyashishi	신비록Sinbirok	詭角鹿 / 诡角鹿Guǐjiǎolù	Normal Psycho
+0900		Axantor	Kleavor	Hachécateur	バサギリBasagiri	사마자르Samajareu	劈斧螳螂 / 劈斧螳螂Pīfǔtángláng	Käfer Gestein
+0901		Ursaluna	Ursaluna	Ursaking	ガチグマGachiguma	다투곰Datugom	月月熊 / 月月熊Yuèyuèxióng	Boden Normal
+0902		Salmagnis	Basculegion	Paragruel	イダイトウIdaitou	대쓰여너Daesseuyeoneo	幽尾玄魚 / 幽尾玄鱼Yōuwěixuányú	Wasser Geist
+0903		Snieboss	Sneasler	Farfurex	オオニューラOhnyula	포푸니크Popunikeu	大狃拉 / 大狃拉Dàniǔlā	Kampf Gift
+0904		Myriador	Overqwil	Qwilpik	ハリーマンHaryman	장침바루Jangchimbaru	萬針魚 / 万针鱼Wànzhēnyú	Unlicht Gift
+0905		Cupidos	Enamorus	Amovénus	ラブトロスLovetolos	러브로스Reobeuroseu	眷戀雲 / 眷恋云Juànliànyùn	Fee Flug
+0906		Felori	Sprigatito	Poussacha	ニャオハNyahoja	나오하Naoha	新葉喵 / 新叶喵Xīnyèmiāo	Pflanze
+0907		Feliospa	Floragato	Matourgeon	ニャローテNyarote	나로테Narote	蒂蕾喵 / 蒂蕾喵Dèlěimiāo	Pflanze
+0908		Maskagato	Meowscarada	Miascarade	マスカーニャMasquernya	마스카나Maseukana	魔幻假面喵 / 魔幻假面喵Móhuànjiǎmiànmiāo	Pflanze Unlicht
+0909		Krokel	Fuecoco	Chochodile	ホゲータHogator	뜨아거Tteuageo	呆火鱷 / 呆火鳄Dāihuǒ'è	Feuer
+0910		Lokroko	Crocalor	Crocogril	アチゲータAchigator	악뜨거Aktteugeo	炙燙鱷 / 炙烫鳄Zhìtàng'è	Feuer
+0911		Skelokrok	Skeledirge	Flâmigator	ラウドボーンLaudbon	라우드본Raudeubon	骨紋巨聲鱷 / 骨纹巨声鳄Gǔwénjùshēng'è	Feuer Geist
+0912		Kwaks	Quaxly	Coiffeton	クワッスKuwassu	꾸왁스Kkuwakseu	潤水鴨 / 润水鸭Rùnshuǐyā	Wasser
+0913		Fuentente	Quaxwell	Canarbello	ウェルカモWelkamo	아꾸왁Akkuwak	湧躍鴨 / 涌跃鸭Yǒngyuèyā	Wasser
+0914		Bailonda	Quaquaval	Palmaval	ウェーニバルWanival	웨이니발Weinibal	狂歡浪舞鴨 / 狂欢浪舞鸭Kuánghuānlàngwǔyā	Wasser Kampf
+0915		Ferkuli	Lechonk	Gourmelet	グルトンGourton	맛보돈Matbodon	愛吃豚 / 爱吃豚Àichītún	Normal
+0916		Fragrunz	Oinkologne	Fragroin	パフュートンPerfuton	퍼퓨돈Peopyudon	飄香豚 / 飘香豚Piāoxiāngtún	Normal
+0917		Tarundel	Tarountula	Tissenboule	タマンチュラTamantula	타랜툴라Taraentulla	團珠蛛 / 团珠蛛Tuánzhūzhū	Käfer
+0918		Spinsidias	Spidops	Filentrappe	ワナイダーWanaider	트래피더Teuraepideo	操陷蛛 / 操陷蛛Cāoxiànzhū	Käfer
+0919		Micrick	Nymble	Lilliterelle	マメバッタMamebatta	콩알뚜기Kongalttugi	豆蟋蟀 / 豆蟋蟀Dòuxīshuài	Käfer
+0920		Lextremo	Lokix	Gambex	エクスレッグExleg	엑스레그Ekseuregeu	烈腿蝗 / 烈腿蝗Liètuǐhuáng	Käfer Unlicht
+0921		Pamo	Pawmi	Pohm	パモPamo	빠모Ppamo	布撥 / 布拨Bùbō	Elektro
+0922		Pamamo	Pawmo	Pohmotte	パモットPamot	빠모트Ppamoteu	布土撥 / 布土拨Bùtǔbō	Elektro Kampf
+0923		Pamomamo	Pawmot	Pohmarmotte	パーモットParmot	빠르모트Ppareumoteu	巴布土撥 / 巴布土拨Bābùtǔbō	Elektro Kampf
+0924		Zwieps	Tandemaus	Compagnol	ワッカネズミWakkanezumi	두리쥐Durijwi	一對鼠 / 一对鼠Yīduìshǔ	Normal
+0925		Famieps	Maushold	Famignol	イッカネズミIkkanezumi	파밀리쥐Pamillijwi	一家鼠 / 一家鼠Yījiāshǔ	Normal
+0926		Hefel	Fidough	Pâtachiot	パピモッチPupimocchi	쫀도기Jjondogi	狗仔包 / 狗仔包Gǒuzǐbāo	Fee
+0927		Backel	Dachsbun	Briochien	バウッツェルBowtzel	바우첼Bauchel	麻花犬 / 麻花犬Máhuāquǎn	Fee
+0928		Olini	Smoliv	Olivini	ミニーブMinive	미니브Minibeu	迷你芙 / 迷你芙Mínǐfú	Pflanze Normal
+0929		Olivinio	Dolliv	Olivado	オリーニョOlinyo	올리뇨Ollinyo	奧利紐 / 奥利纽Àolìniǔ	Pflanze Normal
+0930		Olithena	Arboliva	Arboliva	オリーヴァOliva	올리르바Ollireuba	奧利瓦 / 奥利瓦Àolìwǎ	Pflanze Normal
+0931		Krawalloro	Squawkabilly	Tapatoès	イキリンコIkirinko	시비꼬Sibikko	怒鸚哥 / 怒鹦哥Nùyīnggē	Normal Flug
+0932		Geosali	Nacli	Selutin	コジオKojio	베베솔트Bebesolteu	鹽石寶 / 盐石宝Yánshíbǎo	Gestein
+0933		Sedisal	Naclstack	Amassel	ジオヅムJiodumu	스태솔트Seutaesolteu	鹽石壘 / 盐石垒Yánshílěi	Gestein
+0934		Saltigant	Garganacl	Gigansel	キョジオーンKyojiohn	콜로솔트Kollosolteu	鹽石巨靈 / 盐石巨灵Yánshíjùlíng	Gestein
+0935		Knarbon	Charcadet	Charbambin	カルボウCarbou	카르본Kareubon	炭小侍 / 炭小侍Tànxiǎoshì	Feuer
+0936		Crimanzo	Armarouge	Carmadura	グレンアルマGurenarma	카디나르마Kadinareuma	紅蓮鎧騎 / 红莲铠骑Hóngliánkǎiqí	Feuer Psycho
+0937		Azugladis	Ceruledge	Malvalame	ソウブレイズSoublades	파라블레이즈Parabeulleijeu	蒼炎刃鬼 / 蒼炎刃鬼Cāngyánrènguǐ	Feuer Geist
+0938		Blipp	Tadbulb	Têtampoule	ズピカZupika	빈나두Binnadu	光蚪仔 / 光蚪仔Guāngdǒuzǐ	Elektro
+0939		Wampitz	Bellibolt	Ampibidou	ハラバリーHarabarie	찌리배리Jjiribaeri	電肚蛙 / 电肚蛙Diàndùwā	Elektro
+0940		Voltrel	Wattrel	Zapétrel	カイデンKaiden	찌리비Jjiribi	電海燕 / 电海燕Diànhǎiyàn	Elektro Flug
+0941		Voltrean	Kilowattrel	Fulgulairo	タイカイデンTaikaiden	찌리비크Jjiribikeu	大電海燕 / 大电海燕Dàdiànhǎiyàn	Elektro Flug
+0942		Mobtiff	Maschiff	Grondogue	オラチフOrachifu	오라티프Oratipeu	偶叫獒 / 偶叫獒Ǒujiào'áo	Unlicht
+0943		Mastifioso	Mabosstiff	Dogrino	マフィティフMafitiff	마피티프Mapitipeu	獒教父 / 獒教父Áojiàofù	Unlicht
+0944		Sproxi	Shroodle	Gribouraigne	シルシュルーShirushrew	땃쭈르Ttatjjureu	滋汁鼴 / 滋汁鼹Zīzhīyǎn	Gift Normal
+0945		Affiti	Grafaiai	Tag-Tag	タギングルTaggingru	태깅구르Taeginggureu	塗標客 / 涂标客Túbiāokè	Gift Normal
+0946		Weherba	Bramblin	Virovent	アノクサAnokusa	그푸리Geupuri	納噬草 / 纳噬草Nàshìcǎo	Pflanze Geist
+0947		Horrerba	Brambleghast	Virevorreur	アノホラグサAnohoragusa	공푸리Gongpuri	怖納噬草 / 怖纳噬草Bùnàshìcǎo	Pflanze Geist
+0948		Tentagra	Toedscool	Terracool	ノノクラゲNonokurage	들눈해Deulnunhae	原野水母 / 原野水母Yuányěshuǐmǔ	Boden Pflanze
+0949		Tenterra	Toedscruel	Terracruel	リククラゲRikukurage	육파리Yukpari	陸地水母 / 陆地水母Lùdìshuǐmǔ	Boden Pflanze
+0950		Klibbe	Klawf	Craparoi	ガケガニGakegani	절벼게Jeolbyeoge	毛崖蟹 / 毛崖蟹Máoyáxiè	Gestein
+0951		Chilingel	Capsakid	Pimito	カプサイジCapsaiji	캡싸이Kaepssai	熱辣娃 / 热辣娃Rèlàwá	Pflanze
+0952		Halupenjo	Scovillain	Scovilain	スコヴィランScovillain	스코빌런Seukobilleon	狠辣椒 / 狠辣椒Hěnlàjiāo	Pflanze Feuer
+0953		Relluk	Rellor	Léboulérou	シガロコShigaroko	구르데Gureude	蟲滾泥 / 虫滚泥Chónggǔnní	Käfer
+0954		Skarabaks	Rabsca	Bérasca	ベラカスBeracas	베라카스Berakaseu	蟲甲聖 / 虫甲圣Chóngjiǎshèng	Käfer Psycho
+0955		Flattutu	Flittle	Flotillon	ヒラヒナHirahina	하느라기Haneuragi	飄飄雛 / 飘飘雏Piāopiāochú	Psycho
+0956		Psiopatra	Espathra	Cléopsytra	クエスパトラCuespatra	클레스퍼트라Keulleseupeoteura	超能豔鴕 / 超能艳鸵Chāonéngyàntuó	Psycho
+0957		Forgita	Tinkatink	Forgerette	カヌチャンKanuchan	어리짱Eorijjang	小鍛匠 / 小锻匠Xiǎoduàn	Fee Stahl
+0958		Tafforgita	Tinkatuff	Forgella	ナカヌチャンNakanuchan	벼리짱Byeorijjang	巧鍛匠 / 巧锻匠Qiǎoduànjiàng	Fee Stahl
+0959		Granforgita	Tinkaton	Forgelina	デカヌチャンDekanuchan?	두드리짱Dudeurijjang	巨鍛匠 / 巨锻匠Jùduànjiàng	Fee Stahl
+0960		Schligda	Wiglett	Taupikeau	ウミディグダUmidigda	바다그다Badageuda	海地鼠 / 海地鼠Hǎidìshǔ	Wasser
+0961		Schligdri	Wugtrio	Triopikeau	ウミトリオUmitrio	바닥트리오Badakteurio	三海地鼠 / 三海地鼠Sānhǎidìshǔ	Wasser
+0962		Adebom	Bombirdier	Lestombaile	オトシドリOtoshidori	떨구새Tteolgusae	下石鳥 / 下石鸟Xiàshíniǎo	Flug Unlicht
+0963		Normifin	Finizen	Dofin	ナミイルカNamiiruka	맨돌핀Maendolpin	波普海豚 / 波普海豚Bōpǔhǎitún	Wasser
+0964		Delfinator	Palafin	Superdofin	イルカマンIrukaman	돌핀맨Dolpinmaen	海豚俠 / 海豚侠Hǎitúnxiá	Wasser
+0965		Knattox	Varoom	Vrombi	ブロロンBuroron	부르롱Bureurong	噗隆隆 / 噗隆隆Pūlónglóng	Stahl Gift
+0966		Knattatox	Revavroom	Vrombotor	ブロロロームBurororoom	부르르룸Bureureurum	普隆隆姆 / 普隆隆姆Pǔlónglóngmǔ	Stahl Gift
+0967		Mopex	Cyclizar	Motorizard	モトトカゲMototokage	모토마Motoma	摩托蜥 / 摩托蜥Mótuōxī	Drache Normal
+0968		Schlurm	Orthworm	Ferdeter	ミミズズMimizuzu	꿈트렁Kkumteureong	拖拖蚓 / 拖拖蚓Tuōtuōyǐn	Stahl
+0969		Lumispross	Glimmet	Germéclat	キラーメKirame	초롱순Chorongsun	晶光芽 / 晶光芽Jīngguāngyá	Gestein Gift
+0970		Lumiflora	Glimmora	Floréclat	キラフロルKiraflor	킬라플로르Killapeulloreu	晶光花 / 晶光花Jīngguānghuā	Gestein Gift
+0971		Gruff	Greavard	Toutombe	ボチBochi	망망이Mangmangi	墓仔狗 / 墓仔狗Mùzǎigǒu	Geist
+0972		Friedwuff	Houndstone	Tomberro	ハカドッグHakadog	묘두기Myodugi	墓揚揚 / 墓扬犬Mùyángquǎn	Geist
+0973		Flaminkno	Flamigo	Flamenroule	カラミンゴKaramingo	꼬이밍고Kkoiminggo	纏紅鶴 / 缠红鹤Chánhónghè	Flug Kampf
+0974		Flaniwal	Cetoddle	Piétacé	アルクジラArukujira	터벅고래Teobeokgorae	走鯨 / 走鲸Zǒujīng	Eis
+0975		Kolowal	Cetitan	Balbalèze	ハルクジラHalkujira	우락고래Urakgorae	浩大鯨 / 浩大鲸Hàodàjīng	Eis
+0976		Agiluza	Veluza	Délestin	ミガルーサMigalusa	가비루사Gabirusa	輕身鱈 / 轻身鳕Qīngshēnxuě	Wasser Psycho
+0977		Heerashai	Dondozo	Oyacata	ヘイラッシャHeyrusher	어써러셔Eosseoreosyeo	吃吼霸 / 吃吼霸Chīhǒubà	Wasser
+0978		Nigiragi	Tatsugiri	Nigirigon	シャリタツSyaritatsu	싸리용Ssariyong	米立龍 / 米立龙Mǐlìlóng	Drache Wasser
+0979		Epitaff	Annihilape	Courrousinge	コノヨザルKonoyozaru	저승갓숭Jeoseunggatsung	棄世猴 / 弃世猴Qìshìhóu	Kampf Geist
+0980		Suelord	Clodsire	Terraiste	ドオーDooh	토오Too	土王 / 土王Tǔwáng	Gift Boden
+0981		Farigiraf	Farigiraf	Farigiraf	リキキリンRikikirin	키키링Kikiring	奇麒麟 / 奇麒麟Qíqílín	Normal Psycho
+0982		Dummimisel	Dudunsparce	Deusolourdo	ノココッチNokokochi	노고고치Nogogochi	土龍節節 / 土龙节节Tǔlóngjiéjié	Normal
+0983		Gladimperio	Kingambit	Scalpereur	ドドゲザンDodogezan	대도각참Daedogakcham	仆斬將軍 / 仆刀将军Pūzhǎnjiāngjūn / Pūdāojiāngjūn	Unlicht Stahl
+0984		Riesenzahn	Great Tusk	Fort-Ivoire	イダイナキバIdainakiba	위대한엄니Widaehaneomni	雄偉牙 / 雄伟牙Xióngwěiyá
+雄偉之牙 / 雄伟之牙Xióngwěi zhī Yá	Boden Kampf
+0985		Brüllschweif	Scream Tail	Hurle-Queue	サケブシッポSakebushippo	우렁찬꼬리Ureongchankkori	吼叫尾 / 吼叫尾Hǒujiàowěi	Fee Psycho
+0986		Wutpilz	Brute Bonnet	Fongus-Furie	アラブルタケAraburutake	사나운버섯Sanaunbeoseot	猛惡菇 / 猛恶菇Měng'ègū	Pflanze Unlicht
+0987		Flatterhaar	Flutter Mane	Flotte-Mèche	ハバタクカミHabatakukami	날개치는머리Nalgaechineunmeori	振翼髮 / 振翼发Zhènyìfà	Geist Fee
+0988		Kriechflügel	Slither Wing	Rampe-Ailes	チヲハウハネChiwohauhane	땅을기는날개Ttangeulgineunnalgae	爬地翅 / 爬地翅Pádìchì	Käfer Kampf
+0989		Sandfell	Sandy Shocks	Pelage-Sablé	スナノケガワSunanokegawa	모래털가죽Moraeteolgajuk	沙鐵皮 / 沙铁皮Shātiěpí	Elektro Boden
+0990		Eisenrad	Iron Treads	Roue-de-Fer	テツノワダチTetsunowadachi	무쇠바퀴Musoebakwi	鐵轍跡 / 铁辙迹Tiěchèjì
+鐵之轍跡 / 铁之辙迹Tiě zhī Chèjì	Boden Stahl
+0991		Eisenbündel	Iron Bundle	Hotte-de-Fer	テツノツツミTetsunotsutsumi	무쇠보따리Musoebottari	鐵包袱 / 铁包袱Tiěbāofú	Eis Wasser
+0992		Eisenhand	Iron Hands	Paume-de-Fer	テツノカイナTetsunokaina	무쇠손Musoeson	鐵臂膀 / 铁臂膀Tiěbìbǎng	Kampf Elektro
+0993		Eisenhals	Iron Jugulis	Têtes-de-Fer	テツノコウベTetsunokoube	무쇠머리Musoemeori	鐵脖頸 / 铁脖颈Tiěbójǐng	Unlicht Flug
+0994		Eisenfalter	Iron Moth	Mite-de-Fer	テツノドクガTetsunodokuga	무쇠독나방Musoedoknabang	鐵毒蛾 / 铁毒蛾Tiědú'é	Feuer Gift
+0995		Eisendorn	Iron Thorns	Épine-de-Fer	テツノイバラTetsunoibara	무쇠가시Musoegasi	鐵荊棘 / 铁荆棘Tiějīngjí	Gestein Elektro
+0996		Frospino	Frigibax	Frigodo	セビエSebie	드니차Deunicha	涼脊龍 / 凉脊龙Liángjǐlóng	Drache Eis
+0997		Cryospino	Arctibax	Cryodo	セゴールSegohru	드니꽁Deunikkong	凍脊龍 / 冻脊龙Dòngjǐlóng	Drache Eis
+0998		Espinodon	Baxcalibur	Glaivodo	セグレイブSeglaive	드닐레이브Deunilleibeu	戟脊龍 / 戟脊龙Jǐjǐlóng	Drache Eis
+0999		Gierspenst	Gimmighoul	Mordudor	コレクレーCollecurei	모으령Moeuryeong	索財靈 / 索财灵Suǒcáilíng	Geist
+1000		Monetigo	Gholdengo	Gromago	サーフゴーSurfugo	타부자고Tabujago	賽富豪 / 赛富豪Sàifùháo	Stahl Geist
+1001		Chongjian	Wo-Chien	Chongjian	チオンジェンChionjen	총지엔Chongjien	古簡蝸 / 古简蜗Gǔjiǎnwō	Unlicht Pflanze
+1002		Baojian	Chien-Pao	Baojian	パオジアンPaojian	파오젠Paojen	古劍豹 / 古剑豹Gǔjiànbào	Unlicht Eis
+1003		Dinglu	Ting-Lu	Dinglu	ディンルーDinlu	딩루Dingru	古鼎鹿 / 古鼎鹿Gǔdǐnglù	Unlicht Boden
+1004		Yuyu	Chi-Yu	Yuyu	イーユイYiyui	위유이Wiyui	古玉魚 / 古玉鱼Gǔyùyú	Unlicht Feuer
+1005		Donnersichel	Roaring Moon	Rugit-Lune	トドロクツキTodorokutsuki	고동치는달Godongchineundal	轟鳴月 / 轰鸣月Hōngmíngyuè	Drache Unlicht
+1006		Eisenkrieger	Iron Valiant	Garde-de-Fer	テツノブジンTetsunobujin	무쇠무인Musoemuin	鐵武者 / 铁武者Tiěwǔzhě	Fee Kampf
+1007		Koraidon	Koraidon	Koraidon	コライドンKoraidon	코라이돈Koraidon	故勒頓 / 故勒顿Gùlèdùn	Kampf Drache
+1008		Miraidon	Miraidon	Miraidon	ミライドンMiraidon	미라이돈Miraidon	密勒頓 / 密勒顿Mìlèdùn	Elektro Drache
+1009		Windewoge	Walking Wake	Serpente-Eau	ウネルミナモUneruminamo	굽이치는물결Gubichineunmulgyeol	波盪水 / 波荡水Bōdàngshuǐ	Wasser Drache
+1010		Eisenblatt	Iron Leaves	Vert-de-Fer	テツノイサハTetsunoisaha	무쇠잎새Musoeipsae	鐵斑葉 / 铁斑叶Tiěbānyè	Pflanze Psycho
+1011		Sirapfel	Dipplin	Pomdramour	カミッチュKamicchu	과미르Gwamireu	裹蜜蟲 / 裹蜜虫Guǒmìchóng	Pflanze Drache
+1012		Mortcha	Poltchageist	Poltchageist	チャデスChadeath	차데스Chadeseu	斯魔茶 / 斯魔茶Sīmóchá	Pflanze Geist
+1013		Fatalitcha	Sinistcha	Théffroyable	ヤバソチャYabasocha	그우린차Geuurincha	來悲粗茶 / 来悲粗茶Láibēicūchá	Pflanze Geist
+1014		Boninu	Okidogi	Félicanis	イイネイヌIineinu	조타구Jotagu	夠讚狗 / 够赞狗Gòuzàngǒu	Gift Kampf
+1015		Benesaru	Munkidori	Fortusimia	マシマシラMashimashira	이야후Iyahu	願增猿 / 愿增猿Yuànzēngyuán	Gift Psycho
+1016		Beatori	Fezandipiti	Favianos​	キチキギスKichikigisu	기로치Girochi	吉雉雞 / 吉雉鸡Jízhìjī	Gift Fee
+1017		Ogerpon	Ogerpon	Ogerpon​	オーガポンOgerpon	오거폰Ogeopon	厄鬼椪 / 厄诡椪Èguǐpèng	Pflanze
+1018		Briduradon	Archaludon	Pondralugon ​	ブリジュラスBriduras	브리두라스Beuriduraseu	鋁鋼橋龍 / 铝钢桥龙Lǚgāngqiáolóng	Stahl Drache
+1019		Hydrapfel	Hydrapple	Pomdorochi	カミツオロチKamitsuorochi	과미드라	蜜集大蛇 / 蜜集大蛇Mìjídàshé	Pflanze Drache
+1020		Keilflamme	Gouging Fire	Feu-Perçant	ウガツホムラUgatsuhomura	꿰뚫는화염	破空焰 / 破空焰Pòkōngyàn	Feuer Drache
+1021		Furienblitz	Raging Bolt	Ire-Foudre	タケルライコTakeruraiko	날뛰는우레Nalttwineunure	猛雷鼓 / 猛雷鼓Měngléigǔ	Elektro Drache
+1022		Eisenfels	Iron Boulder	Roc-de-Fer	テツノイワオTetsunoiwao	무쇠암석	鐵磐岩 / 铁磐岩Tiěpányán	Gestein Psycho
+1023		Eisenhaupt	Iron Crown	Chef-de-Fer	テツノカシラTetsunokashira	무쇠감투Musoegamtu	鐵頭殼 / 铁头壳Tiětóuké	Stahl Psycho
+1024		Terapagos	Terapagos	Terapagos​	テラパゴスTerapagos	테라파고스Terapagoseu	太樂巴戈斯 / 太乐巴戈斯Tàilèbāgēsī	Normal
+1025		Infamomo	Pecharunt	Pêchaminus​	モモワロウMomowarou	복숭악동	桃歹郎 / 桃歹郎Táodǎiláng	Gift Geist
