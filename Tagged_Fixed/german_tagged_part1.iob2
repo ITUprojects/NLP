@@ -97,7 +97,7 @@ erringen O
 kann O
 Ash B-PER
 und O
-Pikachu B-POKB-POK
+Pikachu B-POK
 treten O
 an O
 und O
@@ -254,7 +254,7 @@ erfährt O
 er O
 von O
 der O
-Menschenwelt P-LOC
+Menschenwelt B-LOC
 und O
 einem O
 Vorhaben O
@@ -1261,7 +1261,7 @@ Misty B-PER
 setzt O
 schließlich O
 ihr O
-Garados P-POK
+Garados B-POK
 ein O
 und O
 gewinnt O
@@ -2643,7 +2643,7 @@ auf O
 den O
 Weg O
 nach O
-Bad 
+Bad O
 Lavastadt B-LOC
 zu O
 Ashs B-PER
