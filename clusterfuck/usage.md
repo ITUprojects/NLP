@@ -212,7 +212,7 @@ By default, having `gres=gpu` means the system will randomly assign you a GPU. M
 #SBATCH --gres=gpu:a30:1
 ```
 
-This basically says that you will only accept A30 GPUs, and you only need 1 of them. Check out http://hpc.itu.dk/scheduling/templates/gpu/ for a list of GPUs you can request.
+This basically says that you will only accept A30 GPUs, and you only need 1 of them. Check out [hpc.itu.dk/scheduling/templates/gpu/](http://hpc.itu.dk/scheduling/templates/gpu/) for a list of GPUs you can request.
 Note that there are much fewer A30 GPUs that 1080 Tis. This means it might take longer for you job to start. Use the queue command to see if it has started yet. If it hasen't the remaining time will still be full, and it should says something in the "reason" field that explains what it is waiting for.
 
 ## step 6: long-running jobs
