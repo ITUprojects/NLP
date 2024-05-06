@@ -2,3 +2,4 @@ mbert-finetuned-ner
 mbert-trained-model
 
 **/__pycache__
+/Models
