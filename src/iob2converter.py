@@ -12,7 +12,6 @@ tag_to_id = {
 	'I-MISC': 8,
 	'B-POK': 9,
 	'I-POK': 10,
-	'-': 11,
 }
 id_to_tag = {id: tag for tag, id in tag_to_id.items()}
 
@@ -55,6 +54,13 @@ def iob2_to_dataset(fp):
 			)
 		current['index'].append(word_idx)
 		word_idx += 1
+	# the file does not end in a newline, so we need to append the last sentence
+	if word_idx != 0:
+		data['tokens'].append(current['tokens'])
+		data['ner_tags'].append(current['ner_tags'])
+		data['ner_tags_id'].append(current['ner_tags_id'])
+		data['index'].append(current['index'])
+		data['id'].append(str(sentence_idx))
 
 	features = Features(
 		{
