@@ -13,6 +13,12 @@ in pkgs.mkShell {
       python-pkgs.ipykernel
       python-pkgs.regex
       python-pkgs.notebook
+      python-pkgs.datasets
+      python-pkgs.transformers
+      python-pkgs.torch
+      python-pkgs.evaluate
+      python-pkgs.seqeval
+      python-pkgs.accelerate
     ]))
   ];
 }
