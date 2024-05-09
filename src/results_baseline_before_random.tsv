@@ -1,0 +1,4 @@
+train_lang	train_file	test_lang	precision	recall	f1	accuracy	span_f1
+baseline	None	german	0.0	0.0	0.0	0.2619047619047619	0.03636363636363636
+baseline	None	french	0.0	0.0	0.0	0.1349206349206349	0.0
+baseline	None	english	0.0	0.0	0.0	0.2222222222222222	0.0
