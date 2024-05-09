@@ -6963,7 +6963,7 @@ Overhearing O
 a O
 Professor B-PER
 named O
-Fennel B-PERSON
+Fennel B-PER
 and O
 her O
 Munna B-POK
@@ -7247,7 +7247,7 @@ girl O
 named O
 Bianca B-PER
 Professor B-PER
-Juniper B-PERSON
+Juniper B-PER
 has O
 asked O
 Bianca B-PER

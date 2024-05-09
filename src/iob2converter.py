@@ -73,3 +73,28 @@ def iob2_to_dataset(fp):
 	)
 	dataset_raw = Dataset.from_dict(data, features=features)
 	return dataset_raw
+
+
+# run on all files in the data directory
+# data directory is in parent directory
+import os
+
+data_dir = os.path.join(os.path.dirname(__file__), '..', 'data')
+tagged_sep_folder = os.path.join(data_dir, 'taggedseparated')
+
+english_folder = os.path.join(tagged_sep_folder, 'english')
+french_folder = os.path.join(tagged_sep_folder, 'french')
+german_folder = os.path.join(tagged_sep_folder, 'german')
+
+# check if all files in these folder are properly tagged
+for folder in [english_folder, french_folder, german_folder]:
+	for file in os.listdir(folder):
+		if not file.endswith('.iob2'):
+			continue
+		file_path = os.path.join(folder, file)
+		try:
+			dataset = iob2_to_dataset(file_path)
+		except ValueError as e:
+			print(f'Error in {file_path}: {e}')
+			continue
+		print(f'{file_path} is properly tagged.')
