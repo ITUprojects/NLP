@@ -1,7 +1,7 @@
 train_lang	train_file	test_lang	precision	recall	f1	accuracy	span_f1
-French	synopses_01.iob2	german	0.0	0.0	0.0	0.8968253968253969	0.0
-French	synopses_01.iob2	french	0.0	0.0	0.0	0.9206349206349206	0.0
-French	synopses_01.iob2	english	0.0	0.0	0.0	0.8809523809523809	0.0
+French	synopses_01.iob2	german	0.0	0.0	0.0	0.8571428571428571	0.0
+French	synopses_01.iob2	french	0.0	0.0	0.0	0.9047619047619048	0.0
+French	synopses_01.iob2	english	0.0	0.0	0.0	0.8888888888888888	0.0
 French	synopses_02.iob2	german	0.0	0.0	0.0	0.8809523809523809	0.0
 French	synopses_02.iob2	french	0.0	0.0	0.0	0.9206349206349206	0.0
 French	synopses_02.iob2	english	0.0	0.0	0.0	0.8888888888888888	0.0
