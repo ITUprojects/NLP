@@ -1,0 +1,2 @@
+eval_loss,eval_runtime,eval_samples_per_second,eval_steps_per_second,epoch
+3.9232494831085205,0.362,2.763,2.763,3.0
