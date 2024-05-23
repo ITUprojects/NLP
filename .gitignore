@@ -1,6 +1,6 @@
-mbert-finetuned-ner
-mbert-trained-model
+**/mbert-finetuned-ner
+**/mbert-trained-model
 
 **/__pycache__
-/Models
+**/Models
 venv
